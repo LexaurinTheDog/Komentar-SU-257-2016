@@ -149,9 +149,29 @@ Pravidla převažujícího účelu vyžadují **kvantitativní posouzení** — 
 >
 > *(1) Pro účely tohoto zákona se rozumí*
 >
-> *- a) poskytováním spotřebitelského úvěru — 1. nabízení možnosti sjednat spotřebitelský úvěr vlastním jménem a na vlastní účet, 2. předkládání návrhu na sjednání spotřebitelského úvěru vlastním jménem a na vlastní účet, 3. provádění přípravných prací směřujících vlastním jménem a na vlastní účet ke sjednání spotřebitelského úvěru, včetně poskytování doporučení vedoucího ke sjednání spotřebitelského úvěru, 4. sjednávání spotřebitelského úvěru vlastním jménem a na vlastní účet, nebo 5. výkon práv a plnění povinností ze smlouvy o spotřebitelském úvěru osobou, která spotřebitelský úvěr se spotřebitelem sjednala,*
+> *- a) poskytováním spotřebitelského úvěru*
 >
-> *- b) zprostředkováním spotřebitelského úvěru — 1. nabízení možnosti sjednat spotřebitelský úvěr jménem a na účet poskytovatele, nebo jménem a na účet spotřebitele, 2. předkládání návrhů na sjednání spotřebitelského úvěru jménem a na účet poskytovatele, nebo jménem a na účet spotřebitele, 3. provádění přípravných prací směřujících ke sjednání spotřebitelského úvěru jménem a na účet poskytovatele nebo jménem a na účet spotřebitele, včetně poskytování doporučení vedoucího ke sjednání spotřebitelského úvěru, 4. sjednávání spotřebitelského úvěru jménem a na účet poskytovatele, nebo jménem a na účet spotřebitele, nebo 5. výkon práv a plnění povinností ze smlouvy o zprostředkování spotřebitelského úvěru osobou, která smlouvu o zprostředkování spotřebitelského úvěru se spotřebitelem uzavřela,*
+> *- 1. nabízení možnosti sjednat spotřebitelský úvěr vlastním jménem a na vlastní účet,*
+>
+> *- 2. předkládání návrhu na sjednání spotřebitelského úvěru vlastním jménem a na vlastní účet,*
+>
+> *- 3. provádění přípravných prací směřujících vlastním jménem a na vlastní účet ke sjednání spotřebitelského úvěru, včetně poskytování doporučení vedoucího ke sjednání spotřebitelského úvěru,*
+>
+> *- 4. sjednávání spotřebitelského úvěru vlastním jménem a na vlastní účet, nebo*
+>
+> *- 5. výkon práv a plnění povinností ze smlouvy o spotřebitelském úvěru osobou, která spotřebitelský úvěr se spotřebitelem sjednala,*
+>
+> *- b) zprostředkováním spotřebitelského úvěru*
+>
+> *- 1. nabízení možnosti sjednat spotřebitelský úvěr jménem a na účet poskytovatele, nebo jménem a na účet spotřebitele,*
+>
+> *- 2. předkládání návrhů na sjednání spotřebitelského úvěru jménem a na účet poskytovatele, nebo jménem a na účet spotřebitele,*
+>
+> *- 3. provádění přípravných prací směřujících ke sjednání spotřebitelského úvěru jménem a na účet poskytovatele nebo jménem a na účet spotřebitele, včetně poskytování doporučení vedoucího ke sjednání spotřebitelského úvěru,*
+>
+> *- 4. sjednávání spotřebitelského úvěru jménem a na účet poskytovatele, nebo jménem a na účet spotřebitele, nebo*
+>
+> *- 5. výkon práv a plnění povinností ze smlouvy o zprostředkování spotřebitelského úvěru osobou, která smlouvu o zprostředkování spotřebitelského úvěru se spotřebitelem uzavřela,*
 >
 > *- c) posouzením úvěruschopnosti spotřebitele posouzení jeho schopnosti splácet spotřebitelský úvěr,*
 >
@@ -159,19 +179,49 @@ Pravidla převažujícího účelu vyžadují **kvantitativní posouzení** — 
 >
 > *- e) zprostředkovatelem ten, kdo jako podnikatel zprostředkovává spotřebitelský úvěr,*
 >
-> *- f) zastoupeným (...),*
+> *- f) zastoupeným v případě*
 >
-> *- g) identifikačními údaji (...),*
+> *- 1. vázaného zástupce ten, s nímž má vázaný zástupce uzavřenou smlouvu, na jejímž základě zprostředkovává spotřebitelský úvěr, a kdo je osobou oprávněnou poskytovat spotřebitelský úvěr nebo samostatným zprostředkovatelem, nebo*
 >
-> *- h) pracovníkem (...),*
+> *- 2. zprostředkovatele vázaného spotřebitelského úvěru ten, s nímž má zprostředkovatel vázaného spotřebitelského úvěru uzavřenou smlouvu, na jejímž základě zprostředkovává vázaný spotřebitelský úvěr, a kdo je poskytovatelem vázaného spotřebitelského úvěru,*
 >
-> *- i) skupinou odbornosti (...),*
+> *- g) identifikačními údaji*
+>
+> *- 1. u fyzické osoby jméno, popřípadě obchodní firma, adresa bydliště, datum narození a identifikační číslo osoby (dále jen „identifikační číslo“), bylo-li jí přiděleno; u fyzické osoby usazené v jiném než členském státě, není-li podle zákona o pobytu cizinců na území České republiky občanem členského státu Evropské unie nebo jiného smluvního státu Dohody o Evropském hospodářském prostoru (dále jen „členský stát“) nebo jeho rodinným příslušníkem, též místo trvalého nebo dlouhodobého pobytu v České republice,*
+>
+> *- 2. u právnické osoby obchodní firma nebo název, její sídlo, identifikační číslo, bylo-li jí přiděleno; u právnické osoby se sídlem v třetím státě též adresa pobočky obchodního závodu umístěné v České republice,*
+>
+> *- h) pracovníkem osoba, která je s poskytovatelem nebo zprostředkovatelem spotřebitelského úvěru v pracovněprávním vztahu, anebo člen statutárního orgánu nebo správní rady poskytovatele nebo zprostředkovatele spotřebitelského úvěru, nebo prokurista, pokud se přímo podílejí na poskytování nebo zprostředkování spotřebitelského úvěru, nebo jsou za poskytování nebo zprostředkování spotřebitelského úvěru zodpovědní,*
+>
+> *- i) skupinou odbornosti poskytování nebo zprostředkování*
+>
+> *- 1. spotřebitelského úvěru jiného než na bydlení,*
+>
+> *- 2. vázaného spotřebitelského úvěru, nebo*
+>
+> *- 3. spotřebitelského úvěru na bydlení,*
 >
 > *- j) kapitálem nebankovního poskytovatele spotřebitelského úvěru vlastní kapitál snížený o pohledávky z nesplaceného základního kapitálu, o pohledávky z nesplaceného emisního ážia a o pohledávky z nesplacených příplatků do fondů,*
 >
-> *- k) počátečním kapitálem (...) [součet pěti složek dle bodů 1–5],*
+> *- k) počátečním kapitálem součet*
 >
-> *- l)–o) domovský/hostitelský členský stát, příslušný orgán dohledu, zahraniční zprostředkovatel (...).*
+> *- 1. splaceného základního kapitálu,*
+>
+> *- 2. splaceného emisního ážia,*
+>
+> *- 3. povinných rezervních fondů,*
+>
+> *- 4. ostatních fondů vytvořených z rozdělení zisku, které lze použít výhradně k úhradě ztráty uvedené v účetní závěrce, a*
+>
+> *- 5. rozdílu nerozděleného zisku z předchozích období, uvedeného v účetní závěrce ověřené auditorem a schválené příslušným orgánem právnické osoby, o jehož rozdělení příslušný orgán právnické osoby nerozhodl, a neuhrazené ztráty z předchozích období včetně ztráty za minulá účetní období,*
+>
+> *- l) zahraničním zprostředkovatelem zprostředkovatel s domovským členským státem jiným než Česká republika, který je oprávněn zprostředkovávat spotřebitelský úvěr na bydlení,*
+>
+> *- m) domovským členským státem členský stát, ve kterém má zprostředkovatel, který je oprávněn zprostředkovávat spotřebitelský úvěr na bydlení, své sídlo nebo skutečné sídlo,*
+>
+> *- n) hostitelským členským státem členský stát odlišný od domovského členského státu, ve kterém zprostředkovatel spotřebitelského úvěru na bydlení má pobočku, nebo ve kterém dočasně jinak zprostředkovává spotřebitelský úvěr na bydlení,*
+>
+> *- o) příslušným orgánem dohledu orgán jiného členského státu, který je oprávněn vykonávat dohled nad zprostředkováním spotřebitelského úvěru na bydlení a který byl jako příslušný orgán oznámen Evropské komisi.*
 >
 > *(2) Pro účely tohoto zákona se rozumí*
 >
@@ -185,23 +235,39 @@ Pravidla převažujícího účelu vyžadují **kvantitativní posouzení** — 
 >
 > *- e) celkovou výší spotřebitelského úvěru souhrn všech částek, jež jsou dány spotřebiteli k dispozici,*
 >
-> *- f) zápůjční úrokovou sazbou (...) pevnou (...) pohyblivou (...),*
+> *- f) zápůjční úrokovou sazbou úroková sazba vyjádřená jako pevná nebo pohyblivá procentní sazba uplatňovaná ročně na čerpanou výši spotřebitelského úvěru,*
 >
-> *- h) možností přečerpání (...),*
+> *- g) pevnou zápůjční úrokovou sazbou jediná zápůjční úroková sazba sjednaná mezi poskytovatelem a spotřebitelem na celou dobu trvání spotřebitelského úvěru nebo více zápůjčních úrokových sazeb stanovených pro dílčí období výhradně neměnnou konkrétní procentní hodnotou; nejsou-li ve smlouvě o spotřebitelském úvěru jiném než na bydlení stanoveny všechny zápůjční úrokové sazby, považuje se pro účely spotřebitelského úvěru jiného než na bydlení zápůjční úroková sazba za pevně stanovenou pouze pro dílčí období, pro která jsou zápůjční úrokové sazby stanoveny výhradně neměnnou konkrétní procentní hodnotou sjednanou při uzavření této smlouvy,*
 >
-> *- i) překročením (...),*
+> *- h) možností přečerpání výslovné ujednání smluvních stran o zpřístupnění peněžních prostředků, které přesahují aktuální zůstatek na platebním účtu spotřebitele,*
 >
-> *- j) referenční úrokovou sazbou (...),*
+> *- i) překročením faktické zpřístupnění více peněžních prostředků, než je zůstatek na platebním účtu nebo než je smluvená možnost přečerpání,*
 >
-> *- k) trvalým nosičem dat (...),*
+> *- j) referenční úrokovou sazbou úroková sazba, která se použije jako základ pro výpočet jakéhokoli úroku, jenž má být uplatněn, a která pochází z veřejně přístupného zdroje a kterou mohou strany smlouvy ověřit, avšak nemohou ji jakkoliv přímo ovlivnit,*
 >
-> *- l) spotřebitelským úvěrem v cizí měně (...),*
+> *- k) trvalým nosičem dat jakýkoli nástroj, který umožňuje spotřebiteli uchování informací určených jemu osobně tak, aby mohly být využívány po dobu přiměřenou účelu těchto informací, a který umožňuje reprodukci těchto informací v nezměněné podobě,*
 >
-> *- m) překlenovacím úvěrem (...),*
+> *- l) spotřebitelským úvěrem v cizí měně spotřebitelský úvěr na bydlení, který je v okamžiku uzavření smlouvy o spotřebitelském úvěru na bydlení vyjádřen v jiné měně, než*
 >
-> *- n) podmíněným závazkem nebo zárukou (...),*
+> *- 1. ve které má spotřebitel příjem, z něhož má být spotřebitelský úvěr splácen,*
 >
-> *- o) spotřebitelským úvěrem na bydlení s podílem na hodnotě nemovitosti (...).*
+> *- 2. ve které spotřebitel drží aktiva, z nichž má být spotřebitelský úvěr splácen, nebo*
+>
+> *- 3. v měně členského státu, v němž má spotřebitel bydliště,*
+>
+> *- m) překlenovacím úvěrem spotřebitelský úvěr na bydlení, jehož účelem je dočasné finanční řešení situace spotřebitele při přechodu k jinému spotřebitelskému úvěru na bydlení a který*
+>
+> *- 1. nemá pevně stanovenou dobu trvání, nebo*
+>
+> *- 2. má být splacen během 12 měsíců,*
+>
+> *- n) podmíněným závazkem nebo zárukou spotřebitelský úvěr na bydlení podle § 2 odst. 2 písm. a), který*
+>
+> *- 1. zajišťuje jiný závazek a*
+>
+> *- 2. umožňuje čerpání jistiny pouze při splnění podmínky stanovené ve smlouvě,*
+>
+> *- o) spotřebitelským úvěrem na bydlení s podílem na hodnotě nemovitosti spotřebitelský úvěr, u něhož je jistina, která má být splacena, určena na základě smluvně stanoveného procentního podílu z hodnoty nemovitosti v okamžiku splácení jistiny.*
 
 **Výklad:**
 
@@ -375,35 +441,39 @@ Hranicí je **účelové kritérium** — jakmile poskytovatel informací cílí
 
 ### §§ 5–6 — Omezení působnosti (částečné výjimky)
 
-> **§ 5**
+> *(1) Tento zákon se nepoužije na spotřebitelský úvěr*
+> *- a) jiný než na bydlení, který byl sjednán s obchodníkem s cennými papíry, bankou, zahraniční bankou nebo zahraniční osobou, která je oprávněna poskytovat investiční služby, jehož účelem je provedení operace s investičním nástrojem3), s tím, že obchodník s cennými papíry, banka, zahraniční banka nebo zahraniční osoba, která je oprávněna poskytovat investiční služby, jsou do této operace zapojeni,*
+> *- b) jiný než na bydlení, sjednaný v podobě průběžného poskytování služby nebo dodávání zboží stejného druhu, za které spotřebitel může platit v průběhu jejich poskytování nebo dodávání formou splátek,*
+> *- c) který byl sjednán s poskytovatelem provozujícím zastavárenský závod, při jehož poskytnutí je poskytovateli přenechána movitá věc a poskytovateli nevzniká právo na vrácení peněz.*
 >
-> *(1) Pouze § 1 až 4, § 122 až 124 a § 168 se použijí na spotřebitelský úvěr*
+> *(2) Tento zákon se nepoužije na poskytování informací a doporučení v rámci činnosti osoby oprávněné k výkonu advokacie podle zákona upravujícího výkon advokacie nebo notáře podle zákona upravujícího činnost notářů.*
 >
-> *- a) jiný než na bydlení, sjednaný v podobě nájmu věci nebo leasingu s výjimkou závazků, u nichž je sjednáno právo nebo povinnost koupě předmětu smlouvy nebo jiná možnost nabytí vlastnického práva po uplynutí určité doby,*
+> *(3) Tento zákon se nepoužije na poskytování informací a doporučení v rámci řízení stávajícího dluhu při provozování*
+> *- a) činnosti insolvenčního správce,*
+> *- b) činnosti bezplatného dluhového poradenství v rámci dobrovolnické služby podle zákona upravujícího dobrovolnickou službu, nebo*
+> *- c) sociální služby podle zákona upravujícího sociální služby.*
 >
-> *- b) poskytovaný zaměstnavatelem jeho zaměstnancům jako vedlejší činnost s roční procentní sazbou nákladů nižší, než je roční procentní sazba nákladů spotřebitelských úvěrů obvykle nabízených na trhu, a který není obecně nabízen veřejnosti,*
+> *(4) Tento zákon se nepoužije na*
+> *- a) příležitostné poskytování informací o produktech spotřebitelského úvěru v rámci jiné profesní činnosti, nebo*
+> *- b) pouhé poskytování obecných informací o produktech spotřebitelského úvěru, nebo obdobných informacích o poskytovatelích nebo zprostředkovatelích za předpokladu, že účelem takové činnosti není napomáhat uzavření nebo plnění ze smlouvy o spotřebitelském úvěru.*
+> *Omezení působnosti*
 >
-> *- c) s výjimkou spotřebitelského úvěru na bydlení podle § 2 odst. 2 písm. a), v podobě bezplatného odložení platby stávajícího dluhu,*
+> *(1) Tento zákon se nepoužije na spotřebitelský úvěr*
+> *- a) jiný než na bydlení, který byl sjednán s obchodníkem s cennými papíry, bankou, zahraniční bankou nebo zahraniční osobou, která je oprávněna poskytovat investiční služby, jehož účelem je provedení operace s investičním nástrojem3), s tím, že obchodník s cennými papíry, banka, zahraniční banka nebo zahraniční osoba, která je oprávněna poskytovat investiční služby, jsou do této operace zapojeni,*
+> *- b) jiný než na bydlení, sjednaný v podobě průběžného poskytování služby nebo dodávání zboží stejného druhu, za které spotřebitel může platit v průběhu jejich poskytování nebo dodávání formou splátek,*
+> *- c) který byl sjednán s poskytovatelem provozujícím zastavárenský závod, při jehož poskytnutí je poskytovateli přenechána movitá věc a poskytovateli nevzniká právo na vrácení peněz.*
 >
-> *- d) jiný než na bydlení, poskytovaný omezenému okruhu osob ve veřejném zájmu na základě jiného právního předpisu bezúročně nebo se zápůjční úrokovou sazbou nižší, než je na trhu obvyklé, nebo*
+> *(2) Tento zákon se nepoužije na poskytování informací a doporučení v rámci činnosti osoby oprávněné k výkonu advokacie podle zákona upravujícího výkon advokacie nebo notáře podle zákona upravujícího činnost notářů.*
 >
-> *- e) obsažený ve smíru uzavřeném před soudem nebo jiným příslušným orgánem.*
+> *(3) Tento zákon se nepoužije na poskytování informací a doporučení v rámci řízení stávajícího dluhu při provozování*
+> *- a) činnosti insolvenčního správce,*
+> *- b) činnosti bezplatného dluhového poradenství v rámci dobrovolnické služby podle zákona upravujícího dobrovolnickou službu, nebo*
+> *- c) sociální služby podle zákona upravujícího sociální služby.*
 >
-> *(2) Na spotřebitelský úvěr na bydlení poskytovaný omezenému okruhu osob ve veřejném zájmu (...) se použije pouze § 1 až 4, § 90, 91, § 94 až 100, § 122 až 124 a § 168.*
->
-> *(3) Na spotřebitelský úvěr poskytnutý bez úroku a jakékoli úplaty jiné než úhrady účelně vynaložených nákladů přímo spojených se zajištěním spotřebitelského úvěru se použijí pouze § 1 až 4, § 122 až 124 a § 168.*
->
-> *(4) Na dohodu, kterou se za účelem odvrácení řízení o nárocích věřitele odkládá v důsledku prodlení spotřebitele platba nebo mění způsob splácení (...), se použijí pouze [vybraná ustanovení uvedená taxativně].*
->
-> **§ 6**
->
-> *(1) Na spotřebitelský úvěr ve formě možnosti přečerpání splatný do 1 měsíce ode dne poskytnutí se použijí pouze [vybraná ustanovení].*
->
-> *(2) Na spotřebitelský úvěr jiný než na bydlení ve formě možnosti přečerpání splatný na požádání nebo do 3 měsíců ode dne poskytnutí se použijí pouze [vybraná ustanovení].*
->
-> *(3) Na spotřebitelský úvěr ve formě překročení se použijí pouze § 1 až 83, § 108, § 112 až 114 a § 121 až 177.*
->
-> *(4) Na spotřebitelský úvěr na bydlení podle § 2 odst. 2 písm. a) se nepoužije povinnost uvádět roční procentní sazbu nákladů, jestliže (...) [úvěr s podílem na hodnotě nemovitosti].*
+> *(4) Tento zákon se nepoužije na*
+> *- a) příležitostné poskytování informací o produktech spotřebitelského úvěru v rámci jiné profesní činnosti, nebo*
+> *- b) pouhé poskytování obecných informací o produktech spotřebitelského úvěru, nebo obdobných informacích o poskytovatelích nebo zprostředkovatelích za předpokladu, že účelem takové činnosti není napomáhat uzavření nebo plnění ze smlouvy o spotřebitelském úvěru.*
+> *Omezení působnosti*
 
 **Výklad:**
 
@@ -649,31 +719,15 @@ Návrh interních pravidel jednání se zájemci a klienty (předsmluvní postup
 
 > **§ 11**
 >
-> *(1) Žádost o udělení oprávnění k činnosti nebankovního poskytovatele spotřebitelského úvěru lze podat pouze elektronicky. (...)*
+> *(1) Žádost o udělení oprávnění k činnosti nebankovního poskytovatele spotřebitelského úvěru lze podat pouze elektronicky. Žádost obsahuje, vedle náležitostí stanovených správním řádem, též údaje o splnění podmínek pro činnost nebankovního poskytovatele spotřebitelského úvěru stanovených tímto zákonem. K žádosti se připojí doklady prokazující splnění těchto podmínek.*
 >
 > *(2) Rozhodnutí o žádosti podle odstavce 1 Česká národní banka vydá do 4 měsíců ode dne zahájení řízení.*
 >
-> *(3) Vyhoví-li Česká národní banka žádosti podle odstavce 1 v plném rozsahu, zapíše nebankovního poskytovatele spotřebitelského úvěru do registru osob oprávněných v oblasti spotřebitelského úvěru k činnostem podle tohoto zákona (dále jen „registr"). Rozhodnutí se v takovém případě písemně nevyhotovuje. Rozhodnutí nabývá právní moci okamžikem zápisu nebankovního poskytovatele spotřebitelského úvěru do registru. (...)*
+> *(3) Vyhoví-li Česká národní banka žádosti podle odstavce 1 v plném rozsahu, zapíše nebankovního poskytovatele spotřebitelského úvěru do registru osob oprávněných v oblasti spotřebitelského úvěru k činnostem podle tohoto zákona (dále jen „registr“). Rozhodnutí se v takovém případě písemně nevyhotovuje. Rozhodnutí nabývá právní moci okamžikem zápisu nebankovního poskytovatele spotřebitelského úvěru do registru. O zápisu nebankovního poskytovatele spotřebitelského úvěru do registru Česká národní banka neprodleně elektronicky informuje žadatele.*
 >
 > *(4) Pokud Česká národní banka žádosti o udělení oprávnění k činnosti nebankovního poskytovatele spotřebitelského úvěru nevyhoví, žádost zamítne.*
 >
-> **§ 12**
->
-> *(1) Oprávnění k činnosti nebankovního poskytovatele spotřebitelského úvěru trvá do konce pátého kalendářního roku následujícího po kalendářním roce, ve kterém byl nebankovní poskytovatel spotřebitelského úvěru zapsán do registru.*
->
-> *(2) Oprávnění k činnosti nebankovního poskytovatele spotřebitelského úvěru se prodlužuje vždy o dalších 60 měsíců zaplacením správního poplatku.*
->
-> **§ 13**
->
-> *(1) Oprávnění k činnosti nebankovního poskytovatele spotřebitelského úvěru zaniká*
->
-> *- a) zánikem právnické osoby,*
->
-> *- b) oznámením o ukončení činnosti,*
->
-> *- c) uplynutím doby trvání oprávnění, nebo*
->
-> *- d) odnětím (§ 146).*
+> *(5) Podrobnosti náležitostí žádosti, včetně příloh osvědčujících splnění podmínek pro činnost nebankovního poskytovatele spotřebitelského úvěru stanovených tímto zákonem, její formáty a další technické náležitosti stanoví prováděcí právní předpis.*
 
 **Výklad:**
 
@@ -769,7 +823,7 @@ Roční výkaz do **31. března** zahrnuje:
 >
 > *- k) kontrolní a bezpečnostní opatření při zpracování a evidenci informací,*
 >
-> *- l) pravidla kontroly činnosti osob, jejichž prostřednictvím nebankovní poskytovatel spotřebitelského úvěru poskytuje spotřebitelský úvěr (...).*
+> *- l) pravidla kontroly činnosti osob, jejichž prostřednictvím nebankovní poskytovatel spotřebitelského úvěru poskytuje spotřebitelský úvěr, zejména se zaměřením na kontrolu řádného dodržování pravidel jednání stanovených tímto zákonem, která zajišťují řádné plnění podmínek stanovených tímto zákonem těmito osobami a řádný výkon jejich činnosti.*
 >
 > *(3) Opatření podle odstavce 2 písm. h) zohledňují mimo jiné situaci spotřebitele a mohou spočívat například v*
 >
@@ -786,6 +840,8 @@ Roční výkaz do **31. března** zahrnuje:
 > *- 4. změna měny, v níž je spotřebitelský úvěr vyjádřen, nebo*
 >
 > *- 5. jiná změna splácení spotřebitelského úvěru.*
+>
+> *(4) Nebankovní poskytovatel spotřebitelského úvěru je povinen průběžně ověřovat a pravidelně hodnotit přiměřenost a účinnost zavedených postupů a pravidel.*
 
 **Výklad:**
 
@@ -915,7 +971,9 @@ Samostatný zprostředkovatel může mít **současně více vztahů s různými
 >
 > *- e) údaje uvedené v žádosti umožňují identifikaci žadatele v příslušném základním registru.*
 >
-> *(...) (3) Česká národní banka udělí oprávnění k činnosti samostatného zprostředkovatele žadateli také tehdy, pokud je bankou a v bankovní licenci má povolenu činnost finanční makléřství.*
+> *(2) Odstavec 1 písm. a) se nepoužije, jestliže z mezinárodní smlouvy, která je součástí právního řádu, vyplývá povinnost umožnit žadateli zprostředkovávat v České republice spotřebitelský úvěr za obdobných podmínek jako osobám se sídlem v České republice.*
+>
+> *(3) Česká národní banka udělí oprávnění k činnosti samostatného zprostředkovatele žadateli také tehdy, pokud je bankou a v bankovní licenci má povolenu činnost finanční makléřství.*
 
 **Výklad:**
 
@@ -1195,9 +1253,9 @@ Pozornost si zaslouží **vyloučení bank, družstevních záložen a instituc�
 >
 > *- 1. územní rozsah jeho činnosti,*
 >
-> *- 2. údaj o tom, zda je jeho činnost provozována v hostitelském členském státě (...),*
+> *- 2. údaj o tom, zda je jeho činnost provozována v hostitelském členském státě; pokud ano, údaj o tom, zda je provozována prostřednictvím pobočky nebo jinak než prostřednictvím pobočky, a*
 >
-> *- 3. adresa pobočky (...),*
+> *- 3. adresa pobočky, je-li jeho činnost provozována v hostitelském členském státě prostřednictvím pobočky,*
 >
 > *- g) datum zániku oprávnění k činnosti a jeho důvod,*
 >
@@ -1207,7 +1265,21 @@ Pozornost si zaslouží **vyloučení bank, družstevních záložen a instituc�
 >
 > *- j) datum vstupu právnické osoby do likvidace.*
 >
-> *(2) U zahraničního zprostředkovatele se do registru zapisují (...) [identifikační údaje, charakter činnosti, údaje o pobočce, úpadek, likvidace, ukončení činnosti].*
+> *(2) U zahraničního zprostředkovatele se do registru zapisují následující údaje včetně jejich změn*
+>
+> *- a) identifikační údaje,*
+>
+> *- b) údaje o charakteru provozované činnosti a osoby, pro které je činný,*
+>
+> *- c) údaje o tom, zda je jeho činnost provozována prostřednictvím pobočky nebo jiným způsobem; je-li jeho činnost provozována prostřednictvím pobočky, zapisuje se adresa umístění pobočky v České republice,*
+>
+> *- d) datum nabytí právní moci rozhodnutí o úpadku,*
+>
+> *- e) datum vstupu do likvidace a*
+>
+> *- f) údaje o ukončení činnosti.*
+>
+> *(3) Zápis údajů podle odstavce 2 do registru provede Česká národní banka na základě informací předaných jí příslušným orgánem dohledu domovského členského státu zahraničního zprostředkovatele. Do registru mohou být zapsány i jiné údaje, pokud byly příslušným orgánem dohledu domovského členského státu zahraničního zprostředkovatele poskytnuty.*
 
 **Výklad:**
 
@@ -1271,12 +1343,6 @@ Tyto údaje slouží jen jako **informační** (varovné) a jejich nesoulad se s
 > *- e) u zahraničního zprostředkovatele též údaj o registru, ve kterém je zapsán ve svém domovském členském státě, a*
 >
 > *- f) datum vystavení výpisu.*
->
-> **§ 59**
->
-> *(1) Nebankovní poskytovatel spotřebitelského úvěru, samostatný zprostředkovatel, zastoupený ohledně údajů týkajících se jeho vázaného zástupce nebo zprostředkovatele vázaného spotřebitelského úvěru oznámí bez zbytečného odkladu České národní bance změnu údajů (...).*
->
-> *(4) Změny údajů vedených v registru je Česká národní banka povinna provést do 5 pracovních dnů ode dne, kdy se o změně dozvěděla, pokud změna není důvodem k odnětí oprávnění k činnosti.*
 
 **Výklad:**
 

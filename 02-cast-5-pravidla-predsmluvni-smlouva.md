@@ -22,11 +22,67 @@
 >
 > *(4) Odbornými znalostmi a dovednostmi pro poskytování nebo zprostředkování spotřebitelského úvěru se pro účely tohoto zákona rozumí pro skupinu odbornosti*
 >
-> *- a) poskytování nebo zprostředkování spotřebitelského úvěru jiného než na bydlení [...]*
+> *- a) poskytování nebo zprostředkování spotřebitelského úvěru jiného než na bydlení*
 >
-> *- b) poskytování nebo zprostředkování vázaného spotřebitelského úvěru [...]*
+> *- 1. znalosti v rozsahu odborného minima o finančním trhu,*
 >
-> *- c) poskytování nebo zprostředkování spotřebitelského úvěru na bydlení [...]*
+> *- 2. základní znalosti o struktuře, subjektech a fungování trhu spotřebitelského úvěru jiného než na bydlení,*
+>
+> *- 3. znalosti regulace trhu spotřebitelského úvěru jiného než na bydlení,*
+>
+> *- 4. znalosti etických standardů trhu spotřebitelského úvěru jiného než na bydlení, pokud existují,*
+>
+> *- 5. znalosti úvěrování a produktů spotřebitelského úvěru jiného než na bydlení,*
+>
+> *- 6. znalosti doplňkových služeb souvisejících se spotřebitelským úvěrem jiným než na bydlení,*
+>
+> *- 7. základní znalosti zásad procesu posuzování úvěruschopnosti spotřebitele a*
+>
+> *- 8. schopnosti řádně produkty spotřebitelského úvěru spotřebiteli vysvětlit, provést základní analýzu produktů spotřebitelského úvěru a nabídnout spotřebiteli produkt, který vyhovuje jeho potřebám,*
+>
+> *- b) poskytování nebo zprostředkování vázaného spotřebitelského úvěru*
+>
+> *- 1. znalosti v rozsahu odborného minima o finančním trhu,*
+>
+> *- 2. základní znalosti o struktuře, subjektech a fungování trhu vázaného spotřebitelského úvěru,*
+>
+> *- 3. znalosti regulace trhu vázaného spotřebitelského úvěru,*
+>
+> *- 4. znalosti etických standardů trhu vázaného spotřebitelského úvěru, pokud existují,*
+>
+> *- 5. znalosti úvěrování a produktů vázaného spotřebitelského úvěru,*
+>
+> *- 6. znalosti doplňkových služeb souvisejících s vázaným spotřebitelským úvěrem,*
+>
+> *- 7. základní znalosti zásad procesu posuzování úvěruschopnosti spotřebitele a*
+>
+> *- 8. schopnosti řádně produkty spotřebitelského úvěru spotřebiteli vysvětlit, provést základní analýzu produktů spotřebitelského úvěru a nabídnout spotřebiteli produkt, který vyhovuje jeho potřebám,*
+>
+> *- c) poskytování nebo zprostředkování spotřebitelského úvěru na bydlení*
+>
+> *- 1. znalosti v rozsahu odborného minima o finančním trhu,*
+>
+> *- 2. základní znalosti o struktuře, subjektech a fungování trhu spotřebitelského úvěru na bydlení,*
+>
+> *- 3. znalosti regulace trhu spotřebitelského úvěru na bydlení,*
+>
+> *- 4. znalosti etických standardů trhu spotřebitelského úvěru na bydlení, pokud existují,*
+>
+> *- 5. znalosti úvěrování a produktů spotřebitelského úvěru na bydlení,*
+>
+> *- 6. znalosti doplňkových služeb souvisejících se spotřebitelským úvěrem na bydlení,*
+>
+> *- 7. základní znalosti zásad procesu posuzování úvěruschopnosti spotřebitele,*
+>
+> *- 8. základní znalosti zásad postupu a způsobu oceňování věcí, práv a jiných majetkových hodnot poskytnutých jako zajištění spotřebitelského úvěru na bydlení,*
+>
+> *- 9. znalosti trhu nemovitých věcí,*
+>
+> *- 10. znalosti postupu při koupi nemovité věci,*
+>
+> *- 11. základní znalosti uspořádání a fungování katastru nemovitostí a*
+>
+> *- 12. schopnosti řádně produkty spotřebitelského úvěru spotřebiteli vysvětlit, provést základní analýzu produktů spotřebitelského úvěru a nabídnout spotřebiteli produkt, který vyhovuje jeho potřebám.*
 >
 > *(5) Skupina odbornosti uvedená v odstavci 4 písm. a) zahrnuje také skupinu odbornosti uvedenou v odstavci 4 písm. b).*
 >
@@ -391,9 +447,25 @@ Osvědčení o úspěšném vykonání odborné zkoušky je **listinný (nebo el
 >
 > *- b) ohledně jejíhož majetku bylo v posledních 5 letech před rozhodným dnem, nebo kdykoliv poté vydáno rozhodnutí o úpadku,*
 >
-> *- c) která byla v posledních 5 letech před rozhodným dnem, nebo kdykoliv poté členem statutárního nebo dozorčího orgánu nebo správní rady nebo jiného obdobného orgánu právnické osoby [zúčastněné na úpadku] [...]*
+> *- c) která byla v posledních 5 letech před rozhodným dnem, nebo kdykoliv poté členem statutárního nebo dozorčího orgánu nebo správní rady nebo jiného obdobného orgánu právnické osoby,*
+>
+> *- 1. ohledně jejíhož majetku bylo vydáno rozhodnutí o úpadku,*
+>
+> *- 2. na jejíž majetek byl prohlášen konkurs,*
+>
+> *- 3. byl-li insolvenční návrh na majetek takové právnické osoby zamítnut proto, že majetek této právnické osoby nepostačuje k úhradě nákladů insolvenčního řízení, nebo*
+>
+> *- 4. byl-li konkurs na její majetek zrušen proto, že majetek právnické osoby je zcela nepostačující, nebo*
 >
 > *- d) které bylo v posledních 5 letech před rozhodným dnem odňato oprávnění k činnosti pro porušení podmínek stanovených tímto zákonem.*
+>
+> *(3) Odstavec 2 písm. b) nebo c) se nepoužije, jestliže fyzická osoba splňuje podmínky uvedené v odstavci 1, a*
+>
+> *- a) v odstavci 2 písm. b) nebo c) a zároveň insolvenční soud zrušil konkurs jinak než usnesením o zrušení konkursu po splnění rozvrhového usnesení nebo jinak než proto, že majetek dlužníka je zcela nepostačující, nebo soud zamítl insolvenční návrh jinak než proto, že její majetek nepostačuje k úhradě nákladů insolvenčního řízení,*
+>
+> *- b) v odstavci 2 písm. c) a zároveň jde o osobu, která byla zvolena do funkce již za úpadku právnické osoby, nebo*
+>
+> *- c) v odstavci 2 písm. c) a zároveň jde o osobu, která se domůže v řízení podle zákona upravujícího zvláštní řízení soudní určení, že dosavadní funkci vykonávala s péčí řádného hospodáře.*
 
 **Výklad:**
 
@@ -673,11 +745,15 @@ Pravidlo nedopadá na úvěr ze **stavebního spoření** podle zákona č. 96/1
 
 #### § 84 — Informace poskytované spotřebitelem
 
-> **§ 84** *(zkráceně)*
+> **§ 84**
 >
-> *(1) Poskytovatel a zprostředkovatel před poskytnutím rady podle § 85 odst. 1 nebo posouzením úvěruschopnosti spotřebitele podle § 86 zveřejní nebo spotřebiteli sdělí, jaké informace a doklady [...] musí spotřebitel poskytnout [...]. Tyto informace musí být přiměřené a nezbytné.*
+> *(1) Poskytovatel a zprostředkovatel před poskytnutím rady podle § 85 odst. 1 nebo posouzením úvěruschopnosti spotřebitele podle § 86 zveřejní nebo spotřebiteli sdělí, jaké informace a doklady pro jejich ověření musí spotřebitel poskytovateli nebo zprostředkovateli poskytnout za účelem posouzení jeho úvěruschopnosti a poskytnutí rady ohledně výběru pro spotřebitele vhodného produktu spotřebitelského úvěru a dobu pro jejich poskytnutí. Tyto informace musí být přiměřené a nezbytné. Žádá-li poskytovatel o tyto informace prostřednictvím zprostředkovatele, zprostředkovatel vyžádané informace předá poskytovateli.*
 >
-> *(2) Spotřebitel poskytne poskytovateli nebo zprostředkovateli [...] úplné a pravdivé informace. [...] Tyto informace je za účelem posouzení úvěruschopnosti spotřebitele poskytovatel a zprostředkovatel povinen ověřit způsobem přiměřeným dané situaci, včetně možnosti využití automatizovaných modelů, a je-li to nutné, též použitím nezávisle ověřitelných údajů.*
+> *(2) Spotřebitel poskytne poskytovateli nebo zprostředkovateli na základě požadavků poskytovatele nebo zprostředkovatele podle odstavce 1 úplné a pravdivé informace. Pokud je to k posouzení úvěruschopnosti spotřebitele nezbytné, poskytnuté informace je spotřebitel povinen poskytovateli nebo zprostředkovateli na jeho žádost vysvětlit, popřípadě doplnit. Tyto informace je za účelem posouzení úvěruschopnosti spotřebitele poskytovatel a zprostředkovatel povinen ověřit způsobem přiměřeným dané situaci, včetně možnosti využití automatizovaných modelů, a je-li to nutné, též použitím nezávisle ověřitelných údajů.*
+>
+> *(3) Sdělené nebo zveřejněné informace podle odstavce 1 obsahují upozornění, že pokud spotřebitel nesplní povinnost podle odstavce 2 a poskytovatel proto nebude schopen posoudit jeho úvěruschopnost, poskytovatel spotřebitelský úvěr neposkytne.*
+>
+> *(4) Závazek ze smlouvy o spotřebitelském úvěru na bydlení nemůže být zrušen pouze proto, že informace poskytnuté spotřebitelem podle odstavce 2 před uzavřením smlouvy o spotřebitelském úvěru byly neúplné. To neplatí, pokud spotřebitel vědomě poskytl neúplné informace nebo vědomě poskytl informace nepravdivé.*
 
 **Výklad:**
 
@@ -701,15 +777,37 @@ Závazek ze smlouvy o **SÚ na bydlení** nemůže být zrušen pouze proto, že
 
 #### § 85 — Pravidla poskytování rady
 
-> **§ 85** *(zkráceně)*
+> **§ 85**
 >
 > *(1) Poskytuje-li poskytovatel nebo zprostředkovatel radu, činí tak na základě*
 >
-> *- a) analýzy finanční situace spotřebitele, jeho požadavků, cílů a potřeb [...] a rizik [...]*
+> *- a) analýzy*
 >
-> *- b) výběru z dostatečného počtu vhodných produktů spotřebitelského úvěru [...]*
+> *- 1. finanční situace spotřebitele, jeho požadavků, cílů a potřeb, která vychází z aktuálních informací, a*
 >
-> *(3) Spotřebitel obdrží v listinné podobě nebo na jiném trvalém nosiči dat záznam o poskytnuté radě [...]*
+> *- 2. rizik, kterým může být spotřebitel vystaven po celou dobu trvání spotřebitelského úvěru, a*
+>
+> *- b) výběru z dostatečného počtu vhodných produktů spotřebitelského úvěru v případě*
+>
+> *- 1. samostatného zprostředkovatele a jeho vázaného zástupce dostupných na trhu,*
+>
+> *- 2. poskytovatele a jeho vázaného zástupce dostupných alespoň z vlastní nabídky poskytovatele, nebo*
+>
+> *- 3. zprostředkovatele vázaného spotřebitelského úvěru dostupných alespoň z nabídky všech poskytovatelů, které zprostředkovatel vázaného spotřebitelského úvěru zastupuje.*
+>
+> *(2) Poskytovatel nebo zprostředkovatel je povinen sdělit spotřebiteli, z kterých produktů kterých poskytovatelů výběr podle odstavce 1 vychází.*
+>
+> *(3) Spotřebitel obdrží v listinné podobě nebo na jiném trvalém nosiči dat záznam o poskytnuté radě podle odstavce 1, který obsahuje*
+>
+> *- a) požadavky, cíle a potřeby spotřebitele související s daným spotřebitelským úvěrem,*
+>
+> *- b) důvody, na kterých poskytovatel nebo zprostředkovatel zakládá svou radu podle odstavce 1 týkající se uzavření vhodné smlouvy o spotřebitelském úvěru nebo podstatné změny závazku z takové smlouvy,*
+>
+> *- c) vysvětlení dopadu uzavření smlouvy o spotřebitelském úvěru nebo podstatné změny závazku z takové smlouvy na spotřebitele, včetně souvisejících rizik, a*
+>
+> *- d) analýzu podle odstavce 1 písm. a).*
+>
+> *(4) Právo poskytovatele poskytovat spotřebiteli doporučení podle § 3 odst. 1 písm. a) bodu 3 nebo právo zprostředkovatele poskytovat spotřebiteli doporučení podle § 3 odst. 1 písm. b) bodu 3 není dotčeno. V případě poskytování doporučení podle věty první poskytovatel nebo zprostředkovatel informuje spotřebitele, že mu neposkytuje radu podle pravidel stanovených tímto zákonem.*
 
 **Výklad:**
 
@@ -752,7 +850,7 @@ Záznam slouží jako důkaz **kvality rady** a může být klíčový v přípa
 >
 > *(1) Poskytovatel před uzavřením smlouvy o spotřebitelském úvěru nebo změnou závazku z takové smlouvy spočívající ve významném navýšení celkové výše spotřebitelského úvěru důkladně posoudí úvěruschopnost spotřebitele na základě informací nezbytných, spolehlivých, dostatečných a přiměřených k povaze, délce, výši a rizikovosti úvěru pro spotřebitele, získaných z relevantních vnitřních nebo vnějších zdrojů, včetně spotřebitele, a pokud je to nezbytné, z databáze umožňující posouzení úvěruschopnosti spotřebitele. Poskytovatel poskytne spotřebitelský úvěr jen tehdy, pokud z výsledku posouzení úvěruschopnosti spotřebitele vyplývá, že nejsou důvodné pochybnosti o schopnosti spotřebitele spotřebitelský úvěr splácet.*
 >
-> *(2) Poskytovatel při posouzení úvěruschopnosti spotřebitele posuzuje schopnost spotřebitele plnit povinnosti sjednané ve smlouvě, zejména splácet sjednané splátky spotřebitelského úvěru, a to na základě porovnání příjmů a výdajů a dalších údajů o finanční a ekonomické situaci spotřebitele, jako jsou údaje o jeho majetku a závazcích a o způsobu plnění dosavadních dluhů. [...]*
+> *(2) Poskytovatel při posouzení úvěruschopnosti spotřebitele posuzuje schopnost spotřebitele plnit povinnosti sjednané ve smlouvě, zejména splácet sjednané splátky spotřebitelského úvěru, a to na základě porovnání příjmů a výdajů a dalších údajů o finanční a ekonomické situaci spotřebitele, jako jsou údaje o jeho majetku a závazcích a o způsobu plnění dosavadních dluhů. Hodnotu majetku přitom zohledňuje tehdy, jestliže ze smlouvy o spotřebitelském úvěru vyplývá, že spotřebitelský úvěr má být částečně nebo úplně splacen výnosem z prodeje majetku spotřebitele, nikoli pravidelnými splátkami, nebo jestliže z finanční situace spotřebitele vyplývá, že bude schopen splácet spotřebitelský úvěr bez ohledu na své příjmy.*
 
 **Výklad:**
 
@@ -853,9 +951,25 @@ Judikatura k § 87 se postupně dotváří. Stanoví se postupně, co znamená �
 
 #### § 88 — Získávání informací z databází
 
-> **§ 88** *(zkráceně)*
+> **§ 88**
 >
-> *(1) Osoby oprávněné poskytovat spotřebitelský úvěr se mohou vzájemně informovat o údajích o dluzích, které vypovídají o úvěruschopnosti spotřebitele, prostřednictvím databáze [...]*
+> *(1) Osoby oprávněné poskytovat spotřebitelský úvěr se mohou vzájemně informovat o údajích o dluzích, které vypovídají o úvěruschopnosti spotřebitele, prostřednictvím databáze spravované právnickou osobou, která*
+>
+> *- a) zpracovává údaje o spotřebitelích za účelem posuzování jejich úvěruschopnosti,*
+>
+> *- b) poskytuje přístup k těmto údajům osobám oprávněným poskytovat spotřebitelský úvěr,*
+>
+> *- c) umožňuje osobám oprávněným poskytovat spotřebitelský úvěr se sídlem nebo skutečným sídlem v jiném členském státě Evropské unie přístup k těmto údajům za stejných podmínek jako osobám se sídlem nebo skutečným sídlem v České republice,*
+>
+> *- d) nepodmiňuje přístup osob oprávněných poskytovat spotřebitelský úvěr k těmto údajům oprávněním takové osoby k činnosti banky, zahraniční banky nebo spořitelního a úvěrního družstva,*
+>
+> *- e) zachovává ohledně získaných údajů mlčenlivost a chrání je před zneužitím a*
+>
+> *- f) uveřejní podmínky přístupu osob oprávněných poskytovat spotřebitelský úvěr k těmto údajům způsobem umožňujícím dálkový přístup.*
+>
+> *(2) Poskytovatel je povinen k údajům získaným o spotřebiteli z databáze podle odstavce 1 přistupovat tak, jako by šlo o údaje, které získal od spotřebitele sám. Poskytovatel může údaje o spotřebiteli získané prostřednictvím databáze podle odstavce 1 využít výhradně pro vyhodnocení předpokladů řádného splácení jeho dluhů, zejména ke splnění povinností podle § 85 a 86.*
+>
+> *(3) Poskytovatel informuje spotřebitele v souladu se zákonem upravujícím ochranu osobních údajů o svém záměru vyhledávat o spotřebiteli údaje v databázi podle odstavce 1.*
 
 **Výklad:**
 
@@ -1000,9 +1114,17 @@ Při **prvním navázání kontaktu** musí zprostředkovatel sdělit minimáln�
 
 #### § 94 — Poskytnutí a vysvětlení předsmluvních informací
 
-> **§ 94** *(zkráceně)*
+> **§ 94**
 >
-> *(2) Poskytovatel poskytnuté informace spotřebiteli náležitě vysvětlí, aby byl spotřebitel schopen posoudit, zda navrhovaná smlouva o spotřebitelském úvěru odpovídá jeho potřebám a finanční situaci. [...]*
+> *(1) Informace podle § 95 až 98 poskytuje spotřebiteli poskytovatel.*
+>
+> *(2) Poskytovatel poskytnuté informace spotřebiteli náležitě vysvětlí, aby byl spotřebitel schopen posoudit, zda navrhovaná smlouva o spotřebitelském úvěru odpovídá jeho potřebám a finanční situaci. Náležité vysvětlení zahrnuje především vysvětlení předsmluvních informací poskytnutých podle odstavce 1, včetně důsledků prodlení s plněním povinností spotřebitele z uzavřené smlouvy o spotřebitelském úvěru, a základních informací o jednotlivých nabízených produktech a jejich dopadech na spotřebitele, v případě doplňkových služeb s nimi svázaných též vysvětlení následků pro spotřebitele spojených se samostatným ukončením jejich čerpání.*
+>
+> *(3) Je-li spotřebitelský úvěr zprostředkováván zprostředkovatelem, je zprostředkovatel povinen poskytnout spotřebiteli informace a náležité vysvětlení stejně, jako je k tomu povinen poskytovatel. Tím nejsou dotčeny povinnosti poskytovatele.*
+>
+> *(4) Splní-li povinnost poskytnout informace a náležité vysvětlení zprostředkovatel, platí, že tuto povinnost splnil i poskytovatel. Splní-li povinnost poskytnout informace a náležité vysvětlení poskytovatel, platí, že tuto povinnost splnil i zprostředkovatel.*
+>
+> *(5) Povinnost poskytnout informace a vysvětlení podle odstavce 3 se nevztahuje na zprostředkovatele vázaného spotřebitelského úvěru. Tím není dotčena povinnost poskytovatele tyto informace a toto vysvětlení poskytnout.*
 
 **Výklad:**
 
@@ -1122,9 +1244,15 @@ Poskytnutím informací způsobem dle ZSÚ splní poskytovatel současně inform
 >
 > *(1) Povinnost podle § 94 týkající se informací podle § 95 až 98 musí být splněna*
 >
-> *- a) bez zbytečného odkladu poté, co poskytovatel posoudil úvěruschopnost spotřebitele [...] a*
+> *- a) bez zbytečného odkladu poté, co poskytovatel posoudil úvěruschopnost spotřebitele na základě informací poskytnutých spotřebitelem podle § 84, a*
 >
 > *- b) s dostatečným předstihem před uzavřením smlouvy o spotřebitelském úvěru nebo předtím, než spotřebitel učiní závazný návrh na uzavření takové smlouvy.*
+>
+> *(2) Povinnost podle § 94 musí být dále splněna vždy, když poskytovatel předkládá spotřebiteli návrh na uzavření smlouvy o spotřebitelském úvěru a informace podle § 95 až 98 dosud nebyly poskytnuty, nebo se takový návrh od dříve poskytnutých informací liší.*
+>
+> *(3) Je-li spotřebitelský úvěr sjednáván na žádost spotřebitele prostřednictvím prostředků komunikace na dálku, které neumožňují poskytnutí předsmluvních informací v souladu s odstavcem 1, musí být informace podle § 95 až 97 poskytnuty v souladu s § 99 při uzavření smlouvy o spotřebitelském úvěru, a není-li to možné, bez zbytečného odkladu po uzavření této smlouvy.*
+>
+> *(4) Je-li spotřebitelský úvěr jiný než na bydlení v podobě dohody podle § 5 odst. 4 sjednáván mimo prostor obvyklý pro podnikání poskytovatele nebo zprostředkovatele, musí být informace o roční procentní sazbě nákladů poskytnuta spotřebiteli v souladu s § 99 bez zbytečného odkladu po uzavření této dohody.*
 
 **Výklad:**
 
@@ -1245,9 +1373,25 @@ Smlouva o SÚ v cizí měně musí obsahovat **informaci o opatření poskytovat
 
 #### § 110 — Důsledky porušení požadavků na formu a obsah smlouvy o spotřebitelském úvěru
 
-> **§ 110** *(zkráceně)*
+> **§ 110**
 >
-> *(1) Neobsahuje-li smlouva o spotřebitelském úvěru informaci o zápůjční úrokové sazbě, o roční procentní sazbě nákladů nebo o celkové částce, kterou má spotřebitel zaplatit, nebyla-li ohledně některé z těchto informací dodržena písemná forma smlouvy, [...] platí, že zápůjční úrokovou sazbou je repo sazba uveřejněná Českou národní bankou, platná v den uzavření smlouvy o spotřebitelském úvěru, nebyla-li sjednána zápůjční úroková sazba nižší. K ujednáním o jiných platbách sjednaných ve smlouvě o spotřebitelském úvěru se nepřihlíží.*
+> *(1) Neobsahuje-li smlouva o spotřebitelském úvěru informaci o zápůjční úrokové sazbě, o roční procentní sazbě nákladů nebo o celkové částce, kterou má spotřebitel zaplatit, nebyla-li ohledně některé z těchto informací dodržena písemná forma smlouvy, nebo nebylo-li písemné vyhotovení smlouvy obsahující tyto informace poskytnuto spotřebiteli v listinné podobě nebo na jiném trvalém nosiči dat, platí, že zápůjční úrokovou sazbou je repo sazba uveřejněná Českou národní bankou, platná v den uzavření smlouvy o spotřebitelském úvěru, nebyla-li sjednána zápůjční úroková sazba nižší. K ujednáním o jiných platbách sjednaných ve smlouvě o spotřebitelském úvěru se nepřihlíží.*
+>
+> *(2) Obsahuje-li smlouva o spotřebitelském úvěru informaci o zápůjční úrokové sazbě, která je nižší, než odpovídá informaci o celkové částce, kterou má spotřebitel zaplatit, snižuje se celková částka, kterou má spotřebitel zaplatit, tak, aby odpovídala zápůjční úrokové sazbě uvedené ve smlouvě o spotřebitelském úvěru. Obsahuje-li smlouva o spotřebitelském úvěru informaci o celkové částce, kterou má spotřebitel zaplatit, která je nižší, než odpovídá informaci o zápůjční úrokové sazbě, snižuje se zápůjční úroková sazba tak, aby odpovídala celkové částce, kterou má spotřebitel zaplatit, uvedené ve smlouvě o spotřebitelském úvěru.*
+>
+> *(3) Obsahuje-li smlouva o spotřebitelském úvěru informaci o roční procentní sazbě nákladů, která je nižší, než odpovídá skutečnosti, snižuje se zápůjční úroková sazba a celková částka, kterou má spotřebitel zaplatit, tak, aby odpovídaly roční procentní sazbě nákladů uvedené ve smlouvě o spotřebitelském úvěru.*
+>
+> *(4) Bylo-li sjednáno, že spotřebitel bude plnit ve splátkách, zohlední se změny vyplývající z odstavců 1 až 3 poměrně v jednotlivých splátkách. Věřitel na žádost spotřebitele vypočte novou výši splátek a sdělí ji spotřebiteli.*
+>
+> *(5) Neobsahuje-li smlouva o spotřebitelském úvěru v rozporu se zákonem písemnou informaci o*
+>
+> *- a) některém právu věřitele vůči spotřebiteli nebo o podmínkách, za kterých může věřitel toto právo uplatnit, platí, že věřitel toto právo nemá,*
+>
+> *- b) některé povinnosti spotřebitele vůči věřiteli nebo o podmínkách, za kterých je spotřebitel povinen tuto povinnost splnit, platí, že spotřebitel tuto povinnost nemá,*
+>
+> *- c) podmínkách, za kterých může spotřebitel uplatnit některé právo vůči věřiteli, platí, že spotřebitel může toto právo vykonat, i když tyto podmínky nejsou splněny.*
+>
+> *(6) Odstavec 5 se použije obdobně, jestliže smlouva o spotřebitelském úvěru v rozporu se zákonem obsahuje informaci o právu nebo povinnosti nebo o podmínkách jejich uplatnění nebo splnění, která neodpovídá donucujícímu ustanovení zákona.*
 
 **Výklad:**
 
@@ -1283,7 +1427,7 @@ Tato pravidla **asymetricky zvýhodňují spotřebitele** v případě nesprávn
 
 > **§ 111**
 >
-> *Předkládá-li poskytovatel spotřebiteli návrh smluvních podmínek, které mají být obsahem smlouvy o spotřebitelském úvěru na bydlení, nesmí poskytovatel tento návrh během 14 dní změnit ani odvolat, ledaže během této doby vyšly najevo okolnosti týkající se úvěruschopnosti spotřebitele [...]. Sdělí-li spotřebitel poskytovateli [...] do 14 dní [...], že tento návrh přijímá, je poskytovatel povinen bez zbytečného odkladu uzavřít se spotřebitelem smlouvu o spotřebitelském úvěru na bydlení na základě předloženého návrhu smluvních podmínek. [...]*
+> *Předkládá-li poskytovatel spotřebiteli návrh smluvních podmínek, které mají být obsahem smlouvy o spotřebitelském úvěru na bydlení, nesmí poskytovatel tento návrh během 14 dní změnit ani odvolat, ledaže během této doby vyšly najevo okolnosti týkající se úvěruschopnosti spotřebitele, na jejichž základě je poskytovatel povinen úvěr v souladu s § 86 odst. 1 za nabídnutých podmínek neposkytnout. Sdělí-li spotřebitel poskytovateli nebo zprostředkovateli do 14 dní ode dne, kdy mu byl návrh smluvních podmínek předložen, že tento návrh přijímá, je poskytovatel povinen bez zbytečného odkladu uzavřít se spotřebitelem smlouvu o spotřebitelském úvěru na bydlení na základě předloženého návrhu smluvních podmínek. Ustanovení § 1787 občanského zákoníku se použije obdobně.*
 
 **Výklad:**
 
@@ -1340,9 +1484,11 @@ Poskytovatel a zprostředkovatel **společně a nerozdílně** nahradí spotřeb
 
 > **§ 113**
 >
-> *(1) Zajištění spotřebitelského úvěru nesmí být k okamžiku uzavření smlouvy o spotřebitelském úvěru ve zcela zjevném nepoměru k hodnotě zajišťované pohledávky. [...]*
+> *(1) Zajištění spotřebitelského úvěru nesmí být k okamžiku uzavření smlouvy o spotřebitelském úvěru ve zcela zjevném nepoměru k hodnotě zajišťované pohledávky. To neplatí v případě spotřebitelského úvěru na bydlení podle § 2 odst. 2 písm. b) nebo c) a v případě, že koupě nebo zachování vlastnictví předmětu zajištění je financováno spotřebitelským úvěrem jiným než na bydlení zajištěným tímto předmětem.*
 >
 > *(2) Je-li k zajištění spotřebitelského úvěru užita nemovitá věc nebo věcné právo k nemovité věci, může mít toto zajištění pouze formu zástavního práva; k jiným ujednáním, jejichž účelem je zajištění spotřebitelského úvěru, se nepřihlíží.*
+>
+> *(3) Při oceňování předmětu zajištění spotřebitelského úvěru na bydlení se předmět zajištění ocení cenou obvyklou nebo tržní hodnotou podle zákona upravujícího oceňování majetku. Ocenění předmětu zajištění musí být nestranné a objektivní a musí být zaznamenáno v listinné podobě nebo na jiném trvalém nosiči dat. Osoby provádějící ocenění předmětu zajištění musí být důvěryhodné, odborně způsobilé a dostatečně nezávislé na procesu poskytování spotřebitelského úvěru.*
 
 **Výklad:**
 
@@ -1372,7 +1518,7 @@ Osoby provádějící ocenění musí být **důvěryhodné, odborně způsobil�
 
 > **§ 114**
 >
-> *Při poskytování spotřebitelského úvěru prostřednictvím hlasové telefonní komunikace [...] nelze pro přístup ke službám použít telefonní číslo s vyšší než běžnou cenou [...]*
+> *Při poskytování spotřebitelského úvěru prostřednictvím hlasové telefonní komunikace, textové nebo multimediální zprávy nelze pro přístup ke službám použít telefonní číslo s vyšší než běžnou cenou, zejména telefonní číslo pro přístup ke službám s vyjádřenou cenou, telefonní číslo pro přístup ke službám univerzálního přístupového čísla nebo telefonní číslo pro přístup ke službám se sdílenými náklady podle jiného právního předpisu4).*
 
 **Výklad:**
 
@@ -1412,9 +1558,21 @@ Tyto výjimky jsou logicky omezené — vážou se k povaze úvěrového produkt
 
 #### § 116 — Omezení rizik vyplývajících ze sjednání spotřebitelského úvěru v cizí měně
 
-> **§ 116** *(zkráceně)*
+> **§ 116**
 >
-> *(1) Je-li uzavřena smlouva o spotřebitelském úvěru v cizí měně, poskytovatel umožní spotřebiteli [...] změnu měny, v níž je spotřebitelský úvěr vyjádřen [...]*
+> *(1) Je-li uzavřena smlouva o spotřebitelském úvěru v cizí měně, poskytovatel umožní spotřebiteli za podmínek, které určí smlouva o spotřebitelském úvěru, změnu měny, v níž je spotřebitelský úvěr vyjádřen, na měnu*
+>
+> *- a) ve které měl spotřebitel hlavní příjem v době, kdy bylo provedeno poslední posouzení jeho úvěruschopnosti ve vztahu k danému spotřebitelskému úvěru,*
+>
+> *- b) ve které spotřebitel držel aktiva, z nichž má být spotřebitelský úvěr splácen, v době, kdy bylo provedeno poslední posouzení jeho úvěruschopnosti ve vztahu k danému spotřebitelskému úvěru,*
+>
+> *- c) členského státu, v němž měl spotřebitel bydliště v okamžiku uzavření smlouvy o spotřebitelském úvěru, nebo*
+>
+> *- d) členského státu, v němž má spotřebitel bydliště v okamžiku, kdy žádá o změnu měny, v níž je vyjádřen spotřebitelský úvěr.*
+>
+> *(2) Neumožní-li poskytovatel spotřebiteli změnu měny, v níž je spotřebitelský úvěr vyjádřen, zajistí jiné mechanismy k omezení rizika vyplývajícího ze změny směnného kurzu mezi měnou, v níž je spotřebitelský úvěr vyjádřen a korunou českou; je-li spotřebitelský úvěr v cizí měně vyjádřen v korunách českých, mezi korunou českou a měnou podle odstavce 1 odlišnou od koruny české.*
+>
+> *(3) Ke změně měny, v níž je vyjádřen spotřebitelský úvěr, podle odstavce 1, se použije kurz vyhlášený Českou národní bankou pro den, kdy spotřebitel o změnu měny požádal, není-li ve smlouvě o spotřebitelském úvěru na bydlení stanoveno jinak.*
 
 **Výklad:**
 
@@ -1568,7 +1726,11 @@ Má-li spotřebitel právo na odstoupení dle ZSÚ, **nepoužijí se** ustanoven
 
 > **§ 119**
 >
-> *(1) Jestliže spotřebitel odstoupí od smlouvy o koupi zboží nebo poskytnutí služby, kde cena zboží nebo služby je plně nebo částečně hrazena vázaným spotřebitelským úvěrem, vázaný spotřebitelský úvěr zaniká. [...]*
+> *(1) Jestliže spotřebitel odstoupí od smlouvy o koupi zboží nebo poskytnutí služby, kde cena zboží nebo služby je plně nebo částečně hrazena vázaným spotřebitelským úvěrem, vázaný spotřebitelský úvěr zaniká. O této skutečnosti je spotřebitel povinen poskytovatele informovat. Zánik vázaného spotřebitelského úvěru nesmí být spojován s uplatněním jakýchkoliv sankcí ze strany poskytovatele nebo třetí osoby.*
+>
+> *(2) Jestliže byla smlouva o koupi zboží uzavřena mimo prostory obvyklé k podnikání nebo při použití prostředků komunikace na dálku a spotřebitel zboží vrátil prodávajícímu, není spotřebitel povinen vrátit poskytovateli poskytnuté peněžní prostředky dříve, než mu bude prodávajícím vrácena kupní cena.*
+>
+> *(3) Poskytovatel ručí za peněžitý dluh prodávajícího nebo poskytovatele služby vůči spotřebiteli, jestliže prodávající nebo poskytovatel služby tento dluh uznal v písemné formě co do důvodu a výše, nebo jestliže pohledávka odpovídající tomuto dluhu byla přiznána rozhodnutím orgánu veřejné moci.*
 
 **Výklad:**
 
@@ -1629,11 +1791,19 @@ Toto pravidlo umožňuje poskytovateli reagovat na zhoršenou úvěruschopnost s
 >
 > *(1) Věřitel může pro případ prodlení spotřebitele s plněním dluhu vyplývajícího ze smlouvy o spotřebitelském úvěru sjednat pouze*
 >
-> *- a) právo na náhradu účelně vynaložených nákladů [...]*
+> *- a) právo na náhradu účelně vynaložených nákladů, které mu vznikly v souvislosti s prodlením spotřebitele; pokud byla ujednána náhrada vyšší, považuje se v této části za smluvní pokutu,*
 >
 > *- b) úroky z prodlení, jejichž výše nesmí přesáhnout výši stanovenou právním předpisem upravujícím úroky z prodlení, nebo*
 >
 > *- c) smluvní pokutu.*
+>
+> *(2) Uplatněná smluvní pokuta nesmí přesáhnout 0,1 % denně z částky, ohledně níž je spotřebitel v prodlení, je-li spotřebitel v prodlení s plněním povinnosti peněžité povahy. Omezení podle věty první se neuplatní na souhrn smluvních pokut uplatněných do okamžiku, kdy se úvěr stane v důsledku prodlení spotřebitele splatným, pokud je tento souhrn pokut v kalendářním roce, v němž nebo v jehož části byl spotřebitel v prodlení s plněním povinnosti peněžité povahy, nižší než 3 000 Kč a pokud výše smluvních pokut zahrnutých v tomto souhrnu uplatněných ve vztahu k prodlení s každou jednotlivou splátkou spotřebitelského úvěru činí nejvýše 500 Kč.*
+>
+> *(3) Souhrn výše všech uplatněných smluvních pokut nesmí přesáhnout součin čísla 0,5 a celkové výše spotřebitelského úvěru, nejvýše však 200 000 Kč.*
+>
+> *(4) U dluhu ze spotřebitelského úvěru, s jehož plněním je spotřebitel v prodlení delším než 90 dnů, vzniká věřiteli právo pouze na úrok, který odpovídá úroku určenému zápůjční úrokovou sazbou ve výši repo sazby stanovené Českou národní bankou pro první den kalendářního pololetí, v němž došlo k prodlení, zvýšené o 8 procentních bodů, nebyl-li sjednán úrok nižší.*
+>
+> *(5) Odstavce 1, 2 a 4 se použijí obdobně i na odloženou platbu, peněžitou zápůjčku, úvěr nebo obdobnou finanční službu, kde dlužník, který je fyzickou osobou, avšak není spotřebitelem, je v prodlení delším než 90 dnů s plněním peněžitého dluhu. Souhrn výše všech uplatněných smluvních pokut v takovém případě nesmí přesáhnout součin čísla 0,5 a celkové výše odložené platby, peněžité zápůjčky, úvěru nebo obdobné finanční služby.*
 
 **Výklad:**
 
