@@ -854,6 +854,11 @@ Záznam slouží jako důkaz **kvality rady** a může být klíčový v přípa
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 3675/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8243CFC74CAB9F80C12588880018DB06?openDocument) — 20. 4. 2022, kat. A
+  > „Je-li smlouva o spotřebitelském úvěru neplatná proto, že poskytovatel poskytl spotřebiteli úvěr v rozporu s ustanovením § 86 odst. 1 věty druhé zákona č. 257/2016 Sb. ve znění pozdějších předpisů, nemá poskytovatel úvěru nárok na sjednané úroky a poplatky nárok na zákonné úroky z prodlení dle § 1970 o. z. mu vzniká teprve v okamžiku prodlení dlužníka s vrácením zbývající části jistiny spotřebitelského úvěru, tedy v době dle § 87 odst. 1 zákona č. 257/2016 Sb. ve znění pozdějších předpisů. Výzva věřitele k vrácení zbývající nesplacené části jistiny z neplatné smlouvy o spotřebitelském úvěru prodlení dlužníka sama o sobě nezakládá"
+
 #### Posouzení úvěruschopnosti jako klíčová předsmluvní povinnost
 
 § 86 obsahuje **jedno z nejvýznamnějších ustanovení celého ZSÚ** — povinnost **důkladně posoudit úvěruschopnost** spotřebitele. Toto ustanovení je transpozicí čl. 8 směrnice CCD (2008/48/ES) a čl. 18 směrnice MCD (2014/17/EU), které ukládají členským státům povinnost zajistit, aby věřitelé před uzavřením úvěrové smlouvy provedli posouzení úvěruschopnosti.
@@ -910,6 +915,13 @@ Toto pravidlo brání **„asset-based lending"** běžnému v některých zahra
 > *(3) Změní-li se možnosti spotřebitele, může soud na návrh některé ze smluvních stran sjednanou dobu nebo dobu určenou rozhodnutím změnit.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 101/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/40161594FD6CC159C1258A52001601FC?openDocument) — 20. 9. 2023, kat. A
+  > „Plnění dlužníka v postavení spotřebitele na poskytnutou jistinu v době přiměřené jeho možnostem dle zvláštní úpravy § 87 zákona o spotřebitelském úvěru nenaplňuje důvody uznání dluhu, se kterými § 639 o. z. spojuje přerušení a běh nové desetileté promlčecí lhůty"
+- *NS* [33 Cdo 3675/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8243CFC74CAB9F80C12588880018DB06?openDocument) — 20. 4. 2022, kat. A
+  > „Je-li smlouva o spotřebitelském úvěru neplatná proto, že poskytovatel poskytl spotřebiteli úvěr v rozporu s ustanovením § 86 odst. 1 věty druhé zákona č. 257/2016 Sb. ve znění pozdějších předpisů, nemá poskytovatel úvěru nárok na sjednané úroky a poplatky nárok na zákonné úroky z prodlení dle § 1970 o. z. mu vzniká teprve v okamžiku prodlení dlužníka s vrácením zbývající části jistiny spotřebitelského úvěru, tedy v době dle § 87 odst. 1 zákona č. 257/2016 Sb. ve znění pozdějších předpisů. Výzva věřitele k vrácení zbývající nesplacené části jistiny z neplatné smlouvy o spotřebitelském úvěru prodlení dlužníka sama o sobě nezakládá"
 
 #### Absolutní neplatnost smlouvy — výjimečná sankce
 

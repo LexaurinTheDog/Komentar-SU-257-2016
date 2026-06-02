@@ -87,6 +87,11 @@ CCD byla původně koncipována jako směrnice **plné (úplné) harmonizace** v
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 2919/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/645F7C89460499B5C12589D800309D27?openDocument) — 28. 3. 2023, kat. A
+  > „O spotřebitelský úvěr jde vždy, je-li věřitelem ze smlouvy, ve které se sjednává spotřebitelský úvěr, poskytovatel (ten, kdo jako podnikatel spotřebitelský úvěr poskytuje). Stejně tak jde o spotřebitelský úvěr, jestliže v procesu úvěrování spotřebitele vystupuje jako prostředník zprostředkovatel (ten, kdo jako podnikatel spotřebitelský úvěr zprostředkovává), i když věřitelem ze smlouvy, ve které se tento úvěr sjednává, není poskytovatel ve výše uvedeném smyslu. Absence příslušného oprávnění k poskytování spotřebitelských úvěrů nemá sama o sobě vliv na povahu či platnost smlouvy, ve které se sjednává spotřebitelský úvěr"
+
 #### Funkční (substance-over-form) definice spotřebitelského úvěru (odst. 1)
 
 Odst. 1 zavádí **maximálně širokou, funkční definici** spotřebitelského úvěru: zahrnuje *„odloženou platbu, peněžitou zápůjčku, úvěr nebo obdobnou finanční službu"* poskytovanou spotřebiteli. Rozhodující není **právní forma** ujednání (úvěr dle § 2395 OZ, zápůjčka dle § 2390 OZ, splátkový prodej, leasing s opcí, kontokorent, kreditní karta apod.), ale **ekonomická podstata** transakce: dochází k přesunu kupní síly v čase od poskytovatele ke spotřebiteli s odloženou protihodnotou. Tato koncepce sleduje čl. 3 písm. c) CCD a zabraňuje obcházení regulace prostřednictvím atypických smluvních konstrukcí.
@@ -270,6 +275,11 @@ Pravidla převažujícího účelu vyžadují **kvantitativní posouzení** — 
 > *- o) spotřebitelským úvěrem na bydlení s podílem na hodnotě nemovitosti spotřebitelský úvěr, u něhož je jistina, která má být splacena, určena na základě smluvně stanoveného procentního podílu z hodnoty nemovitosti v okamžiku splácení jistiny.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 2919/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/645F7C89460499B5C12589D800309D27?openDocument) — 28. 3. 2023, kat. A
+  > „O spotřebitelský úvěr jde vždy, je-li věřitelem ze smlouvy, ve které se sjednává spotřebitelský úvěr, poskytovatel (ten, kdo jako podnikatel spotřebitelský úvěr poskytuje). Stejně tak jde o spotřebitelský úvěr, jestliže v procesu úvěrování spotřebitele vystupuje jako prostředník zprostředkovatel (ten, kdo jako podnikatel spotřebitelský úvěr zprostředkovává), i když věřitelem ze smlouvy, ve které se tento úvěr sjednává, není poskytovatel ve výše uvedeném smyslu. Absence příslušného oprávnění k poskytování spotřebitelských úvěrů nemá sama o sobě vliv na povahu či platnost smlouvy, ve které se sjednává spotřebitelský úvěr"
 
 #### Pojmová mapa § 3 — institucionální vs. ekonomické pojmy
 
@@ -536,6 +546,11 @@ Odst. 4 zavádí výjimku z povinnosti uvádět **RPSN u tzv. *equity release sc
 > *- g) nebankovní poskytovatel spotřebitelského úvěru (§ 9) za podmínek stanovených tímto zákonem.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 2919/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/645F7C89460499B5C12589D800309D27?openDocument) — 28. 3. 2023, kat. A
+  > „O spotřebitelský úvěr jde vždy, je-li věřitelem ze smlouvy, ve které se sjednává spotřebitelský úvěr, poskytovatel (ten, kdo jako podnikatel spotřebitelský úvěr poskytuje). Stejně tak jde o spotřebitelský úvěr, jestliže v procesu úvěrování spotřebitele vystupuje jako prostředník zprostředkovatel (ten, kdo jako podnikatel spotřebitelský úvěr zprostředkovává), i když věřitelem ze smlouvy, ve které se tento úvěr sjednává, není poskytovatel ve výše uvedeném smyslu. Absence příslušného oprávnění k poskytování spotřebitelských úvěrů nemá sama o sobě vliv na povahu či platnost smlouvy, ve které se sjednává spotřebitelský úvěr"
 
 #### Uzavřený numerus clausus poskytovatelů
 
