@@ -659,6 +659,11 @@ Skutková podstata (c) je systémově nejnebezpečnější: zahraniční zprost�
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [15 A 34/2018 - 64](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/708194) — 18. 1. 2023
+  > „Tyto vysoké sazby pokut v řádu desítek milionů korun odráží vysokou společenskou škodlivost daného protiprávního jednání"
+
 #### Souhrnný katalog pravidel jednání
 
 § 153 je **nejrozsáhlejší skutková podstata** v zákoně — 20 forem porušení pravidel jednání s spotřebitelem. Pachatelem je „kdokoli oprávněný poskytovat nebo zprostředkovávat spotřebitelský úvěr" (tj. univerzální subjekt — banka, SUD, nebankovní poskytovatel i kterýkoli zprostředkovatel).
@@ -800,6 +805,11 @@ Logika: porušení (a) a (b) jsou „klauzule generální" — nejširší vodí
 > *- c) 20 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. c) bodu 2, písm. e), k), l), n), o), p), q), r), s), t), v), w), x) a odstavce 2 písm. a), b), d), e), f), g), h), i).*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [11 A 13/2023 - 244](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/739467) — 29. 1. 2025
+  > „…dojde k porušení ust. § 154 odst. 1 písm. v) zákona o spotřebitelském úvěru i tehdy, jestliže poskytovatel úvěru sice umožní spotřebiteli jeho předčasné splacení, avšak poruší jeho právo na snížení celkových nákladů spotřebitelského úvěru o výši úroku a dalších nákladů, které by byl spotřebitel povinen platit v případě, kdy by nedošlo k předčasnému splacení spotřebitelského úvěru. Pokud tedy poskytovatel úvěru zkrátí spotřebitele na tomto jeho právu, jedná v rozporu s ust. § 117 odst. 1 zákona o spotřebitelském úvěru, a tím se dopouští přestupku podle ust. § 154 odst. 1 písm. v)…"
 
 #### Nejrozsáhlejší skutková podstata v zákoně — 33 forem porušení
 

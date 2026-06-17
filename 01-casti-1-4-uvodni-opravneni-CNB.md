@@ -89,7 +89,7 @@ CCD byla původně koncipována jako směrnice **plné (úplné) harmonizace** v
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [33 Cdo 2919/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/645F7C89460499B5C12589D800309D27?openDocument) — 28. 3. 2023, kat. A
+- *NS* [33 Cdo 2919/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/645F7C89460499B5C12589D800309D27?openDocument) — kat. A, 28. 3. 2023
   > „O spotřebitelský úvěr jde vždy, je-li věřitelem ze smlouvy, ve které se sjednává spotřebitelský úvěr, poskytovatel (ten, kdo jako podnikatel spotřebitelský úvěr poskytuje). Stejně tak jde o spotřebitelský úvěr, jestliže v procesu úvěrování spotřebitele vystupuje jako prostředník zprostředkovatel (ten, kdo jako podnikatel spotřebitelský úvěr zprostředkovává), i když věřitelem ze smlouvy, ve které se tento úvěr sjednává, není poskytovatel ve výše uvedeném smyslu. Absence příslušného oprávnění k poskytování spotřebitelských úvěrů nemá sama o sobě vliv na povahu či platnost smlouvy, ve které se sjednává spotřebitelský úvěr"
 
 #### Funkční (substance-over-form) definice spotřebitelského úvěru (odst. 1)
@@ -278,7 +278,7 @@ Pravidla převažujícího účelu vyžadují **kvantitativní posouzení** — 
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [33 Cdo 2919/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/645F7C89460499B5C12589D800309D27?openDocument) — 28. 3. 2023, kat. A
+- *NS* [33 Cdo 2919/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/645F7C89460499B5C12589D800309D27?openDocument) — kat. A, 28. 3. 2023
   > „O spotřebitelský úvěr jde vždy, je-li věřitelem ze smlouvy, ve které se sjednává spotřebitelský úvěr, poskytovatel (ten, kdo jako podnikatel spotřebitelský úvěr poskytuje). Stejně tak jde o spotřebitelský úvěr, jestliže v procesu úvěrování spotřebitele vystupuje jako prostředník zprostředkovatel (ten, kdo jako podnikatel spotřebitelský úvěr zprostředkovává), i když věřitelem ze smlouvy, ve které se tento úvěr sjednává, není poskytovatel ve výše uvedeném smyslu. Absence příslušného oprávnění k poskytování spotřebitelských úvěrů nemá sama o sobě vliv na povahu či platnost smlouvy, ve které se sjednává spotřebitelský úvěr"
 
 #### Pojmová mapa § 3 — institucionální vs. ekonomické pojmy
@@ -549,8 +549,8 @@ Odst. 4 zavádí výjimku z povinnosti uvádět **RPSN u tzv. *equity release sc
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [33 Cdo 2919/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/645F7C89460499B5C12589D800309D27?openDocument) — 28. 3. 2023, kat. A
-  > „O spotřebitelský úvěr jde vždy, je-li věřitelem ze smlouvy, ve které se sjednává spotřebitelský úvěr, poskytovatel (ten, kdo jako podnikatel spotřebitelský úvěr poskytuje). Stejně tak jde o spotřebitelský úvěr, jestliže v procesu úvěrování spotřebitele vystupuje jako prostředník zprostředkovatel (ten, kdo jako podnikatel spotřebitelský úvěr zprostředkovává), i když věřitelem ze smlouvy, ve které se tento úvěr sjednává, není poskytovatel ve výše uvedeném smyslu. Absence příslušného oprávnění k poskytování spotřebitelských úvěrů nemá sama o sobě vliv na povahu či platnost smlouvy, ve které se sjednává spotřebitelský úvěr"
+- *NS* [33 Cdo 2919/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/645F7C89460499B5C12589D800309D27?openDocument) — kat. A, 28. 3. 2023
+  > „O spotřebitelský úvěr jde vždy, je-li věřitelem ze smlouvy, ve které se sjednává spotřebitelský úvěr, poskytovatel (ten, kdo jako podnikatel spotřebitelský úvěr poskytuje). … Absence příslušného oprávnění k poskytování spotřebitelských úvěrů nemá sama o sobě vliv na povahu či platnost smlouvy, ve které se sjednává spotřebitelský úvěr"
 
 #### Uzavřený numerus clausus poskytovatelů
 

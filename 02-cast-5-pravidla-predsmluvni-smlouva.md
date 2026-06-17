@@ -856,8 +856,10 @@ Záznam slouží jako důkaz **kvality rady** a může být klíčový v přípa
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [33 Cdo 3675/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8243CFC74CAB9F80C12588880018DB06?openDocument) — 20. 4. 2022, kat. A
-  > „Je-li smlouva o spotřebitelském úvěru neplatná proto, že poskytovatel poskytl spotřebiteli úvěr v rozporu s ustanovením § 86 odst. 1 věty druhé zákona č. 257/2016 Sb. ve znění pozdějších předpisů, nemá poskytovatel úvěru nárok na sjednané úroky a poplatky nárok na zákonné úroky z prodlení dle § 1970 o. z. mu vzniká teprve v okamžiku prodlení dlužníka s vrácením zbývající části jistiny spotřebitelského úvěru, tedy v době dle § 87 odst. 1 zákona č. 257/2016 Sb. ve znění pozdějších předpisů. Výzva věřitele k vrácení zbývající nesplacené části jistiny z neplatné smlouvy o spotřebitelském úvěru prodlení dlužníka sama o sobě nezakládá"
+- *NS* [33 Cdo 3675/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8243CFC74CAB9F80C12588880018DB06?openDocument) — kat. A, 20. 4. 2022
+  > „Je-li smlouva o spotřebitelském úvěru neplatná proto, že poskytovatel poskytl spotřebiteli úvěr v rozporu s ustanovením § 86 odst. 1 věty druhé zákona č. 257/2016 Sb. ve znění pozdějších předpisů, nemá poskytovatel úvěru nárok na sjednané úroky a poplatky nárok na zákonné úroky z prodlení dle § 1970 o. z. mu vzniká teprve v okamžiku prodlení dlužníka s vrácením zbývající části jistiny spotřebitelského úvěru, tedy v době dle § 87 odst. 1 zákona č. 257/2016 Sb. ve znění pozdějších předpisů"
+- *NSS* [9 As 127/2024 - 34](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/724005) — 13. 8. 2024
+  > „Postup s odbornou péčí zahrnuje též povinnost věřitele ověřit podstatné informace poskytnuté spotřebitelem svědčící o jeho schopnosti splácet sjednaný úvěr (…). Věřitel by měl úvěruschopnost dlužníka aktivně zjišťovat a prověřovat, nikoliv se spokojit pouze s jeho ničím nedoloženými prohlášeními. Informaci o výši příjmu spotřebitele může věřitel ověřit zejména doklady vydanými spotřebiteli třetí stranou, které budou objektivně a věrohodně vypovídat o spotřebitelově schopnosti dostát svým závazkům ze smlouvy o úvěru"
 
 #### Posouzení úvěruschopnosti jako klíčová předsmluvní povinnost
 
@@ -918,9 +920,9 @@ Toto pravidlo brání **„asset-based lending"** běžnému v některých zahra
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [23 Cdo 101/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/40161594FD6CC159C1258A52001601FC?openDocument) — 20. 9. 2023, kat. A
+- *NS* [23 Cdo 101/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/40161594FD6CC159C1258A52001601FC?openDocument) — kat. A, 20. 9. 2023
   > „Plnění dlužníka v postavení spotřebitele na poskytnutou jistinu v době přiměřené jeho možnostem dle zvláštní úpravy § 87 zákona o spotřebitelském úvěru nenaplňuje důvody uznání dluhu, se kterými § 639 o. z. spojuje přerušení a běh nové desetileté promlčecí lhůty"
-- *NS* [33 Cdo 3675/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8243CFC74CAB9F80C12588880018DB06?openDocument) — 20. 4. 2022, kat. A
+- *NS* [33 Cdo 3675/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8243CFC74CAB9F80C12588880018DB06?openDocument) — kat. A, 20. 4. 2022
   > „Je-li smlouva o spotřebitelském úvěru neplatná proto, že poskytovatel poskytl spotřebiteli úvěr v rozporu s ustanovením § 86 odst. 1 věty druhé zákona č. 257/2016 Sb. ve znění pozdějších předpisů, nemá poskytovatel úvěru nárok na sjednané úroky a poplatky nárok na zákonné úroky z prodlení dle § 1970 o. z. mu vzniká teprve v okamžiku prodlení dlužníka s vrácením zbývající části jistiny spotřebitelského úvěru, tedy v době dle § 87 odst. 1 zákona č. 257/2016 Sb. ve znění pozdějších předpisů. Výzva věřitele k vrácení zbývající nesplacené části jistiny z neplatné smlouvy o spotřebitelském úvěru prodlení dlužníka sama o sobě nezakládá"
 
 #### Absolutní neplatnost smlouvy — výjimečná sankce
@@ -1072,6 +1074,11 @@ Pojem **vylučuje** běžné webové stránky (které mohou být změněny) nebo
 > *(2) Informace uvedené v odstavci 1 písm. c) až j) se uvádějí formou reprezentativního příkladu.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 53/2021 - 35](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/699632) — 21. 4. 2022
+  > „Uvádění informace o RPSN má za cíl informovat spotřebitele o ceně spotřebitelského úvěru tak, aby jej mohl objektivně porovnat s nabídkami jiných poskytovatelů. V daném případě mohlo dojít například k tomu, že by spotřebitel na základě žalobkyní nesprávně uvedených informací vyhodnotil nabídku spotřebitelského úvěru jiného poskytovatele jako nevýhodnou, ačkoliv by tato ve skutečnosti byla výhodnější"
 
 #### Trigger pravidla — číselný údaj o nákladech
 
@@ -1615,6 +1622,11 @@ Pokud poskytovatel změnu **neumožní**, musí zajistit **jiné mechanismy omez
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 As 246/2024 - 94](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/747590) — 5. 12. 2025
+  > „Snížení zisku z úrokového rozpětí ani případné (marně vynaložené) náklady refinancování tedy, bez ohledu na jejich označení (např. „náklady ušlých příležitostí“, „náklady na obstarání finančních prostředků“, „výpadek v úrokových výnosech“), nelze podřadit pod účelně vynaložené náklady poskytovatele vzniklé v souvislosti s předčasným splacením úvěru, neboť zde chybí zákonem požadovaná souvislost s předčasným splacením, a tudíž nemohou být předmětem náhrady, kterou poskytovatel může po spotřebiteli podle § 117 odst. 2 ZSÚ požadovat"
+
 #### Absolutní právo na předčasné splacení (odst. 1)
 
 § 117 odst. 1 obsahuje **dvě absolutní práva spotřebitele**:
@@ -1697,6 +1709,11 @@ Mechanismus odpovídá tzv. **„cost recovery" modelu** — věřitel může po
 > *(1) Spotřebitel může od smlouvy o spotřebitelském úvěru jiném než na bydlení odstoupit bez uvedení důvodů a bez jakékoli sankce ve lhůtě 14 dnů ode dne uzavření této smlouvy. V případě, že tato smlouva neobsahuje informace podle § 106 až 108 nebo § 109 odst. 1, lhůta pro odstoupení neskončí dříve než 14 dnů poté, co poskytovatel spotřebiteli chybějící informace poskytne v listinné podobě nebo na jiném trvalém nosiči dat.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [29 A 140/2019 - 107](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/704171) — 27. 7. 2022
+  > „Smyslem zákonné povinnosti uvést ve smlouvě konkrétní výši částky denního úroku v případě odstoupení od smlouvy je umožnit spotřebiteli provést jednoduchý výpočet za účelem zjištění, kolik peněz bude muset věřiteli zaplatit na úrocích v závislosti na tom, kolikátý den lhůty pro odstoupení od smlouvy mu poskytnuté finanční prostředky reálně vrátí"
 
 #### „Cooling-off" právo 14 dnů
 
@@ -1818,6 +1835,11 @@ Toto pravidlo umožňuje poskytovateli reagovat na zhoršenou úvěruschopnost s
 > *(5) Odstavce 1, 2 a 4 se použijí obdobně i na odloženou platbu, peněžitou zápůjčku, úvěr nebo obdobnou finanční službu, kde dlužník, který je fyzickou osobou, avšak není spotřebitelem, je v prodlení delším než 90 dnů s plněním peněžitého dluhu. Souhrn výše všech uplatněných smluvních pokut v takovém případě nesmí přesáhnout součin čísla 0,5 a celkové výše odložené platby, peněžité zápůjčky, úvěru nebo obdobné finanční služby.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 A 18/2023 - 76](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/743842) — 29. 5. 2025
+  > „Soud (…) odkazuje na důvodovou zprávu k § 122 zákona, v níž je vyjádřen smysl úpravy tak, že: „Cílem ustanovení je zamezení praktik, kdy poskytovatel vydělává nikoli na sjednané odměně, ale na sankcích spojených s (pečlivě propočítaným) prodlením spotřebitele. (…) Z tohoto důvodu se omezují poplatky účtované v případě prodlení spotřebitele s plněním jeho povinností. (…) Taková úprava, která umožňuje nekonečný nárůst sankcí (…)“"
 
 #### Uzavřený výčet sankcí za prodlení
 
