@@ -133,6 +133,42 @@ Body 1–6 jsou **znalostní** (vědění o), body 7–8 jsou **aplikační** (u
 
 Odst. 6 zmocňuje k vydání **prováděcího právního předpisu** stanovícího rozsah znalostí a požadavky na zkoušku. Tímto předpisem je **vyhláška ČNB č. 384/2016 Sb.**, o odborné způsobilosti pro distribuci spotřebitelského úvěru — stanoví strukturu testu, počet otázek, hodnoticí kritéria, minimální procentuální úspěšnost a další náležitosti.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Pan Novák, absolvent střední odborné školy s maturitou, byl přijat jako úvěrový poradce do nebankovní společnosti poskytující hotovostní úvěry. Společnost mu uhradila kurz a přihlásila ho k odborné zkoušce u akreditované osoby pouze pro skupinu odbornosti „vázaný spotřebitelský úvěr" (§ 60 odst. 4 písm. b). Po roce začal panu Novákovi nabízet i běžné hotovostní úvěry (jiné než na bydlení) bez vázanosti na koupi zboží. Důkazy: maturitní vysvědčení, osvědčení o vykonané zkoušce (s vyznačením skupiny odbornosti dle § 70 písm. c), pracovní náplň, vzorky uzavřených smluv.
+
+**2. Právní otázka.** Opravňuje osvědčení pro skupinu odbornosti „vázaný spotřebitelský úvěr" (písm. b) k poskytování spotřebitelského úvěru jiného než na bydlení (písm. a)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 60 odst. 4 (tři skupiny odbornosti) a odst. 5 (pravidlo absorpce).
+- *Související ustanovení téhož zákona:* § 70 písm. c (rozsah dle skupin odbornosti uvedený v osvědčení); § 75 (odborná péče); § 9 a násl. (zápis do registru ČNB v rozsahu činnosti).
+- *Související předpisy:* vyhláška ČNB č. 384/2016 Sb. (rozsah znalostí, forma zkoušky); § 2 odst. 1 a 2 ZSÚ (vymezení vázaného úvěru jako podmnožiny).
+- *Judikatura:* k výkladu rozsahu veřejnoprávního oprávnění platí zásada, že oprávnění nelze rozšiřovat nad jeho výslovný rozsah; nosný závěr správních soudů, že kdo jedná nad rámec uděleného oprávnění, jedná bez oprávnění.
+
+**4. Subsumpce.** Pravidlo absorpce v odst. 5 funguje jen jedním směrem: skupina a) zahrnuje b), nikoli naopak. Pan Novák má osvědčení pouze pro b). Poskytováním hotovostního (nevázaného) úvěru jedná ve skupině a), pro kterou kvalifikaci neprokázal. Podmínka odborné způsobilosti dle § 60 odst. 3 pro tuto skupinu splněna není.
+
+**5. Řešení.** Pan Novák poskytuje úvěry bez odborné způsobilosti v daném rozsahu. Zaměstnavatel porušuje povinnost zajistit, aby jeho pracovníci byli odborně způsobilí; hrozí dohledové opatření a správní sankce. Postup: pana Nováka přihlásit ke zkoušce pro skupinu a) a do té doby mu nevázané úvěry nesvěřovat.
+
+**6. Varianty.** (a) Měl-li by osvědčení pro skupinu a), poskytoval by vázané úvěry oprávněně (absorpce). (b) Šlo-li by o úvěr na bydlení (písm. c), nestačilo by ani osvědčení pro skupinu a) — c) je samostatnou vrstvou nepokrytou absorpcí.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Vázaný úvěr je přece úvěr jiný než na bydlení, takže kvalifikace stačí." Neutralizace: odst. 5 zakládá absorpci jen ve směru a)→b); systematika § 2 řadí vázaný úvěr pod nevázaný jako užší kategorii, kvalifikace pro užší kategorii nepokrývá širší.
+- *Protiargument:* „Maturita je formalita, rozhodující je zkouška." Neutralizace: odst. 2 činí všeobecné znalosti samostatnou kumulativní podmínkou; bez maturity/vyššího vzdělání není způsobilost dána ani při složené zkoušce.
+- *Slabé místo:* obsah pojmu „prokazatelný způsob" zkoušky dotváří vyhláška a praxe akreditovaných osob; spory o formu jsou vzácné, neboť zkouška bývá písemná testová.
+
+##### H. Praktický závěr
+
+Odborná způsobilost je dvoukomponentní (vzdělání + zkouška) a vázaná na konkrétní skupinu odbornosti. Před svěřením úvěrové činnosti vždy ověřit, že osvědčení pokrývá přesně tu skupinu, v níž má pracovník působit.
+
+**Checklist (poskytovatel / zprostředkovatel / ČNB):**
+- [ ] Doloženo maturitní vysvědčení nebo doklad o vyšším vzdělání (odst. 2).
+- [ ] Osvědčení o zkoušce existuje a uvádí skupinu odbornosti (odst. 3, § 70 písm. c).
+- [ ] Skupina v osvědčení odpovídá fakticky vykonávané činnosti.
+- [ ] Aplikováno pravidlo absorpce jen ve směru a)→b), nikoli na c).
+
+**Typicky rozhodné důkazy / podklady:** maturitní vysvědčení/diplom, osvědčení o vykonané odborné zkoušce, pracovní náplň, vzorky uzavřených smluv, zápis v registru ČNB.
+
 ---
 
 #### § 61 — Oprávnění pořádat odborné zkoušky
@@ -149,6 +185,41 @@ Princip je systémově důležitý — **odděluje** subjekt, který provádí k
 
 V praxi působí na trhu několik akreditovaných osob (poradenské společnosti, profesní asociace, vzdělávací instituce), jejichž seznam ČNB zveřejňuje na svých internetových stránkách (§ 62 odst. 2).
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Vzdělávací společnost VZDĚL, s. r. o., bez akreditace ČNB začala pořádat „certifikované odborné zkoušky distributora spotřebitelského úvěru" a vydávat účastníkům doklad nazvaný „osvědčení". Doklady předkládali uchazeči zaměstnavatelům jako důkaz odborné způsobilosti. ČNB zahájila šetření. Důkazy: webová nabídka kurzů, vystavené „osvědčení", seznam akreditovaných osob ČNB, smlouvy účastníků.
+
+**2. Právní otázka.** Může neakreditovaná osoba platně pořádat odbornou zkoušku ve smyslu ZSÚ a vydávat osvědčení prokazující odbornou způsobilost?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 61 (monopol akreditované osoby na pořádání zkoušek).
+- *Související ustanovení téhož zákona:* § 60 odst. 3 (způsobilost se prokazuje osvědčením o zkoušce „podle tohoto zákona"); § 62 (kdo je akreditovanou osobou); § 70 (náležitosti osvědčení).
+- *Související předpisy:* vyhláška ČNB č. 384/2016 Sb.; ustanovení Části dvanácté ZSÚ o přestupcích.
+- *Judikatura:* analogie s regulovanými profesemi (advokátské zkoušky ČAK, auditorské KA ČR) — nosný princip, že kvalifikační akt vydaný neoprávněným subjektem nevyvolává zamýšlené právní účinky.
+
+**4. Subsumpce.** § 61 výslovně stanoví, že zkoušky „může pořádat pouze akreditovaná osoba". VZDĚL akreditaci nemá. Doklad jí vydaný proto není osvědčením „podle tohoto zákona" ve smyslu § 60 odst. 3 a neprokazuje odbornou způsobilost.
+
+**5. Řešení.** Doklady VZDĚL jsou pro účely ZSÚ bezcenné; jejich držitelé odbornou způsobilost neprokázali. Uchazeči musí složit zkoušku u akreditované osoby. VZDĚL se vystavuje riziku postihu za klamavou nabídku a uvádění v omyl. Zaměstnavatelé, kteří doklad uznali, riskují, že jejich pracovníci nejsou způsobilí.
+
+**6. Varianty.** (a) Získala-li by VZDĚL akreditaci (§ 62 a násl.), dříve vydané doklady by se zpětně nezhojily — způsobilost je dána až zkouškou u akreditovaného subjektu. (b) Pořádá-li VZDĚL pouze přípravné kurzy bez vydávání „osvědčení", § 61 neporušuje.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zkoušku provedl odborně zdatný lektor, obsah byl správný." Neutralizace: § 61 chrání nezávislost a institucionální integritu procesu, nikoli jen věcnou správnost; oprávnění je vázáno na akreditaci, nikoli na odbornost konkrétní osoby.
+- *Protiargument:* „Spotřebitel nebyl poškozen." Neutralizace: ochranou normou je integrita kvalifikačního systému; porušení nevyžaduje vznik škody.
+- *Slabé místo:* hranice mezi (dovoleným) přípravným kurzem a (zakázaným) pořádáním zkoušky může být v marketingových materiálech zastřená — rozhodující je, zda subjekt fakticky ověřuje znalosti a vydává kvalifikační doklad.
+
+##### H. Praktický závěr
+
+Pořádat odborné zkoušky smí jen akreditovaná osoba zapsaná v seznamu ČNB. Doklad od neakreditovaného subjektu neprokazuje způsobilost. Vždy ověřit status poskytovatele zkoušky v seznamu ČNB.
+
+**Checklist (uchazeč / zaměstnavatel / ČNB):**
+- [ ] Poskytovatel zkoušky je v seznamu akreditovaných osob ČNB (§ 62 odst. 2).
+- [ ] Doklad je „osvědčením podle tohoto zákona", ne pouze certifikát kurzu.
+- [ ] Skupina odbornosti odpovídá akreditaci poskytovatele zkoušky.
+
+**Typicky rozhodné důkazy / podklady:** seznam akreditovaných osob ČNB, vydané osvědčení, nabídka a smlouva o zkoušce, marketingové materiály.
+
 ---
 
 #### § 62 — Akreditovaná osoba
@@ -164,6 +235,41 @@ V praxi působí na trhu několik akreditovaných osob (poradenské společnosti
 § 62 zavádí legální definici **akreditované osoby** odkazem na akt jejího vzniku — akreditaci udělenou ČNB (odst. 1). Akreditace je správním rozhodnutím konstitutivní povahy: bez něho akreditovaná osoba neexistuje; s ním vzniká s účinky ex nunc ke dni právní moci rozhodnutí.
 
 **Povinnost veřejné transparentnosti (odst. 2):** ČNB zveřejňuje seznam akreditovaných osob „způsobem umožňujícím dálkový přístup" — tj. typicky na svých internetových stránkách. Tato povinnost je projevem zásady transparentnosti finančního trhu a slouží uchazečům o zkoušku k volbě poskytovatele zkoušky.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnavatel přijal uchazeče, který předložil osvědčení vystavené subjektem, jenž v době zkoušky byl zapsán v seznamu akreditovaných osob ČNB, ale dnes již v seznamu uveden není (akreditace mezitím zanikla uplynutím doby). Personalista pochybuje, zda je osvědčení stále platné. Důkazy: osvědčení s datem zkoušky, aktuální i archivní výpis ze seznamu ČNB.
+
+**2. Právní otázka.** Ovlivňuje pozdější zánik akreditace osoby, která zkoušku pořádala, platnost dříve vydaného osvědčení a možnost ověřit její tehdejší status?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 62 odst. 1 (akreditovanou osobou je ten, komu ČNB udělila akreditaci) a odst. 2 (zveřejnění seznamu dálkovým přístupem).
+- *Související ustanovení téhož zákona:* § 67 (zánik akreditace nemá retroaktivní účinek); § 71 (uchovávání dokumentů přetrvává i po zániku akreditace); § 60 odst. 3 (osvědčení jako důkaz způsobilosti).
+- *Související předpisy:* § 71 SŘ (povaha rozhodnutí o akreditaci jako konstitutivního aktu).
+- *Judikatura:* obecný princip ochrany nabytých práv a zákazu retroaktivity — akt platně učiněný za trvání oprávnění zůstává platným i po jeho zániku.
+
+**4. Subsumpce.** Osvědčení bylo vydáno v době, kdy poskytovatel zkoušky byl akreditovanou osobou (odst. 1). Zánik akreditace působí ex nunc; již vydaná osvědčení zůstávají platná. Seznam dle odst. 2 slouží k ověření aktuálního stavu, archivní záznam k ověření stavu k datu zkoušky.
+
+**5. Řešení.** Osvědčení je platné. Personalista ověří v seznamu/archivu ČNB, že subjekt byl akreditován k datu zkoušky. Způsobilost uchazeče je prokázána.
+
+**6. Varianty.** (a) Bylo-li by osvědčení vydáno až po zániku akreditace, nešlo by o osvědčení „podle tohoto zákona" a způsobilost by neprokazovalo. (b) Byla-li akreditace odňata zpětně pro nepravdivé údaje (§ 68 odst. 2 písm. a), nutno posoudit dopad konkrétního rozhodnutí ČNB.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Subjekt už není v seznamu, tedy osvědčení neplatí." Neutralizace: rozhodující je status k datu konání zkoušky, ne k datu ověřování; zánik akreditace nepůsobí zpětně (§ 67).
+- *Protiargument:* „Seznam je jen informativní." Neutralizace: odst. 2 zakládá veřejnoprávní povinnost ČNB seznam vést; je autoritativním zdrojem pro ověření statusu.
+- *Slabé místo:* archivní dostupnost historických stavů seznamu nemusí být vždy plně dálkově přístupná; v krajním případě nutné dotázat se ČNB nebo využít evidence dle § 71.
+
+##### H. Praktický závěr
+
+Akreditovanou osobou je výhradně subjekt s platně udělenou akreditací ČNB; jeho seznam je veřejný. Status se posuzuje k okamžiku konání zkoušky.
+
+**Checklist (zaměstnavatel / uchazeč / ČNB):**
+- [ ] Subjekt byl akreditovanou osobou k datu zkoušky (odst. 1).
+- [ ] Ověření provedeno v seznamu/archivu ČNB (odst. 2).
+- [ ] Zohledněno, že zánik akreditace nepůsobí retroaktivně.
+
+**Typicky rozhodné důkazy / podklady:** osvědčení s datem zkoušky, aktuální a archivní výpis ze seznamu akreditovaných osob ČNB.
 
 ---
 
@@ -206,6 +312,43 @@ Akreditace se neuděluje globálně, nýbrž **vázáně na konkrétní skupinu 
 
 Prováděcím předpisem je **vyhláška ČNB č. 381/2016 Sb.**, o žádostech, oznámeních a předkládání výkazů podle zákona o spotřebitelském úvěru, která vymezuje technické náležitosti.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Společnost AKRED, a. s., požádala ČNB o udělení akreditace pro skupinu odbornosti „úvěr na bydlení". Doložila prostory, IT systém pro testování, dva zkoušející a zkouškový řád. Jediným akcionářem (ovládající osobou) je pan X, který byl před třemi lety pravomocně odsouzen za úvěrový podvod. ČNB žádost zamítla. Důkazy: žádost s přílohami, výpis z rejstříku trestů ovládající osoby, zkouškový řád, doklady o organizačně-technickém zázemí.
+
+**2. Právní otázka.** Brání nedostatek důvěryhodnosti ovládající osoby žadatele udělení akreditace, i když žadatel sám a jeho organizační předpoklady jsou bez vad?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 63 odst. 2 písm. a (důvěryhodnost žadatele i ovládající osoby) a kumulativní podmínky písm. b)–d).
+- *Související ustanovení téhož zákona:* § 72 odst. 2 písm. a (odsouzení za hospodářský/úmyslný trestný čin); § 73 (důvěryhodnost PO); § 69 odst. 2 (zkouškový řád).
+- *Související předpisy:* § 74 zákona č. 90/2012 Sb., o obchodních korporacích (ovládající osoba); vyhláška ČNB č. 381/2016 Sb.; § 105 a násl. TZ (zahlazení).
+- *Judikatura:* nosný závěr, že podmínky veřejnoprávního oprávnění jsou kumulativní a nesplnění jediné z nich brání jeho udělení.
+
+**4. Subsumpce.** Podmínky odst. 2 jsou kumulativní. Žadatel splnil písm. b)–d), avšak písm. a) výslovně rozšiřuje důvěryhodnost na ovládající osobu. Pan X je odsouzen za hospodářský trestný čin (§ 72 odst. 2 písm. a), odsouzení není zahlazeno. Podmínka písm. a) tudíž splněna není.
+
+**5. Řešení.** ČNB akreditaci neudělí. Náprava: změna ovládající struktury (převod akcií na důvěryhodnou osobu) nebo vyčkání zahlazení odsouzení pana X, poté nová žádost. Bez odstranění vady v osobě ovládající nelze akreditaci získat.
+
+**6. Varianty.** (a) Bylo-li by odsouzení pana X zahlazeno, status důvěryhodnosti se obnoví a podmínka by byla splněna. (b) Šlo-li by o odsouzení pro nedbalostní trestný čin, diskvalifikační znak dle § 72 odst. 2 písm. a) by se neuplatnil.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Ovládající osoba se neúčastní provádění zkoušek, vada je formální." Neutralizace: písm. a) ji výslovně zahrnuje; smyslem je zabránit ovládnutí formálně nezávadné PO nedůvěryhodnou osobou.
+- *Protiargument:* „Organizační a personální zázemí je bezvadné, to má převážit." Neutralizace: podmínky jsou kumulativní; bezvadnost ostatních nehojí absenci jedné.
+- *Slabé místo:* identifikace skutečné ovládající osoby u složitějších vlastnických struktur může být sporná; ČNB může vyžadovat doložení až ke skutečnému majiteli.
+
+##### H. Praktický závěr
+
+Akreditace se uděluje pro konkrétní skupinu odbornosti a jen při kumulativním splnění čtyř podmínek; důvěryhodnost se vztahuje i na ovládající osobu žadatele.
+
+**Checklist (žadatel / ČNB):**
+- [ ] Žadatel i ovládající osoba důvěryhodní (písm. a, § 72–73).
+- [ ] Doloženy věcné, kvalifikační, organizační a personální předpoklady (písm. b).
+- [ ] Předložen zkouškový řád dle § 69 odst. 2 (písm. c).
+- [ ] Údaje umožňují identifikaci v základních registrech (písm. d).
+- [ ] Vymezen rozsah akreditace dle skupin odbornosti (odst. 1).
+
+**Typicky rozhodné důkazy / podklady:** žádost s přílohami, výpisy z rejstříku trestů žadatele i ovládající osoby, zkouškový řád, doklady o prostorách, IT a zkoušejících.
+
 ---
 
 #### § 64 — Žádost o udělení akreditace a o změnu udělené akreditace
@@ -229,6 +372,42 @@ Zákon stanoví **výlučně elektronickou formu** podání — listinné podán
 #### Tříměsíční lhůta (odst. 3)
 
 ČNB má **3 měsíce** od doručení žádosti na vydání rozhodnutí. Jde o **pořádkovou lhůtu** ve smyslu § 71 SŘ (správní řád č. 500/2004 Sb.) — nevydání rozhodnutí v této lhůtě nezakládá fikci vyhovění (na rozdíl od prodloužení akreditace dle § 65 odst. 3). Žadatel se však může ve smyslu § 80 SŘ obrátit na nadřízený orgán s podnětem k ochraně před nečinností; subsidiárně i žalobou na nečinnost dle § 79 SŘS (zákon č. 150/2002 Sb., soudní řád správní).
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Akreditovaná osoba podala žádost o změnu akreditace (rozšíření o skupinu „úvěr na bydlení") v listinné podobě poštou. ČNB podání odmítla pro nepřípustnou formu. Žadatel namítá, že příloh bylo mnoho a elektronicky je nezvládl odeslat. Důkazy: poštovní podání, výzva ČNB, datová schránka žadatele.
+
+**2. Právní otázka.** Lze žádost o akreditaci nebo její změnu podat jinak než elektronicky a do kdy musí ČNB rozhodnout?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 64 odst. 1 (výlučně elektronická forma), odst. 2 (náležitosti a doklady), odst. 3 (tříměsíční lhůta).
+- *Související ustanovení téhož zákona:* § 63 odst. 2 (podmínky, jejichž splnění se dokládá); § 65 (prodloužení a fikce vyhovění).
+- *Související předpisy:* § 71 SŘ (lhůty pro vydání rozhodnutí, pořádková povaha); § 80 SŘ (ochrana před nečinností); § 79 SŘS (žaloba na nečinnost); vyhláška ČNB č. 381/2016 Sb. (formáty).
+- *Judikatura:* nosný závěr správních soudů, že nedodržení pořádkové lhůty samo o sobě nezakládá fikci rozhodnutí, ledaže ji zákon výslovně stanoví.
+
+**4. Subsumpce.** Odst. 1 stanoví výlučně elektronickou formu („pouze elektronicky"). Listinné podání je vadné. Tříměsíční lhůta odst. 3 běží až od řádně doručené (elektronické) žádosti; na rozdíl od § 65 odst. 3 zde žádná fikce vyhovění není.
+
+**5. Řešení.** Žadatel musí žádost podat elektronicky (datová schránka, formulář ČNB). Lhůta tří měsíců se počítá od tohoto řádného doručení. Při nečinnosti ČNB lze využít § 80 SŘ, případně žalobu dle § 79 SŘS — nelze však spoléhat na automatické vyhovění.
+
+**6. Varianty.** (a) U žádosti o prodloužení akreditace (§ 65) by marné uplynutí tří měsíců znamenalo fikci prodloužení; zde, u změny/udělení, taková fikce neplatí. (b) Byly-li by přílohy neúplné, lhůta běží až od doplnění (§ 45 SŘ).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Listinné podání je rovnocenné, jde o formalismus." Neutralizace: odst. 1 výslovně připouští „pouze elektronicky"; jiná forma je nepřípustná.
+- *Protiargument:* „Po třech měsících musí mít žádost za schválenou." Neutralizace: fikci vyhovění zná jen § 65 odst. 3 pro prodloužení; pro udělení/změnu jde o pořádkovou lhůtu bez fikce.
+- *Slabé místo:* okamžik počátku běhu lhůty může být sporný, pokud ČNB vyzve k doplnění — vhodné si vést evidenci doručení a doplnění.
+
+##### H. Praktický závěr
+
+Žádost o udělení i změnu akreditace se podává výlučně elektronicky; ČNB rozhoduje ve tříměsíční pořádkové lhůtě bez fikce vyhovění.
+
+**Checklist (žadatel / ČNB):**
+- [ ] Žádost podána elektronicky (datová schránka/formulář).
+- [ ] Přiloženy doklady o splnění podmínek § 63 odst. 2.
+- [ ] Hlídán běh tříměsíční lhůty od řádného doručení.
+- [ ] Při nečinnosti zvážen postup dle § 80 SŘ / § 79 SŘS.
+
+**Typicky rozhodné důkazy / podklady:** elektronické podání s přílohami, potvrzení o doručení, případné výzvy ČNB k doplnění.
 
 ---
 
@@ -256,6 +435,42 @@ Na rozdíl od původního udělení akreditace (§ 64 odst. 3 — žádné pravi
 
 V praxi to znamená, že akreditovaná osoba se nemusí obávat náhlého ukončení činnosti v důsledku administrativních průtahů — stačí včas podat žádost o prodloužení (zpravidla několik měsíců před uplynutím platnosti).
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Akreditované osobě končí pětiletá akreditace 30. září. Žádost o prodloužení podala elektronicky 1. července (tři měsíce předem). ČNB do 30. září nerozhodla. Akreditovaná osoba se obává, že od 1. října nesmí pořádat zkoušky, a chce zrušit naplánované termíny. Důkazy: rozhodnutí o původní akreditaci s datem platnosti, elektronická žádost o prodloužení a potvrzení o doručení.
+
+**2. Právní otázka.** Smí akreditovaná osoba pořádat zkoušky po uplynutí pětileté doby, jestliže včas požádala o prodloužení a ČNB do konce platnosti nerozhodla?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 65 odst. 1 (doba 5 let), odst. 2 (opakované prodloužení o 5 let), odst. 3 (tříměsíční lhůta a fikce prodloužení).
+- *Související ustanovení téhož zákona:* § 67 písm. c (zánik uplynutím doby, nebyla-li akreditace prodloužena); § 64 odst. 3 (udělení — bez fikce).
+- *Související předpisy:* § 71 SŘ (lhůty); § 73 SŘ (právní moc).
+- *Judikatura:* obecný princip, že fikce pozitivního správního aktu nastává ze zákona marným uplynutím lhůty bez nutnosti dalšího úkonu.
+
+**4. Subsumpce.** Žádost byla podána elektronicky a doručena (1. července). Tříměsíční lhůta uplyne 1. října. ČNB nerozhodla. Dle odst. 3 in fine „platí, že akreditace byla prodloužena" — nastává fikce prodloužení o dalších 5 let. Důvod zániku dle § 67 písm. c) se neuplatní.
+
+**5. Řešení.** Akreditovaná osoba může v činnosti pokračovat; akreditace se prodloužila fikcí. Naplánované termíny rušit netřeba. Pro jistotu si uchová doklad o doručení žádosti a o uplynutí lhůty.
+
+**6. Varianty.** (a) Podala-li by žádost až 20. září (méně než 3 měsíce před koncem), fikce by k 1. říjnu nenastala a akreditace by uplynutím doby zanikla (§ 67 písm. c) do rozhodnutí o prodloužení. (b) U prvožádosti o udělení (§ 64) by žádná fikce nenastala vůbec.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Bez kladného rozhodnutí ČNB akreditace zanikla." Neutralizace: odst. 3 in fine zakládá fikci prodloužení ex lege; absence rozhodnutí ji nezvrací, naopak ji aktivuje.
+- *Protiargument:* „Fikce platí i pro úplně novou akreditaci." Neutralizace: fikce je výhradně pro prodloužení (odst. 3); na udělení dle § 64 odst. 3 se nevztahuje.
+- *Slabé místo:* včasnost podání je rozhodující — opožděná žádost fikci nezaloží; nutno podat s dostatečným předstihem (alespoň 3 měsíce).
+
+##### H. Praktický závěr
+
+Akreditace trvá 5 let a lze ji opakovaně prodloužit; při včasné žádosti a nečinnosti ČNB nastává fikce prodloužení. Žádost podávat s dostatečným předstihem.
+
+**Checklist (akreditovaná osoba / ČNB):**
+- [ ] Žádost o prodloužení podána elektronicky alespoň 3 měsíce před koncem platnosti.
+- [ ] Doloženo splnění podmínek dle zákona.
+- [ ] Sledováno uplynutí tříměsíční lhůty pro vznik fikce prodloužení.
+- [ ] Uchován doklad o doručení žádosti.
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o původní akreditaci s datem platnosti, elektronická žádost o prodloužení, potvrzení o doručení, evidence běhu lhůty.
+
 ---
 
 #### § 66 — Změna údajů o akreditované osobě
@@ -271,6 +486,41 @@ V praxi to znamená, že akreditovaná osoba se nemusí obávat náhlého ukonč
 Předmětem oznámení jsou **změny podmínek dle § 63 odst. 2** — typicky personální změny (odchod klíčového zkoušejícího), změna ovládající osoby, změna sídla, závažné organizační reorganizace.
 
 Důsledek nesplnění oznamovací povinnosti: jde o porušení povinnosti, které může vést k **odnětí akreditace** dle § 68 odst. 2 písm. c) (závažné nebo opakované porušení povinností) a může být sankcionováno správním deliktem dle Části dvanácté ZSÚ.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Akreditované osobě (s. r. o.) odstoupil v dubnu klíčový zkoušející a v květnu se změnil jediný společník (nová ovládající osoba). Jednatel oznámil obě změny ČNB až v listopadu, společně s žádostí o prodloužení akreditace. ČNB řešení nesplnění oznamovací povinnosti. Důkazy: zápis o odchodu zkoušejícího, smlouva o převodu podílu, datum oznámení ČNB.
+
+**2. Právní otázka.** Porušila akreditovaná osoba oznamovací povinnost, oznámila-li změny podmínek dle § 63 odst. 2 až s několikaměsíčním zpožděním, a jaké to má následky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 66 odst. 1 (povinnost bez zbytečného odkladu elektronicky oznámit změnu podmínek dle § 63 odst. 2).
+- *Související ustanovení téhož zákona:* § 63 odst. 2 (předmět oznamovaných změn — personální, organizační, ovládající osoba); § 68 odst. 2 písm. c (odnětí pro porušení povinností); Část dvanáctá (přestupky).
+- *Související předpisy:* § 1958 odst. 2 OZ (výklad „bez zbytečného odkladu").
+- *Judikatura:* nosný závěr, že „bez zbytečného odkladu" znamená neprodleně, jakmile to je objektivně možné po seznámení se s rozhodnou skutečností.
+
+**4. Subsumpce.** Změna zkoušejícího i změna ovládající osoby jsou změnami podmínek dle § 63 odst. 2 (personální předpoklady, resp. důvěryhodnost ovládající osoby). Povinnost je oznámit „bez zbytečného odkladu". Oznámení až v listopadu (změny v dubnu a květnu) tuto lhůtu zjevně překračuje.
+
+**5. Řešení.** Akreditovaná osoba porušila § 66 odst. 1. Porušení může být sankcionováno jako přestupek a při závažnosti či opakování může vést k odnětí akreditace (§ 68 odst. 2 písm. c). Náprava: okamžité oznámení každé další změny, nastavení interního procesu hlídání oznamovacích povinností.
+
+**6. Varianty.** (a) Oznámila-li by změny do několika dní, povinnost by splnila. (b) Měla-li nová ovládající osoba sama vadu důvěryhodnosti (§ 72 odst. 2), hrozí navíc ztráta podmínky dle § 63 odst. 2 písm. a) a odnětí dle § 68 odst. 2 písm. b).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Oznámení proběhlo, byť později, povinnost je splněna." Neutralizace: povinnost je včasná; opožděné oznámení je porušením lhůty „bez zbytečného odkladu".
+- *Protiargument:* „Změny neměly vliv na kvalitu zkoušek." Neutralizace: oznamovací povinnost je formální a samostatná; její porušení nezávisí na faktickém dopadu změny.
+- *Slabé místo:* neurčitost lhůty „bez zbytečného odkladu" — vhodné se řídit dohledovým očekáváním ČNB (řád dnů, výjimečně týdnů).
+
+##### H. Praktický závěr
+
+Každou změnu podmínek akreditace je nutné ČNB oznámit elektronicky bez zbytečného odkladu; opožděné nebo opomenuté oznámení je porušením s rizikem sankce i odnětí akreditace.
+
+**Checklist (akreditovaná osoba / ČNB):**
+- [ ] Identifikována změna podmínky dle § 63 odst. 2 (personál, ovládající osoba, sídlo, organizace).
+- [ ] Oznámení podáno elektronicky bez zbytečného odkladu.
+- [ ] Nastaven interní proces sledování oznamovacích povinností.
+
+**Typicky rozhodné důkazy / podklady:** doklady o změně (zápisy, smlouvy o převodu podílu), datum a forma oznámení ČNB, interní evidence.
 
 ---
 
@@ -302,6 +552,42 @@ Důsledek nesplnění oznamovací povinnosti: jde o porušení povinnosti, kter�
 Důvody pod písm. a)–c) působí **ex lege** bez nutnosti dalšího aktu ČNB. Důvod pod písm. d) působí **konstitutivně** od právní moci rozhodnutí ČNB o odnětí.
 
 **Praktický důsledek pro probíhající zkoušky:** zanikne-li akreditace (jakýmkoli způsobem), akreditovaná osoba okamžitě ztrácí oprávnění pořádat zkoušky. Již dokončené zkoušky a vydaná osvědčení zůstávají platné — zánik akreditace nemá retroaktivní účinek. Povinnost uchovávat dokumenty (§ 71) platí dále, a to i pro právního nástupce a osobu, jejíž akreditace zanikla.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Akreditovaná osoba zanikla výmazem z obchodního rejstříku po fúzi s nástupnickou společností, která akreditaci nemá. V den výmazu měla rozdělané dvě zkoušky: jedna proběhla a osvědčení byla vydána den před výmazem, druhá byla naplánována na den po výmazu. Vyvstává otázka osudu obou zkoušek a uložených dokumentů. Důkazy: výpis z OR s datem výmazu, projekt fúze, záznamy o zkouškách, vydaná osvědčení.
+
+**2. Právní otázka.** Kdy a s jakými účinky zaniká akreditace při zániku právnické osoby a jaký je osud již vydaných osvědčení a archivovaných dokumentů?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 67 písm. b (zánik akreditace zánikem PO) a uzavřený výčet důvodů zániku (písm. a–d).
+- *Související ustanovení téhož zákona:* § 71 (uchovávání dokumentů přechází na právního nástupce); § 70 (osvědčení); § 68 (odnětí jako jiný důvod zániku).
+- *Související předpisy:* § 185 a násl. OZ a zákon o přeměnách (zánik PO výmazem z OR, přechod jmění na nástupce).
+- *Judikatura:* nosný princip zákazu retroaktivity — zánik oprávnění nepůsobí zpětně na akty platně učiněné za jeho trvání.
+
+**4. Subsumpce.** Akreditace zanikla ex lege ke dni výmazu z OR (§ 67 písm. b). Zánik nemá retroaktivní účinek: první zkouška a osvědčení (vydaná před výmazem za trvání akreditace) zůstávají platná. Druhou zkoušku (po výmazu) již nelze platně provést — subjekt oprávnění pozbyl. Archivační povinnost dle § 71 přechází na právního nástupce.
+
+**5. Řešení.** Osvědčení z první zkoušky jsou platná. Druhou zkoušku musí absolventi složit u jiné akreditované osoby. Nástupnická společnost převezme dokumenty a uchová je po zbytek desetileté lhůty (§ 71). Chce-li nástupce zkoušky pořádat, musí získat vlastní akreditaci.
+
+**6. Varianty.** (a) Zanikla-li by akreditace odnětím dle § 68 (písm. d), účinky by nastaly konstitutivně až právní mocí rozhodnutí ČNB. (b) Šlo-li by o smrt fyzické osoby (písm. a), akreditace zaniká rovněž ex lege, povinnost archivace přechází na osobu, jejíž akreditace zanikla / nástupce.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Po fúzi má nástupce automaticky i akreditaci." Neutralizace: akreditace je osobním veřejnoprávním oprávněním vázaným na subjekt, není součástí převáděného jmění; zaniká dle § 67 písm. b).
+- *Protiargument:* „Zánik akreditace zneplatňuje i dříve vydaná osvědčení." Neutralizace: zánik působí ex nunc, dříve vydaná osvědčení zůstávají platná.
+- *Slabé místo:* určení přesného okamžiku zániku PO (den výmazu) je klíčové pro posouzení platnosti hraničních úkonů — nutno doložit výpisem z OR.
+
+##### H. Praktický závěr
+
+Akreditace zaniká ze čtyř taxativních důvodů; zánik nepůsobí zpětně, dříve vydaná osvědčení zůstávají platná a archivační povinnost přechází na nástupce.
+
+**Checklist (akreditovaná osoba / nástupce / ČNB):**
+- [ ] Určen důvod a okamžik zániku akreditace (§ 67 písm. a–d).
+- [ ] Posouzeno, zda hraniční úkony proběhly před zánikem.
+- [ ] Zajištěn přechod archivace dokumentů na nástupce (§ 71).
+- [ ] Nedokončené zkoušky převedeny k jiné akreditované osobě.
+
+**Typicky rozhodné důkazy / podklady:** výpis z OR s datem výmazu, projekt fúze, záznamy o zkouškách a vydaných osvědčeních, doklady o předání archivu.
 
 ---
 
@@ -338,6 +624,42 @@ Zákon rozlišuje **dva typy odnětí akreditace**:
 | c) | Závažné nebo opakované porušení | Dohledová sankce |
 
 Důvod **písm. c)** je nejširší — pojem „závažné porušení" je neurčitým právním pojmem, jehož obsah dotváří dohledová praxe ČNB a judikatura správních soudů. Typickými závažnými porušeními jsou: porušení integrity zkoušky (uniknutí otázek, neoprávněné vydání osvědčení bez složení zkoušky), porušení mlčenlivosti, opakované porušení formy či povinnosti uchovávat dokumenty (§ 71).
+
+##### F. Kazuistika
+
+**1. Modelová situace.** ČNB při dohledové kontrole zjistila, že akreditovaná osoba opakovaně vydávala osvědčení uchazečům, kteří fakticky zkoušku nesložili (jeden ze zkoušejících jim předem poskytl správné odpovědi). Šlo o desítky případů během roku. Důkazy: protokoly o zkouškách, e-mailová komunikace zkoušejícího s uchazeči, výsledkové listiny, výpovědi.
+
+**2. Právní otázka.** Je vydávání osvědčení bez řádně složené zkoušky důvodem pro odnětí akreditace a jaký typ odnětí ČNB použije?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 68 odst. 2 písm. c (závažné nebo opakované porušení povinností), odst. 1 (odnětí na žádost), odst. 2 písm. a) a b).
+- *Související ustanovení téhož zákona:* § 69 (integrita zkoušky, soubor otázek od ČNB); § 70 (náležitosti osvědčení); § 61–62 (monopol a status akreditované osoby).
+- *Související předpisy:* § 68 odst. 3 SŘ (odůvodnění správní úvahy); Část dvanáctá ZSÚ (přestupky).
+- *Judikatura:* „závažné porušení" je neurčitý právní pojem; nosný závěr správních soudů, že správní úvaha o odnětí oprávnění musí být řádně a přezkoumatelně odůvodněna.
+
+**4. Subsumpce.** Vydávání osvědčení bez složené zkoušky porušuje integritu kvalifikačního procesu (§ 69, § 70). Jde o porušení závažné i opakované (desítky případů) — naplněn znak § 68 odst. 2 písm. c). ČNB zde uplatní fakultativní odnětí z úřední povinnosti („může odejmout"), svou úvahu však musí odůvodnit.
+
+**5. Řešení.** ČNB s vysokou pravděpodobností akreditaci odejme dle odst. 2 písm. c); v odůvodnění zváží závažnost, opakování, dopad na integritu systému. Souběžně lze vést přestupkové řízení. Neoprávněně vydaná osvědčení neprokazují způsobilost jejich držitelů.
+
+**6. Varianty.** (a) Šlo-li by o ojedinělé administrativní pochybení bez úmyslu, ČNB by mohla zvolit mírnější opatření — fakultativnost dává prostor pro proporcionalitu. (b) Požádala-li by sama akreditovaná osoba o odnětí (odst. 1), ČNB by musela vyhovět bez ohledu na probíhající šetření, to však nevylučuje přestupkovou odpovědnost.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Pochybil jednotlivý zkoušející, ne akreditovaná osoba." Neutralizace: akreditovaná osoba odpovídá za řádný průběh zkoušek prostřednictvím komise (§ 69 odst. 2); selhání v jejím systému jí lze přičíst.
+- *Protiargument:* „Odnětí je nepřiměřené, stačí napomenutí." Neutralizace: u závažného a opakovaného porušení integrity je odnětí přiměřené; ČNB musí jen úvahu odůvodnit (§ 68 odst. 3 SŘ).
+- *Slabé místo:* dokazování úniku otázek a podvodu vyžaduje pevné důkazy (komunikace, srovnání odpovědí); bez nich hrozí zrušení rozhodnutí soudem.
+
+##### H. Praktický závěr
+
+Akreditaci lze odejmout na žádost (povinně) nebo z úřední povinnosti (fakultativně) zejména pro závažné či opakované porušení; rozhodnutí o odnětí z moci úřední musí obsahovat odůvodněnou správní úvahu.
+
+**Checklist (ČNB / akreditovaná osoba):**
+- [ ] Identifikován důvod odnětí (odst. 1 nebo odst. 2 písm. a–c).
+- [ ] U fakultativního odnětí odůvodněna správní úvaha (závažnost, opakování, dopad).
+- [ ] Posouzen souběh s přestupkovou odpovědností.
+- [ ] Vyřešen osud neoprávněně vydaných osvědčení.
+
+**Typicky rozhodné důkazy / podklady:** protokoly o zkouškách, výsledkové listiny, komunikace zkoušejících, výpovědi, dohledové zjištění ČNB.
 
 ---
 
@@ -383,6 +705,43 @@ Akreditovaná osoba musí **s dostatečným předstihem** zveřejnit:
 
 „Dostatečný předstih" není kvantifikován — dohledová praxe ČNB očekává minimálně několik týdnů, aby uchazeči mohli plánovat. Zveřejnění je formou prevence diskriminace přístupu ke zkoušce.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Akreditovaná osoba pro zvýšení své úspěšnosti zveřejnila uchazečům před zkouškou kompletní soubor otázek i s řešením, který obdržela od ČNB jako důvěrný. Konkurenční akreditovaná osoba na únik upozornila ČNB. Důkazy: porovnání zveřejněného materiálu se souborem otázek ČNB, interní e-maily, svědectví uchazečů.
+
+**2. Právní otázka.** Smí akreditovaná osoba vytvářet vlastní otázky nebo zveřejnit důvěrný soubor otázek poskytnutý ČNB a jaké to má důsledky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 69 odst. 1 (soubor otázek připravuje ČNB ve spolupráci s MF), odst. 2 (zkouškový řád, komise), odst. 3 (transparenční povinnosti), odst. 4 (informování o výsledku).
+- *Související ustanovení téhož zákona:* § 60 (rozsah znalostí); § 68 odst. 2 písm. c (odnětí za porušení integrity); § 63 odst. 2 písm. c (schválený zkouškový řád).
+- *Související předpisy:* vyhláška ČNB č. 384/2016 Sb. (forma zkoušky, pravidla nakládání s otázkami).
+- *Judikatura:* nosný princip jednotnosti a srovnatelnosti standardizovaných zkoušek — zveřejnění otázek narušuje srovnatelnost a integritu.
+
+**4. Subsumpce.** Otázky připravuje výhradně ČNB (odst. 1); akreditovaná osoba je nesmí měnit ani zveřejnit. Zveřejnění důvěrného souboru je závažným porušením integrity zkoušky — naplňuje znak § 68 odst. 2 písm. c) (závažné porušení povinností).
+
+**5. Řešení.** ČNB může akreditaci odejmout a vést přestupkové řízení; zkoušky proběhlé s uniklými otázkami jsou kompromitované a způsobilost takto „proškolených" uchazečů je zpochybnitelná. Akreditovaná osoba musí zajistit důvěrnost otázek (zabezpečené úložiště, řízený přístup).
+
+**6. Varianty.** (a) Zveřejnila-li by akreditovaná osoba jen ukázkové/demonstrační otázky výslovně určené ke zveřejnění, k porušení by nedošlo. (b) Pořádala-li by zkoušku z vlastních otázek místo souboru ČNB, šlo by o porušení odst. 1 i bez úniku.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zveřejnění otázek zvyšuje připravenost uchazečů, je to ku prospěchu." Neutralizace: smyslem zkoušky je ověřit znalosti, nikoli nacvičit konkrétní odpovědi; únik ničí srovnatelnost a integritu (odst. 1).
+- *Protiargument:* „Zkouškový řád zveřejnění nezakazoval." Neutralizace: povinnost důvěrnosti plyne z povahy souboru otázek dle odst. 1 a vyhlášky, nikoli (jen) ze zkouškového řádu.
+- *Slabé místo:* prokázání totožnosti zveřejněného materiálu s důvěrným souborem ČNB vyžaduje pečlivé srovnání a doložení zdroje úniku.
+
+##### H. Praktický závěr
+
+Soubor zkouškových otázek tvoří ČNB; akreditovaná osoba jej nesmí měnit ani zveřejnit a musí zajistit řádný a transparentní průběh zkoušky prostřednictvím komise.
+
+**Checklist (akreditovaná osoba / ČNB):**
+- [ ] Používán výhradně soubor otázek od ČNB (odst. 1).
+- [ ] Zajištěna důvěrnost a zabezpečení otázek.
+- [ ] Průběh zajištěn komisí dle zkouškového řádu (odst. 2).
+- [ ] S předstihem zveřejněn termín, kapacita, poplatek a řád (odst. 3).
+- [ ] Zkoušený bez zbytečného odkladu informován o výsledku (odst. 4).
+
+**Typicky rozhodné důkazy / podklady:** soubor otázek ČNB, zkouškový řád, protokoly o průběhu, doklady o zveřejnění informací, případně důkazy o úniku.
+
 ---
 
 #### § 70 — Osvědčení o vykonání odborné zkoušky
@@ -415,6 +774,42 @@ Osvědčení o úspěšném vykonání odborné zkoušky je **listinný (nebo el
 
 „**Bez zbytečného odkladu**" — akreditovaná osoba musí osvědčení vydat ihned po vyhodnocení zkoušky. V praxi se osvědčení často předává v den zkoušky (u písemné formy s automatizovaným vyhodnocením) nebo do několika dní.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Uchazeč úspěšně složil zkoušku a obdržel osvědčení, na němž však chybí údaj o rozsahu odborné zkoušky podle skupin odbornosti (§ 70 písm. c) — uvedeno je jen „spotřebitelský úvěr" bez bližšího určení. Zaměstnavatel neví, zda osvědčení opravňuje k úvěrům na bydlení. Důkazy: vydané osvědčení, protokol o zkoušce, akreditace poskytovatele zkoušky (na jakou skupinu zní).
+
+**2. Právní otázka.** Jaké jsou důsledky chybějícího nebo neurčitého údaje o skupině odbornosti v osvědčení a jak rozsah způsobilosti zjistit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 70 (šest obligatorních náležitostí osvědčení, zejména písm. c — rozsah dle skupin odbornosti).
+- *Související ustanovení téhož zákona:* § 60 odst. 3 a 4 (způsobilost a skupiny odbornosti); § 63 odst. 1 (akreditace pro konkrétní skupinu); § 71 (uchovávané záznamy o zkoušce a vydaných osvědčeních).
+- *Související předpisy:* vyhláška ČNB č. 384/2016 Sb.
+- *Judikatura:* nosný princip, že kvalifikační doklad prokazuje jen to, co je v něm určitě vyjádřeno; pochybnost o rozsahu jde k tíži určitosti dokladu.
+
+**4. Subsumpce.** Údaj o skupině odbornosti je obligatorní (§ 70 písm. c) a kritický — bez něj nelze stanovit, jaký druh úvěru držitel může poskytovat. Chybějící/neurčitý údaj činí osvědčení vadným v rozsahu prokazované způsobilosti.
+
+**5. Řešení.** Zaměstnavatel vyžádá od akreditované osoby opravu/doplnění osvědčení nebo potvrzení z uchovávaných záznamů (§ 71), jaké skupiny se zkouška týkala. Do vyjasnění nelze předpokládat oprávnění pro úvěry na bydlení, zejména pořádala-li akreditovaná osoba zkoušky jen pro jinou skupinu (§ 63 odst. 1).
+
+**6. Varianty.** (a) Zní-li akreditace poskytovatele jen na skupinu „jiný než na bydlení", je zřejmé, že osvědčení nemůže pokrývat bydlení. (b) Chybí-li podpis oprávněné osoby (písm. f), je vada formální a snadno zhojitelná doplněním.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zkouška proběhla, drobná chyba na osvědčení nevadí." Neutralizace: písm. c) je obligatorní a věcně určuje rozsah oprávnění; jeho absence není pouhou formalitou.
+- *Protiargument:* „Postačí ústní ujištění akreditované osoby." Neutralizace: rozsah musí být doložen listinně (opraveným osvědčením nebo záznamem dle § 71), jinak je důkazně nejistý.
+- *Slabé místo:* rekonstrukce rozsahu z uchovávaných záznamů závisí na jejich úplnosti a dostupnosti u akreditované osoby.
+
+##### H. Praktický závěr
+
+Osvědčení musí obsahovat všech šest náležitostí; klíčový je údaj o skupině odbornosti, který určuje rozsah způsobilosti. Při pochybnosti vyžádat opravu nebo doložení ze záznamů akreditované osoby.
+
+**Checklist (zaměstnavatel / akreditovaná osoba):**
+- [ ] Osvědčení obsahuje všech šest náležitostí § 70 písm. a)–f).
+- [ ] Jednoznačně uvedena skupina odbornosti (písm. c).
+- [ ] Rozsah odpovídá akreditaci poskytovatele zkoušky (§ 63 odst. 1).
+- [ ] Při vadě vyžádána oprava nebo potvrzení ze záznamů (§ 71).
+
+**Typicky rozhodné důkazy / podklady:** vydané osvědčení, protokol o zkoušce, akreditace poskytovatele zkoušky, uchovávané záznamy o zkoušce.
+
 ---
 
 #### § 71 — Uchovávání dokumentů o provádění odborných zkoušek
@@ -430,6 +825,42 @@ Osvědčení o úspěšném vykonání odborné zkoušky je **listinný (nebo el
 **Dlouhá archivační doba 10 let** odráží význam osvědčení jako trvalého kvalifikačního dokladu, který může být v průběhu profesní kariéry znovu předkládán. Lhůta začíná ode dne **konání zkoušky** (nikoli ode dne vydání osvědčení).
 
 **Pravidlo přechodu povinnosti:** Archivační povinnost přetrvává i po **zániku akreditace** a přechází i na **právního nástupce**. Toto pravidlo chrání zkoušené před ztrátou dokladů v důsledku reorganizace nebo zániku akreditované osoby. V praxi to znamená, že akreditovaná osoba, která ukončuje činnost, musí dokumenty buď uchovávat sama, nebo je předat právnímu nástupci, případně dohodnout uložení u jiné akreditované osoby (zpravidla s vědomím ČNB).
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Uchazeč o zápis do registru zprostředkovatelů ČNB složil zkoušku u akreditované osoby A před 8 lety. Tato osoba mezitím akreditaci pozbyla a fúzí přešla na nástupce B. ČNB v rámci ověření vyžaduje protokol o zkoušce a záznam o vydaném osvědčení. Nástupce B tvrdí, že dokumenty „už neeviduje". Důkazy: kopie osvědčení uchazeče, projekt fúze A do B, korespondence s ČNB.
+
+**2. Právní otázka.** Po jakou dobu a kdo musí uchovávat dokumenty o zkoušce, přešla-li akreditovaná osoba na právního nástupce, a od kterého dne lhůta běží?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 71 odst. 1 (předmět uchovávání), odst. 2 (lhůta nejméně 10 let ode dne konání zkoušky; přechod na právního nástupce a osobu, jejíž akreditace zanikla).
+- *Související ustanovení téhož zákona:* § 67 (zánik akreditace bez vlivu na archivační povinnost); § 70 (vydaná osvědčení); § 60 odst. 3 (důkazní funkce osvědčení).
+- *Související předpisy:* zákon o přeměnách (přechod jmění a povinností na nástupce).
+- *Judikatura:* nosný princip kontinuity povinností přecházejících při univerzální sukcesi na právního nástupce.
+
+**4. Subsumpce.** Zkouška proběhla před 8 lety; desetiletá lhůta běží ode dne jejího konání, dosud neuplynula. Povinnost archivace přešla na nástupce B (§ 71 odst. 2 in fine). Tvrzení B, že dokumenty neeviduje, je porušením této povinnosti.
+
+**5. Řešení.** Nástupce B je povinen dokumenty mít a ČNB poskytnout; jejich absence je porušením § 71 a může být sankcionována. Pro uchazeče: osvědčení samo o sobě prokazuje způsobilost; protokol slouží ČNB k ověření. B musí archiv dohledat (převzatý při fúzi), případně doložit jeho předání jinému subjektu.
+
+**6. Varianty.** (a) Proběhla-li by zkouška před více než 10 lety, archivační povinnost by zanikla a absence dokumentů by porušením nebyla. (b) Zanikla-li akreditovaná osoba bez nástupce (smrt FO, likvidace), povinnost váže osobu, jejíž akreditace zanikla — u likvidace nutno řešit uložení dokumentů.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Po zániku akreditace už povinnost archivovat netrvá." Neutralizace: § 71 odst. 2 výslovně zavazuje i osobu, jejíž akreditace zanikla, a právního nástupce.
+- *Protiargument:* „Lhůta běží od vydání osvědčení." Neutralizace: zákon ji výslovně počítá ode dne konání zkoušky, nikoli vydání osvědčení.
+- *Slabé místo:* při fúzích a převodech může být fyzické předání archivu opomenuto; rozhodující je univerzální sukcese, nikoli faktická držba dokumentů.
+
+##### H. Praktický závěr
+
+Dokumenty o zkouškách se uchovávají nejméně 10 let ode dne konání zkoušky; povinnost přechází na právního nástupce i osobu, jejíž akreditace zanikla. Při přeměnách zajistit předání archivu.
+
+**Checklist (akreditovaná osoba / nástupce / ČNB):**
+- [ ] Uchovávány záznamy o průběhu, výsledcích a vydaných osvědčeních (odst. 1).
+- [ ] Dodržena desetiletá lhůta ode dne konání zkoušky (odst. 2).
+- [ ] Při zániku/přeměně zajištěn přechod archivu na nástupce.
+- [ ] Dokumenty dohledatelné a poskytnutelné ČNB.
+
+**Typicky rozhodné důkazy / podklady:** protokoly o zkouškách, evidence vydaných osvědčení, projekt fúze/přeměny, doklady o předání archivu.
 
 ---
 
@@ -504,6 +935,43 @@ Zákon umožňuje **rehabilitaci** v případech, kdy insolvenční řízení ne
 
 Tyto výjimky chrání osoby, jejichž odpovědnost za úpadek je vyloučena nebo bylo vyvráceno jejich osobní zavinění.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Pan Dvořák žádá o zápis jako samostatný zprostředkovatel spotřebitelského úvěru. V evidenci je pravomocné odsouzení z doby před 6 lety za úmyslné ublížení na zdraví (nikoli majetkový či hospodářský trestný čin), dosud nezahlazené. Před 4 lety byl rovněž členem představenstva s. r. o., na jejíž majetek byl prohlášen konkurs; do funkce však byl zvolen až poté, co se společnost ocitla v úpadku. Důkazy: výpis z rejstříku trestů, rozhodnutí o úpadku PO, zápis o zvolení do funkce s datem.
+
+**2. Právní otázka.** Je pan Dvořák důvěryhodný ve smyslu § 72 přes existující odsouzení a předchozí členství v orgánu insolventní PO?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 72 odst. 1 (svéprávnost a předpoklad řádného provozování), odst. 2 písm. a) a c), odst. 3 písm. b) (rehabilitační výjimka — zvolení až za úpadku).
+- *Související ustanovení téhož zákona:* § 74 (rozhodný den pro běh 5leté lhůty); § 73 (propojení na PO).
+- *Související předpisy:* § 30 odst. 1 OZ (svéprávnost); § 105 a násl. TZ (zahlazení); § 159 OZ (péče řádného hospodáře); insolvenční zákon.
+- *Judikatura:* nosný princip taxativnosti diskvalifikačních znaků a striktního výkladu výjimek.
+
+**4. Subsumpce.** Odsouzení je za úmyslný trestný čin — písm. a) zahrnuje „jiný trestný čin spáchaný úmyslně", tedy nejen majetkové/hospodářské. Tento diskvalifikační znak je naplněn a do zahlazení nezaniká (bez časového limitu). Členství v orgánu insolventní PO (písm. c) by diskvalifikovalo, avšak pan Dvořák byl zvolen až za úpadku — uplatní se rehabilitační výjimka odst. 3 písm. b).
+
+**5. Řešení.** Pan Dvořák důvěryhodný není, a to kvůli nezahlazenému odsouzení za úmyslný trestný čin (písm. a). Insolvenční překážka je rehabilitací odst. 3 písm. b) odstraněna, ta však sama nestačí. Způsobilým se stane až zahlazením odsouzení. Do té doby ČNB zápis neprovede.
+
+**6. Varianty.** (a) Bylo-li by odsouzení nedbalostní, písm. a) by se neuplatnilo a (při rehabilitaci insolvenční překážky) by byl důvěryhodný. (b) Byl-li by do orgánu zvolen před úpadkem a nedoložil péči řádného hospodáře (odst. 3 písm. c), diskvalifikoval by ho i znak písm. c).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Odsouzení nesouvisí s financemi, nemělo by vadit." Neutralizace: písm. a) výslovně zahrnuje každý úmyslný trestný čin, nejen ekonomický.
+- *Protiargument:* „Od skutku uplynulo 6 let, je to promlčené." Neutralizace: u písm. a) neběží 5letá lhůta jako u písm. b)–d); překážka trvá až do zahlazení odsouzení.
+- *Slabé místo:* uplatnění výjimky odst. 3 vyžaduje doložení (datum zvolení do funkce, případně soudní určení péče řádného hospodáře); bez důkazu výjimku nelze přiznat.
+
+##### H. Praktický závěr
+
+Důvěryhodnost FO je dána svéprávností a předpokladem řádného provozování bez naplnění taxativních diskvalifikačních znaků; odsouzení za úmyslný trestný čin diskvalifikuje až do zahlazení, insolvenční překážky lze rehabilitovat.
+
+**Checklist (žadatel / ČNB):**
+- [ ] Osoba plně svéprávná (odst. 1).
+- [ ] Žádný nezahlazený úmyslný/majetkový/hospodářský trestný čin (odst. 2 písm. a).
+- [ ] Bez insolvenčních překážek dle odst. 2 písm. b)–c), případně doložena výjimka odst. 3.
+- [ ] Žádné odnětí oprávnění v posledních 5 letech (písm. d).
+- [ ] Správně určen rozhodný den dle § 74.
+
+**Typicky rozhodné důkazy / podklady:** výpis z rejstříku trestů, insolvenční rejstřík, zápisy o vzniku funkce s daty, případné soudní rozhodnutí dle odst. 3 písm. c).
+
 ---
 
 #### § 73 — Důvěryhodnost právnických osob
@@ -538,6 +1006,43 @@ Pravomocné odsouzení PO pro trestný čin podle **zákona č. 418/2011 Sb., o 
 
 Odst. 4 řeší procesně situaci zahraničních právnických osob: dokladem splnění podmínek důvěryhodnosti je **potvrzení příslušného orgánu dohledu** státu sídla PO. ČNB tak nepřezkoumává zahraniční podklady samostatně, nýbrž se spoléhá na osvědčení vydané partnerským dohledovým orgánem (princip vzájemného uznávání v rámci EU resp. EHP).
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Společnost ÚVĚR PLUS, s. r. o., žádá o zápis jako samostatný zprostředkovatel. Sama bez závad. Jeden z jejích tří jednatelů byl však před 2 lety pravomocně odsouzen za úvěrový podvod (§ 211 TZ), odsouzení není zahlazeno. Společnost namítá, že tento jednatel jedná jen v provozních věcech a úvěrů se netýká. Důkazy: výpis z OR (členové orgánů), rejstřík trestů jednatele, vnitřní rozdělení působnosti.
+
+**2. Právní otázka.** Je právnická osoba důvěryhodná, jestliže jeden z členů jejího statutárního orgánu nesplňuje podmínku důvěryhodnosti dle § 72?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 73 odst. 1 (předpoklad řádného provozování), odst. 2 písm. b (nesplnění důvěryhodnosti kterýmkoli členem orgánu), písm. a), c), d).
+- *Související ustanovení téhož zákona:* § 72 (důvěryhodnost FO — odkazovaný standard); § 74 (rozhodný den).
+- *Související předpisy:* zákon č. 418/2011 Sb. (TOPO); § 211, § 209 TZ.
+- *Judikatura:* nosný princip propojení důvěryhodnosti PO s bezúhonností členů jejích orgánů — jeden nedůvěryhodný člen „nakažuje" celou PO.
+
+**4. Subsumpce.** § 73 odst. 2 písm. b) stanoví, že PO není důvěryhodná, nesplňuje-li podmínku § 72 „některý" člen statutárního orgánu. Jednatel je odsouzen za hospodářský trestný čin (§ 72 odst. 2 písm. a), nezahlazeno. Vnitřní rozdělení působnosti je irelevantní — postačí formální členství v orgánu.
+
+**5. Řešení.** ÚVĚR PLUS důvěryhodná není. Náprava: odvolání či výměna dotčeného jednatele, případně vyčkání zahlazení jeho odsouzení. Až poté lze podat (novou) žádost o zápis.
+
+**6. Varianty.** (a) Byla-li by sama PO pravomocně odsouzena dle TOPO (písm. a), nedůvěryhodnost by plynula přímo, bez ohledu na členy orgánů. (b) Šlo-li by o řadového zaměstnance (nikoli člena orgánu), písm. b) by se neuplatnilo — propojení míří na členy orgánů.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Jednatel se úvěrů netýká, vada je bezvýznamná." Neutralizace: písm. b) váže nedůvěryhodnost na formální členství v orgánu, ne na faktickou působnost.
+- *Protiargument:* „Stačí, že většina jednatelů je bezúhonná." Neutralizace: zákon hovoří o „kterémkoli" členu; jediný nedůvěryhodný člen diskvalifikuje PO.
+- *Slabé místo:* u rozsáhlých orgánů a častých personálních změn je nutné průběžné prověřování všech členů; opomenutí jednoho znamená ztrátu důvěryhodnosti PO.
+
+##### H. Praktický závěr
+
+Důvěryhodnost PO je propojena s důvěryhodností všech členů jejích orgánů; jediný nedůvěryhodný člen činí celou PO nedůvěryhodnou. Před zápisem prověřit všechny členy orgánů.
+
+**Checklist (PO / ČNB):**
+- [ ] PO není pravomocně odsouzena dle TOPO (písm. a).
+- [ ] Všichni členové statutárního/dozorčího orgánu splňují § 72 (písm. b).
+- [ ] PO nepozbyla oprávnění pro porušení ZSÚ (písm. c).
+- [ ] Bez rozhodnutí o úpadku v rozhodném období (písm. d).
+- [ ] U zahraniční PO doloženo potvrzení orgánu dohledu státu sídla.
+
+**Typicky rozhodné důkazy / podklady:** výpis z OR (členové orgánů), rejstříky trestů členů i PO, insolvenční rejstřík, případně potvrzení zahraničního dohledu.
+
 ---
 
 #### § 74 — Rozhodný den
@@ -554,6 +1059,42 @@ Odst. 4 řeší procesně situaci zahraničních právnických osob: dokladem sp
 2. **Pracovník nebo člen orgánu**: rozhodným dnem je **den zahájení činnosti nebo vzniku funkce** — typicky den uzavření pracovní smlouvy, den jmenování do orgánu PO atd.
 
 Rozhodný den je důležitý pro odpočet **5leté retrospektivní lhůty** v § 72 odst. 2 písm. b)–d) a § 73 odst. 2 písm. d). Bez tohoto časového ukotvení by nebylo zřejmé, ke kterému dni se má 5leté období počítat.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Pan Černý byl jmenován členem představenstva poskytovatele dne 1. března. Ke dni 1. března byl 4 roky a 11 měsíců po prohlášení konkursu na majetek jiné PO, v jejímž orgánu dříve působil. ČNB posuzuje jeho důvěryhodnost. Spor je o to, zda 5letá lhůta uplynula. Důkazy: zápis o jmenování s datem, rozhodnutí o konkursu předchozí PO s datem.
+
+**2. Právní otázka.** Ke kterému dni se počítá 5letá retrospektivní lhůta dle § 72 odst. 2 u člena orgánu poskytovatele?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 74 (rozhodný den — u člena orgánu den vzniku funkce).
+- *Související ustanovení téhož zákona:* § 72 odst. 2 písm. b)–d) a § 73 odst. 2 písm. d (5letá lhůta odvíjená od rozhodného dne).
+- *Související předpisy:* § 73 odst. 2 SŘ (právní moc); insolvenční zákon (datum rozhodnutí o úpadku/konkursu).
+- *Judikatura:* nosný princip určitosti počátku běhu zákonných lhůt — bez pevného rozhodného dne nelze lhůtu spolehlivě odpočítat.
+
+**4. Subsumpce.** U člena orgánu je rozhodným dnem den vzniku funkce (§ 74) — tj. 1. března. K tomuto dni se zpětně odpočítává 5 let. Konkurs předchozí PO byl prohlášen 4 roky a 11 měsíců před tímto dnem — spadá do 5letého období. Diskvalifikační znak § 72 odst. 2 písm. c) je tudíž naplněn.
+
+**5. Řešení.** Pan Černý ke dni vzniku funkce důvěryhodný není (insolvenční překážka spadá do 5 let před rozhodným dnem), ledaže se uplatní rehabilitační výjimka § 72 odst. 3. Náprava: doložení výjimky, jinak vyčkání, až konkurs „vypadne" z 5letého okna — to však u člena orgánu nelze měnit dodatečně, neboť rozhodný den je fixován vznikem funkce.
+
+**6. Varianty.** (a) U žadatele o akreditaci/zápis by rozhodným dnem byl den podání žádosti — lze tedy „posečkat" s podáním, až insolvenční překážka vypadne z 5letého okna. (b) Vznikla-li by funkce o měsíc později (1. dubna), konkurs by byl starší 5 let a překážka by se neuplatnila.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Lhůta se má počítat ke dni posuzování ČNB." Neutralizace: § 74 fixuje rozhodný den na vznik funkce (resp. podání žádosti), nikoli na den rozhodování ČNB.
+- *Protiargument:* „Rozhodný den lze zvolit příznivěji." Neutralizace: u člena orgánu je dán objektivně dnem vzniku funkce; volní posun není možný.
+- *Slabé místo:* přesné určení dne vzniku funkce (jmenování vs. zápis do OR) může být sporné — nutno vyjít z účinků dle korporátních předpisů.
+
+##### H. Praktický závěr
+
+Rozhodný den fixuje počátek 5leté retrospektivní lhůty: u žadatele den podání žádosti, u člena orgánu/pracovníka den vzniku funkce. Načasování podání žádosti lze využít, vznik funkce nikoli.
+
+**Checklist (žadatel / PO / ČNB):**
+- [ ] Určen rozhodný den dle kategorie osoby (žadatel vs. člen orgánu/pracovník).
+- [ ] Od rozhodného dne odpočítána 5letá lhůta § 72 odst. 2 písm. b)–d).
+- [ ] Posouzeno, zda insolvenční/diskvalifikační skutečnost spadá do okna.
+- [ ] U žadatele zváženo načasování podání žádosti.
+
+**Typicky rozhodné důkazy / podklady:** zápis o vzniku funkce / jmenování s datem, datum podání žádosti, rozhodnutí o úpadku/konkursu s daty.
 
 ---
 
@@ -591,6 +1132,42 @@ Rozhodný den je důležitý pro odpočet **5leté retrospektivní lhůty** v §
 
 **Porušení odborné péče** je samostatným důvodem dohledového zásahu ČNB a může vést k **odnětí oprávnění** k činnosti (§ 154 ZSÚ). V soukromoprávní rovině zakládá **nárok na náhradu škody** (§ 2913 OZ — odpovědnost za škodu způsobenou porušením smluvní nebo zákonné povinnosti).
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Spotřebitel si u nebankovního poskytovatele sjednal hotovostní úvěr. Poradce vybral nejdražší variantu produktu (s nejvyšší provizí), aniž posoudil levnější vhodnější produkt, neupozornil na výhodnější parametry a do žádosti nezahrnul zjevné indicie o nepravidelném příjmu klienta. Klient se po roce dostal do potíží a namítá pochybení poskytovatele. Důkazy: záznam o jednání, smluvní dokumentace, interní provizní schéma, podklady o příjmu klienta.
+
+**2. Právní otázka.** Porušil poskytovatel povinnost provozovat činnost s odbornou péčí dle § 75, doporučil-li dražší produkt v rozporu se zájmy spotřebitele a nezohlednil dostupné informace?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 75 (generální klauzule odborné péče).
+- *Související ustanovení téhož zákona:* § 76 (čestné a transparentní jednání); § 85 (rada); § 86 (posouzení úvěruschopnosti); § 154 (dohledové opatření — odnětí oprávnění).
+- *Související předpisy:* § 2913 OZ (náhrada škody z porušení povinnosti); § 11a zákona č. 256/2004 Sb. a § 14 zákona č. 21/1992 Sb. (obdobné standardy odborné péče); § 159 OZ.
+- *Judikatura:* nosný závěr, že odborná péče zahrnuje odbornost, pečlivost a loajalitu vůči klientovi; její porušení zakládá odpovědnost.
+
+**4. Subsumpce.** Odborná péče zahrnuje znalost produktů, pečlivost a zohlednění zájmů klienta. Volba dražšího produktu motivovaná provizí, opomenutí výhodnější varianty a ignorování indicií o příjmu naplňují porušení všech komponent odborné péče (odbornost, pečlivost, loajalita).
+
+**5. Řešení.** Poskytovatel porušil § 75. V dohledové rovině hrozí opatření ČNB (až odnětí oprávnění dle § 154). V soukromoprávní rovině může spotřebitel uplatnit náhradu škody dle § 2913 OZ, prokáže-li příčinnou souvislost mezi porušením a vzniklou újmou. Náprava: revize prodejních procesů a provizních pobídek.
+
+**6. Varianty.** (a) Doporučil-li by poradce nejvhodnější dostupný produkt a vše zdokumentoval, odborná péče by porušena nebyla, byť by produkt nesl vyšší provizi. (b) Šlo-li by jen o porušení informační povinnosti bez vlivu na volbu produktu, posuzovalo by se primárně dle § 77 a § 90 a násl.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Spotřebitel s produktem souhlasil, je vázán smlouvou." Neutralizace: souhlas nezhojí porušení zákonné povinnosti odborné péče; ta platí bez ohledu na souhlas.
+- *Protiargument:* „Odborná péče je vágní pojem." Neutralizace: její obsah dotváří dohledová praxe ČNB a navazuje na ustálené standardy kapitálového a bankovního práva.
+- *Slabé místo:* v náhradě škody nese spotřebitel důkazní břemeno o vzniku a výši škody a o příčinné souvislosti; bez doložené újmy zůstává jen dohledová rovina.
+
+##### H. Praktický závěr
+
+Odborná péče je generální klauzulí prostupující celý úvěrový vztah; její porušení zakládá dohledovou i soukromoprávní odpovědnost. Prodejní a provizní procesy musí být nastaveny tak, aby nevedly k jednání proti zájmu klienta.
+
+**Checklist (poskytovatel / zprostředkovatel / ČNB / spotřebitel):**
+- [ ] Doporučený produkt odpovídá potřebám a zájmům klienta, ne výši provize.
+- [ ] Zohledněny všechny dostupné relevantní informace o klientovi.
+- [ ] Jednání zdokumentováno (§ 78) pro doložení odborné péče.
+- [ ] Provizní schémata nevytvářejí pobídku v rozporu se zájmem klienta (§ 79).
+
+**Typicky rozhodné důkazy / podklady:** záznam o jednání a poskytnuté radě, smluvní dokumentace, interní provizní schéma, podklady o úvěruschopnosti a příjmu klienta.
+
 ---
 
 #### § 76 — Jednání se spotřebiteli
@@ -620,6 +1197,42 @@ Spotřebitel musí kdykoli **rozumět svému protějšku** — vědět, zda jedn
 - **zprostředkovatelem vázaného spotřebitelského úvěru** (typicky prodejce zboží zprostředkovávající úvěr).
 
 V případě vázaných subjektů (vázaný zástupce, zprostředkovatel vázaného SÚ) musí být zřejmá také **osoba zastoupeného** — tedy poskytovatel, jehož jménem subjekt jedná. Tato povinnost slouží k tomu, aby spotřebitel věděl, kdo je skutečným věřitelem a kdo nese odpovědnost za smluvní vztah.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Prodejce elektroniky v prodejně nabízí „splátkový prodej" a uzavírá za poskytovatele smlouvy o vázaném spotřebitelském úvěru. Na pultě ani v dokumentech není uvedeno, že jedná jménem konkrétní úvěrové společnosti; spotřebitelé se domnívají, že úvěr poskytuje sám obchod. Při reklamaci nikdo neví, kdo je věřitelem. Důkazy: smluvní formuláře, označení provozovny, svědectví spotřebitelů, smlouva mezi prodejcem a poskytovatelem.
+
+**2. Právní otázka.** Porušil prodejce povinnost jednat tak, aby bylo spotřebiteli zřejmé jeho postavení (zprostředkovatel vázaného SÚ) a osoba zastoupeného poskytovatele?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 76 odst. 1 (čestnost, transparentnost, zohlednění zájmů), odst. 2 (zřejmost postavení a osoby zastoupeného u vázaného zástupce a zprostředkovatele vázaného SÚ).
+- *Související ustanovení téhož zákona:* § 75 (odborná péče); § 77 (zákaz zavádějících informací); § 93 (informace o zprostředkovateli).
+- *Související předpisy:* § 2986 a násl. OZ (zastoupení); směrnice 2005/29/ES o nekalých obchodních praktikách.
+- *Judikatura:* nosný princip transparentnosti — spotřebitel musí vědět, s kým a v čí prospěch jedná.
+
+**4. Subsumpce.** Prodejce je zprostředkovatelem vázaného SÚ. Dle odst. 2 musí být z jeho jednání zřejmé jak jeho postavení, tak osoba zastoupeného (poskytovatele). Absence jakéhokoli označení věřitele a vyvolání dojmu, že úvěr poskytuje obchod, naplňuje porušení odst. 2 i obecné transparentnosti dle odst. 1.
+
+**5. Řešení.** Prodejce porušil § 76 odst. 2. Náprava: zřetelně označit, že jedná jako zprostředkovatel vázaného SÚ jménem konkrétního poskytovatele, a uvést jej v dokumentaci. Hrozí dohledové opatření a sankce; současně může jít o nekalou obchodní praktiku.
+
+**6. Varianty.** (a) Uvedl-li by prodejce jasně poskytovatele i své postavení, povinnost by splnil. (b) Jednal-li by jako samostatný zprostředkovatel (zvažující více poskytovatelů), odpadla by povinnost uvádět konkrétního zastoupeného, ale trvala by povinnost transparentnosti o vlastním postavení.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Spotřebitel věděl, že jde o splátky, věřitel je podružný." Neutralizace: odst. 2 výslovně vyžaduje zřejmost osoby zastoupeného; identita věřitele je pro spotřebitele podstatná (odpovědnost, reklamace, § 119).
+- *Protiargument:* „Označení je v drobném textu smlouvy." Neutralizace: zřejmost znamená srozumitelné a zřetelné sdělení, nikoli skryté v podmínkách.
+- *Slabé místo:* prokázání dojmu spotřebitelů vyžaduje doložení podoby prezentace nabídky (provozovna, materiály), nejen text smlouvy.
+
+##### H. Praktický závěr
+
+Poskytovatel i zprostředkovatel musí jednat čestně a transparentně a u vázaných subjektů musí být zřejmé jejich postavení i osoba zastoupeného poskytovatele. Identitu věřitele zřetelně sdělit již při nabídce.
+
+**Checklist (zprostředkovatel / poskytovatel / ČNB):**
+- [ ] Spotřebiteli zřejmé postavení jednajícího (poskytovatel/samostatný/vázaný).
+- [ ] U vázaných subjektů zřetelně uveden zastoupený poskytovatel (odst. 2).
+- [ ] Jednání čestné, transparentní, zohledňující zájmy spotřebitele (odst. 1).
+- [ ] Označení provedeno zřetelně, ne skrytě v podmínkách.
+
+**Typicky rozhodné důkazy / podklady:** smluvní formuláře, označení a materiály provozovny, smlouva mezi prodejcem a poskytovatelem, svědectví spotřebitelů.
 
 ---
 
@@ -651,6 +1264,42 @@ Odst. 2 doplňuje pozitivní katalog požadavků na komunikaci:
 - **Dostatečnost, přesnost, nezastírání** důležitých skutečností, informací nebo upozornění (písm. b)).
 
 Zákaz formulací, které „mohou u spotřebitele vyvolávat **klamné očekávání** týkající se dostupnosti spotřebitelského úvěru a výše jeho nákladů" — typickými problémovými praktikami jsou: zvýraznění nejnižší možné úrokové sazby bez upozornění na podmínky jejího získání; klamavá tvrzení o „úvěru zdarma" či „bez poplatků" bez zveřejnění reálných nákladů.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Poskytovatel inzeruje hotovostní úvěr sloganem „Úvěr ZDARMA, 0 % a bez poplatků!". Sazba 0 % platí jen pro první měsíc a pouze pro vybrané klienty s nadprůměrnou bonitou; běžná RPSN činí 28 %. Tato podmínka je uvedena drobným písmem v patičce. Spotřebitelé jsou nabídkou lákáni a teprve při uzavírání zjišťují skutečné náklady. Důkazy: znění reklamy, kalkulace RPSN, interní podmínky akce.
+
+**2. Právní otázka.** Je reklamní sdělení „úvěr zdarma" za uvedených podmínek zavádějící či klamavé ve smyslu § 77 odst. 1?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 77 odst. 1 (zákaz nejasných, nepravdivých, zavádějících a klamavých informací včetně propagačního sdělení).
+- *Související ustanovení téhož zákona:* § 76 (čestnost a transparentnost); § 91 (povinné informace v reklamě, RPSN); § 90 (obecná pravidla informování).
+- *Související předpisy:* směrnice 2005/29/ES o nekalých obchodních praktikách; § 2976 a násl. OZ (nekalá soutěž); zákon č. 40/1995 Sb., o regulaci reklamy.
+- *Judikatura:* nosný princip posuzování klamavosti z pohledu průměrného spotřebitele a celkového dojmu sdělení.
+
+**4. Subsumpce.** Tvrzení „zdarma, 0 %, bez poplatků" je objektivně pravdivé jen pro úzkou skupinu a krátké období; jako celek vyvolává klamný dojem o bezúplatnosti úvěru. Jde o zavádějící, resp. klamavé sdělení dle § 77 odst. 1 — pravdivá informace prezentovaná tak, že vyvolává omyl. Skrytí podmínek drobným písmem klamavost neodstraňuje.
+
+**5. Řešení.** Reklama porušuje § 77 odst. 1. Náprava: uvádět reprezentativní příklad s RPSN (§ 91) a podmínky akce zřetelně. Hrozí dohledové opatření ČNB i postih za nekalou obchodní praktiku. Spotřebiteli zavádějící reklama sama o sobě nezakládá nárok, ale může být relevantní při posouzení uvedení v omyl.
+
+**6. Varianty.** (a) Byla-li by sazba 0 % skutečně bezpodmínečná po celou dobu, sdělení by klamavé nebylo. (b) Uvedl-li by poskytovatel zřetelně reprezentativní příklad a podmínky, riziko klamavosti by se výrazně snížilo.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Podmínky jsou uvedeny, spotřebitel si je mohl přečíst." Neutralizace: rozhodující je celkový dojem; podstatné podmínky skryté drobným písmem nevylučují zavádějící charakter.
+- *Protiargument:* „Sdělení je technicky pravdivé." Neutralizace: i pravdivá informace je zakázána, vyvolává-li klamný dojem (zavádějící informace dle § 77 odst. 1).
+- *Slabé místo:* posouzení klamavosti je do jisté míry hodnotové; opřít je o standard průměrného spotřebitele a o povinné údaje dle § 91.
+
+##### H. Praktický závěr
+
+Veškerá komunikace včetně reklamy nesmí být nejasná, nepravdivá, zavádějící ani klamavá; podstatné podmínky a náklady (RPSN) musí být sděleny zřetelně, ne skryty.
+
+**Checklist (poskytovatel / zprostředkovatel / ČNB):**
+- [ ] Sdělení není nejasné, nepravdivé, zavádějící ani klamavé (odst. 1).
+- [ ] Celkový dojem reklamy odpovídá skutečným podmínkám.
+- [ ] Uveden reprezentativní příklad a RPSN dle § 91.
+- [ ] Podstatné podmínky akce zřetelné, ne jen drobným písmem.
+
+**Typicky rozhodné důkazy / podklady:** znění a podoba reklamy, kalkulace RPSN, interní podmínky akce, srovnání inzerovaných a skutečných nákladů.
 
 ---
 
@@ -690,6 +1339,42 @@ Lhůta běží **od zániku** — u dlouholetých hypotečních úvěrů (typick
 
 **Pravidlo přechodu povinnosti (odst. 5):** archivační povinnost přechází i na právního nástupce poskytovatele/zprostředkovatele a na osobu, jejíž oprávnění zaniklo nebo bylo zrušeno.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Spotřebitel v roce 2024 podal žalobu, v níž tvrdí, že poskytovatel řádně neposoudil jeho úvěruschopnost (§ 86) při uzavření smlouvy v roce 2021; úvěr již byl splacen v roce 2023. Poskytovatel namítá, že už nemá dokumenty o posouzení úvěruschopnosti, neboť „je po splacení skartoval". Důkazy (které mají být doloženy): smlouva, podklady o posouzení úvěruschopnosti, údaje z databází (§ 88).
+
+**2. Právní otázka.** Po jakou dobu musí poskytovatel uchovávat dokumenty o posouzení úvěruschopnosti a jaké jsou důsledky jejich absence v soudním sporu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 78 odst. 1 (rozsah nezbytný k osvědčení řádného plnění povinností), odst. 2 (katalog dokumentů), odst. 4 (lhůta 5 let od zániku vztahu / 1 rok od zamítnutí), odst. 5 (přechod na nástupce).
+- *Související ustanovení téhož zákona:* § 86–87 (posouzení úvěruschopnosti a sankce neplatnosti); § 88 (databáze); § 85 odst. 3 (záznam o radě).
+- *Související předpisy:* § 2913 OZ; § 86 a § 101 a násl. o. s. ř. (dokazování).
+- *Judikatura:* nosný princip, že důkazní nouze způsobená porušením archivační povinnosti jde k tíži toho, kdo měl dokumenty uchovávat.
+
+**4. Subsumpce.** Vztah zanikl splacením v roce 2023; pětiletá lhůta dle odst. 4 běží od tohoto okamžiku a v roce 2024 zjevně neuplynula. Skartace dokumentů byla předčasná a porušuje § 78. Dokumenty o posouzení úvěruschopnosti přitom patří do katalogu odst. 2 písm. b).
+
+**5. Řešení.** Poskytovatel porušil archivační povinnost. V soudním sporu o platnost smlouvy (§ 87) nese důkazní břemeno o řádném posouzení úvěruschopnosti právě poskytovatel; absence dokumentů jde k jeho tíži a hrozí závěr o neprokázání řádného posouzení, tedy i neplatnost smlouvy. Souběžně hrozí dohledová sankce za porušení § 78.
+
+**6. Varianty.** (a) Šlo-li by o zamítnutou žádost, postačila by jednoletá lhůta a po jejím uplynutí by skartace byla v pořádku. (b) Uplynulo-li by od splacení více než 5 let, archivační povinnost by zanikla a absence dokumentů by porušením nebyla — důkazní situace by se však i tak posuzovala dle obecných pravidel.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Úvěr je splacen, dokumenty nejsou potřeba." Neutralizace: lhůta běží 5 let od zániku vztahu, nikoli od uzavření; po splacení povinnost trvá dál.
+- *Protiargument:* „Lhůta se počítá od uzavření smlouvy." Neutralizace: odst. 4 ji váže na zánik právního vztahu nebo na jednání, u splaceného úvěru tedy od splacení.
+- *Slabé místo:* u dlouhých hypoték (20–30 let) znamená pravidlo faktickou archivaci po desetiletí; podcenění lhůty vede k důkazní nouzi v pozdějších sporech.
+
+##### H. Praktický závěr
+
+Dokumenty se uchovávají zpravidla 5 let od zániku vztahu (1 rok od zamítnutí žádosti); předčasná skartace zakládá porušení i důkazní nevýhodu ve sporu. Lhůtu počítat od splacení/zániku, ne od uzavření.
+
+**Checklist (poskytovatel / zprostředkovatel / ČNB / soud):**
+- [ ] Uchovávány dokumenty dle katalogu odst. 2 (smlouva, posouzení úvěruschopnosti, rada, komunikace).
+- [ ] Lhůta počítána od zániku vztahu (5 let) / od zamítnutí (1 rok).
+- [ ] Zajištěn přechod povinnosti na právního nástupce (odst. 5).
+- [ ] U dlouhodobých úvěrů nastavena archivace na celou dobu trvání + 5 let.
+
+**Typicky rozhodné důkazy / podklady:** smlouva o SÚ, dokumentace k posouzení úvěruschopnosti a údaje z databází, záznam o radě, záznamy komunikace, evidence archivačních lhůt.
+
 ---
 
 #### § 79 — Zákaz pobídek
@@ -721,6 +1406,42 @@ Zákon tedy nezakazuje **všechny** pobídky obecně — některé formy odměň
 
 § 79 ZSÚ konceptuálně navazuje na pravidla pobídek dle směrnice **MiFID II** (2014/65/EU) v investiční oblasti — princip „**inducements**" je v obou regulačních režimech podobný: pobídka je přípustná, jen pokud zvyšuje kvalitu služby pro klienta a neohrožuje povinnost jednat v jeho zájmu. ZSÚ formulace je však striktnější — vychází z předpokladu, že pobídka může vést k porušení povinnosti, a klade tak důkazní břemeno na poskytovatele/zprostředkovatele, který musí prokázat, že konkrétní pobídka takovou možnost nezakládá.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Výrobce pojištění a poskytovatel úvěru zorganizovali pro nejúspěšnější zprostředkovatele „motivační zájezd" do zahraničí, podmíněný splněním prodejního cíle počtu sjednaných úvěrů s navázaným pojištěním. Zprostředkovatel A cíl splnil tak, že klientům doporučoval dražší úvěry s pojištěním, i když je nepotřebovali. Důkazy: podmínky soutěže o zájezd, statistiky sjednaných smluv, vzorky doporučení, interní e-maily o „tlaku na čísla".
+
+**2. Právní otázka.** Je motivační zájezd vázaný na prodejní cíle zakázanou pobídkou ve smyslu § 79, jestliže mohl vést k porušení povinností vůči spotřebiteli?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 79 (zákaz pobídek, které mohou vést k porušení povinnosti dle této části; široká definice pobídky včetně nepeněžitých výhod a neopodstatněných výhod).
+- *Související ustanovení téhož zákona:* § 75 (odborná péče); § 76 (čestnost, zohlednění zájmů); § 85 (rada); § 86 (úvěruschopnost); § 80 (zákaz dvojího inkasování).
+- *Související předpisy:* směrnice MiFID II 2014/65/EU (princip inducements — analogicky); § 2976 a násl. OZ.
+- *Judikatura:* nosný princip, že přípustná je jen pobídka, která zvyšuje kvalitu služby a neohrožuje jednání v zájmu klienta.
+
+**4. Subsumpce.** Zájezd je nepeněžitou výhodou („incentive trip") — pobídkou dle široké definice § 79. Je podmíněn prodejními cíli, jejichž plnění motivovalo zprostředkovatele doporučovat klientům nevhodné dražší produkty. Pobídka tak „může vést k porušení povinnosti" odborné péče (§ 75) a jednání v zájmu klienta (§ 76) — zákaz je naplněn.
+
+**5. Řešení.** Pobídka je zakázaná dle § 79; navíc se reálně projevila porušením § 75–76. Důkazní břemeno, že pobídka nemohla vést k porušení povinnosti, nese poskytovatel/zprostředkovatel — zde je vyvráceno. Hrozí dohledová opatření a sankce. Náprava: zrušit pobídky vázané na prodejní objemy v rozporu se zájmem klienta.
+
+**6. Varianty.** (a) Šlo-li by o standardní provizi od poskytovatele bez navázání na prodej nevhodných produktů, šlo by o inherentní odměnu nezakázanou § 79. (b) Byla-li by pobídka navázána na ukazatele kvality služby (spokojenost klientů, nízká míra reklamací), riziko porušení by klesalo a zákaz by se nemusel uplatnit.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zájezd je běžná motivace, ne pobídka." Neutralizace: § 79 výslovně zahrnuje nepeněžité výhody a „incentive trips"; rozhodující je potenciál vést k porušení povinnosti.
+- *Protiargument:* „Žádný konkrétní klient nebyl prokazatelně poškozen." Neutralizace: § 79 zakazuje pobídku, která „může vést" k porušení — postačí způsobilost, nikoli realizovaná škoda.
+- *Slabé místo:* hranice mezi přípustnou provizí a zakázanou pobídkou je neostrá; obrana spočívá v doložení, že struktura odměňování nemůže narušit jednání v zájmu klienta — důkazní břemeno nese poskytovatel.
+
+##### H. Praktický závěr
+
+Zakázány jsou jen ty pobídky (peněžité i nepeněžité), které mohou vést k porušení povinností vůči spotřebiteli; důkaz opaku nese poskytovatel/zprostředkovatel. Provizní a motivační schémata nastavovat na kvalitu, ne na objem nevhodných prodejů.
+
+**Checklist (poskytovatel / zprostředkovatel / ČNB):**
+- [ ] Identifikovány všechny pobídky včetně nepeněžitých (zájezdy, dary, soutěže).
+- [ ] Posouzeno, zda pobídka může vést k porušení povinnosti (§ 75, § 76, § 85, § 86).
+- [ ] Připraveno doložení, že pobídka nenarušuje jednání v zájmu klienta.
+- [ ] Motivační schémata navázána na kvalitu, ne na objem prodeje.
+
+**Typicky rozhodné důkazy / podklady:** podmínky motivačních programů a soutěží, statistiky prodejů, vzorky doporučení produktů, interní komunikace o prodejních cílech, struktura odměňování.
+
 ---
 
 #### § 80–83 — Další pravidla odměňování a zajištění
@@ -738,6 +1459,43 @@ Zákon tedy nezakazuje **všechny** pobídky obecně — některé formy odměň
 Toto pravidlo chrání spotřebitele před **placením za úvěr, který nebyl uzavřen** — typický problém v některých neserióznych praktikách (poplatky za „rezervaci úvěru", „posouzení žádosti", „přípravu smlouvy"). Spotřebitel platí teprve při uzavření smlouvy, popřípadě za reálné a doložitelné náklady na ocenění zajištění.
 
 Pravidlo nedopadá na úvěr ze **stavebního spoření** podle zákona č. 96/1993 Sb. — povinnost splnit podmínky pro poskytnutí tohoto úvěru (např. minimální dobu spoření, minimální cílovou částku) je inherentně předsmluvní povaha.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Samostatný zprostředkovatel S sjedná se spotřebitelem K písemnou smlouvu o zprostředkování hypotečního úvěru, v níž si nechá sjednat odměnu 1 % z výše úvěru placenou klientem. Současně S inkasuje od banky B provizi za zprostředkování téhož úvěru. Před uzavřením úvěru S navíc vybere od K zálohu 15 000 Kč „na zpracování žádosti a rezervaci úvěrové linky". Důkazy: zprostředkovatelská smlouva, doklad o úhradě 1 %, provizní výměr banky, doklad o úhradě zálohy 15 000 Kč, korespondence o účelu zálohy.
+
+**2. Právní otázka.** Porušil S zákaz dvojího inkasování (§ 80) a zákaz plateb před poskytnutím SÚ (§ 83), a které z přijatých plateb je povinen vrátit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 80 (zákaz současné odměny od spotřebitele i poskytovatele u téhož úvěru), § 83 (před uzavřením SÚ nevzniká právo na odměnu/platbu mimo daně, poplatky a náklady na ocenění zajištění).
+- *Související ustanovení téhož zákona:* § 81 (pojem „nezávislý"), § 82 (zákaz vstupních plateb a MLM-struktur), § 76 (jednání v nejlepším zájmu spotřebitele), § 78 a § 5–8 ZSÚ k registraci a dohledu ČNB; sankční ustanovení o přestupcích.
+- *Související předpisy:* § 1814 a násl. OZ (zakázaná ujednání ve spotřebitelských smlouvách), § 2991 a násl. OZ (bezdůvodné obohacení při plnění bez právního důvodu), zákon č. 96/1993 Sb. (výjimka u stavebního spoření).
+- *Judikatura:* obecně dohledová a soudní praxe k bezdůvodnému obohacení — plnění přijaté v rozporu se zákazem nemá právní důvod a musí být vydáno.
+
+**4. Subsumpce.** Inkasování 1 % od klienta i provize od banky u téhož úvěru naplňuje znak „současně jménem a na účet spotřebitele i poskytovatele" dle § 80 — zákaz je porušen. Záloha 15 000 Kč nepředstavuje daň, správní poplatek ani náklad na ocenění zajištění, a byla vybrána před uzavřením SÚ — porušuje § 83. Sporné je, zda část zálohy nekryla reálné a doložitelné náklady na ocenění nemovitosti; to by musel S prokázat fakturou odhadce.
+
+**5. Řešení.** S nesmí kumulovat odměnu od klienta i banky; jedna z plateb je přijata bez právního důvodu a podléhá vydání. Záloha 15 000 Kč je v rozsahu, v němž nekryje doložené náklady na ocenění zajištění, bezdůvodným obohacením a musí být vrácena. Procesně: spotřebitel vyzve k vrácení, případně podá žalobu z bezdůvodného obohacení; současně lze podat podnět ČNB (přestupek). Riziko: posouzení, zda šlo o „téhož" úvěr a zda byly náklady na ocenění skutečně účelné.
+
+**6. Varianty.** (a) Pokud by S inkasoval pouze provizi od banky a od klienta nic, § 80 by porušen nebyl. (b) Pokud by záloha byla výhradně doloženou úhradou odhadci za ocenění zastavované nemovitosti, spadla by pod výjimku § 83 a byla by přípustná.
+
+##### G. Protiargumenty a rizika
+
+- *„Šlo o dvě různé služby."* Zprostředkovatel může tvrdit, že odměna od klienta byla za poradenství a provize od banky za zprostředkování. Neutralizace: § 80 váže zákaz na „tentýž úvěr" bez ohledu na nálepku služby; rozhoduje ekonomická podstata jediné transakce.
+- *„Záloha kryla reálné náklady."* Neutralizace: výjimka § 83 je úzká a důkazní břemeno o účelnosti a doložitelnosti nákladů na ocenění nese zprostředkovatel; obecné „náklady na administrativu" pod výjimku nespadají.
+- Slabé místo: pojem „významnost" zde nehraje roli, ale neostrá je hranice mezi „radou" a „zprostředkováním" — vyžaduje pečlivou rekonstrukci skutkového stavu z dokumentace.
+
+##### H. Praktický závěr
+
+§ 80–83 tvoří ochranný blok proti střetu zájmů a předčasnému zpoplatnění úvěru. V praxi platí: žádné dvojí inkaso u téhož úvěru, žádné vstupní platby ani pyramidové odměňování, a před uzavřením SÚ jen daně/poplatky a doložené náklady na ocenění zajištění.
+
+**Checklist (advokát / soud / ČNB / spotřebitel):**
+- [ ] Jde o tentýž úvěr, u nějž zprostředkovatel inkasuje od klienta i poskytovatele? (§ 80)
+- [ ] Užívá subjekt označení „nezávislý" oprávněně — zvažuje většinu trhu a odměňování neohrožuje nejlepší zájem klienta? (§ 81)
+- [ ] Nevyžaduje se vstupní platba či odměna za získání dalších osob? (§ 82)
+- [ ] Jsou platby před uzavřením SÚ omezeny jen na daně, poplatky a doložené náklady na ocenění zajištění? (§ 83)
+- [ ] Nejde o úvěr ze stavebního spoření (výjimka)?
+
+**Typicky rozhodné důkazy / podklady:** zprostředkovatelská smlouva, provizní výměry, doklady o platbách klienta, faktura odhadce za ocenění zajištění, marketingové materiály s pojmem „nezávislý".
 
 ---
 
@@ -772,6 +1530,43 @@ Ověřovací povinnost je důležitým institutem proti **úvěrovým podvodům*
 #### Limitace zrušení smlouvy o SÚ na bydlení (odst. 4)
 
 Závazek ze smlouvy o **SÚ na bydlení** nemůže být zrušen pouze proto, že informace poskytnuté spotřebitelem byly **neúplné**. **Výjimkou** je situace, kdy spotřebitel **vědomě** poskytl neúplné nebo nepravdivé informace. Toto pravidlo chrání spotřebitele před snadným zrušením hypoteční smlouvy ze strany banky kvůli neúmyslným chybám v podkladech a klade vyšší břemeno na poskytovatele, který má profesionální kapacitu informace ověřit.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Spotřebitel D žádá banku B o hypoteční úvěr 4 mil. Kč. V dotazníku uvede čistý měsíční příjem 60 000 Kč, ale opomene zmínit existující splátkový úvěr 8 000 Kč měsíčně. Banka úvěr poskytne, později D přestane splácet. Banka tvrdí, že smlouva má být zrušena, neboť D poskytl neúplné informace. D namítá, že údaj o stávajícím úvěru si banka mohla ověřit z úvěrového registru. Důkazy: dotazník, výpisy z účtu, dotaz do registru (CBCB/CNCB), záznam o tom, zda banka registr lustrovala.
+
+**2. Právní otázka.** Může banka u SÚ na bydlení zrušit závazek pro neúplnost informací poskytnutých spotřebitelem, jestliže neúplnost nebyla vědomá a banka sama nesplnila ověřovací povinnost?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 84 odst. 2 (povinnost spotřebitele poskytnout úplné a pravdivé informace; povinnost poskytovatele je ověřit), odst. 4 (zákaz zrušení závazku z SÚ na bydlení jen pro neúplnost, s výjimkou vědomé neúplnosti/nepravdivosti).
+- *Související ustanovení téhož zákona:* § 86 (posouzení úvěruschopnosti), § 87 (neplatnost při porušení § 86), § 88 (databáze), § 75 (odborná péče).
+- *Související předpisy:* GDPR (2016/679) a zák. č. 110/2019 Sb. k ověřování v registrech; § 6 OZ (poctivost), § 583 OZ (omyl).
+- *Judikatura:* NSS 9 As 127/2024 (citováno u § 86) — věřitel má úvěruschopnost aktivně zjišťovat a prověřovat, nespoléhat na nedoložená prohlášení dlužníka.
+
+**4. Subsumpce.** D poskytl neúplné informace — znak „neúplnosti" je naplněn. Klíčové je, zda šlo o neúplnost **vědomou**. Pokud D úvěr zatajil úmyslně, aktivuje se výjimka § 84 odst. 4 a banka může důsledky uplatnit. Pokud šlo o nedbalost a banka současně neprovedla lustraci registru (porušení ověřovací povinnosti dle odst. 2 a § 86), nelze závazek zrušit jen pro neúplnost.
+
+**5. Řešení.** Břemeno tvrzení a důkazu o **vědomé** neúplnosti nese banka. Neprokáže-li úmysl D, závazek nelze zrušit; banka navíc zanedbala vlastní ověření, což oslabuje její pozici. Pravděpodobný výsledek: smlouva trvá, banka je odkázána na standardní vymáhání. Procesní krok: doložit obsah dotazníku, výslech, log lustrace registru. Riziko: prokázání úmyslu z nepřímých důkazů (D existenci úvěru evidentně znal).
+
+**6. Varianty.** (a) D vědomě zamlčel jiný úvěr a falšoval výpisy — výjimka se uplatní, banka může uplatnit důsledky. (b) Šlo by o SÚ jiný než na bydlení — limitace odst. 4 by nedopadla a posuzovalo by se podle obecných pravidel o omylu a úvěruschopnosti.
+
+##### G. Protiargumenty a rizika
+
+- *„Spotřebitel porušil povinnost dle odst. 2, proto neseme následky my."* Banka argumentuje porušením povinnosti klienta. Neutralizace: odst. 4 výslovně přesouvá riziko neúmyslné neúplnosti na poskytovatele s profesionální ověřovací kapacitou.
+- *„Registr jsme ověřovat nemuseli, klient prohlásil, že jiné dluhy nemá."* Neutralizace: § 84 odst. 2 in fine a § 86 vyžadují aktivní ověření přiměřené situaci; nelze slepě věřit prohlášení (NSS 9 As 127/2024).
+- Slabé místo: hranice mezi nedbalou a vědomou neúplností je skutkově náročná; chybí ustálená judikatura přímo k § 84 odst. 4.
+
+##### H. Praktický závěr
+
+§ 84 nastoluje rovnováhu: spotřebitel musí poskytnout úplné a pravdivé údaje, ale poskytovatel je musí ověřit a u SÚ na bydlení nese riziko neúmyslné neúplnosti. Jen vědomá neúplnost či nepravdivost otevírá zrušení závazku.
+
+**Checklist (advokát / soud / poskytovatel / spotřebitel):**
+- [ ] Byly požadované informace přiměřené a nezbytné (zásada minimalizace)?
+- [ ] Ověřil poskytovatel údaje přiměřeně situaci (registry, výpisy, automatizované modely)?
+- [ ] Obsahovalo sdělení dle odst. 1 upozornění, že při neposkytnutí údajů úvěr nebude poskytnut (odst. 3)?
+- [ ] Jde o SÚ na bydlení? Byla neúplnost vědomá, či pouze nedbalá?
+- [ ] Existuje doklad o tom, zda a jak poskytovatel informace ověřoval?
+
+**Typicky rozhodné důkazy / podklady:** vyplněný dotazník/žádost, výpisy z účtu, dotazy a odpovědi z úvěrových registrů, daňová přiznání, záznam o vysvětlení/doplnění informací spotřebitelem.
 
 ---
 
@@ -842,6 +1637,43 @@ Toto rozlišení odráží realitu — vázaný zástupce poskytovatele logicky 
 
 Záznam slouží jako důkaz **kvality rady** a může být klíčový v případném sporu (např. žaloba spotřebitele pro vadnou radu vedoucí ke škodě). Pro poskytovatele/zprostředkovatele je záznam zároveň ochranným nástrojem — dokládá splnění informačních a poradenských povinností.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Samostatný zprostředkovatel S výslovně poskytne spotřebiteli M „radu" a doporučí konkrétní hypotéku banky B. M má nepravidelný příjem (OSVČ) a uvažuje o dlouhé fixaci. S předloží jen jeden produkt, neprovede analýzu rizik (např. dopad růstu sazeb po fixaci) a M nevydá písemný záznam o radě. Po skončení fixace splátka výrazně vzroste a M tvrdí, že rada byla vadná. Důkazy: smlouva o úvěru, marketingová komunikace označující službu jako „radu", absence/obsah záznamu dle § 85 odst. 3, dokumentace o nabídnutých produktech.
+
+**2. Právní otázka.** Splnil S podmínky poskytnutí „rady" dle § 85 (analýza, výběr z dostatečného počtu vhodných produktů, písemný záznam), a jaké jsou důsledky absence záznamu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 85 odst. 1 (rada na základě analýzy situace a rizik a výběru z dostatečného počtu produktů), odst. 2 (sdělení, z jakých produktů výběr vychází), odst. 3 (povinný záznam o radě), odst. 4 (rozlišení rady a doporučení).
+- *Související ustanovení téhož zákona:* § 3 odst. 1 (definice rady a doporučení), § 84 (informace od spotřebitele), § 86 (úvěruschopnost), § 75 a § 76 (odborná péče, nejlepší zájem), § 77 (komunikace).
+- *Související předpisy:* § 2950 OZ (odpovědnost za škodu způsobenou informací/radou odborníka), § 5 OZ (profesionální standard).
+- *Judikatura:* obecná praxe k odpovědnosti finančních zprostředkovatelů — porušení profesního standardu při poradenství zakládá odpovědnost za vzniklou škodu.
+
+**4. Subsumpce.** S službu sám označil za „radu", čímž na sebe vztáhl režim § 85. Výběr z jediného produktu nenaplňuje znak „dostatečného počtu vhodných produktů" u samostatného zprostředkovatele (písm. b) bod 1 — produkty dostupné na trhu). Chybí analýza rizik (odst. 1 písm. a) bod 2) a chybí písemný záznam (odst. 3). Podmínky řádné rady tedy nejsou splněny.
+
+**5. Řešení.** S porušil § 85; absence záznamu ztěžuje jeho obranu a posiluje pozici M. Pokud vadná rada vedla ke škodě (nevhodný produkt vzhledem k rizikovému profilu), zakládá to odpovědnost dle § 2950 OZ. Procesně: M tvrdí a prokazuje, že šlo o radu, vadnost rady a vznik škody; S nese důkazní nouzi z chybějícího záznamu. Riziko: prokázání příčinné souvislosti mezi vadou rady a škodou (růst sazeb je tržní jev).
+
+**6. Varianty.** (a) S by M předem sdělil, že neposkytuje radu dle zákona, nýbrž jen doporučení (§ 85 odst. 4) — režim přísných podmínek § 85 by se neuplatnil. (b) S by jako poskytovatel/vázaný zástupce vybíral z vlastní nabídky (písm. b) bod 2) — jeden produkt by mohl postačovat, povinnost záznamu by ale trvala.
+
+##### G. Protiargumenty a rizika
+
+- *„Šlo jen o doporučení, ne o radu."* Neutralizace: rozhoduje, jak byla služba prezentována a zda byl klient o nezávaznosti informován dle odst. 4; pokud S nesdělil, že nejde o radu, režim § 85 platí.
+- *„Záznam je formalita, podstata rady byla správná."* Neutralizace: záznam je obligatorní (odst. 3) a jeho absence je samostatným porušením i důkazním deficitem zprostředkovatele.
+- Slabé místo: „dostatečný počet vhodných produktů" je neurčitý pojem; obtížné je oddělit vadu rady od následné tržní změny (růst sazeb).
+
+##### H. Praktický závěr
+
+Rada dle § 85 je kvalifikovaná služba s přísnými podmínkami: analýza situace i rizik, výběr z dostatečného počtu vhodných produktů a povinný písemný záznam. Kdo nechce nést režim rady, musí klientovi předem sdělit, že poskytuje jen doporučení.
+
+**Checklist (advokát / soud / poskytovatel / zprostředkovatel):**
+- [ ] Byla služba radou, nebo doporučením — a byl klient o tom informován (odst. 4)?
+- [ ] Vychází rada z analýzy finanční situace, požadavků a rizik (odst. 1 písm. a))?
+- [ ] Vybíráno z dostatečného počtu vhodných produktů podle typu subjektu (odst. 1 písm. b))?
+- [ ] Sděleno, z kterých produktů kterých poskytovatelů výběr vychází (odst. 2)?
+- [ ] Vydán spotřebiteli písemný záznam o radě se všemi náležitostmi (odst. 3 písm. a–d)?
+
+**Typicky rozhodné důkazy / podklady:** záznam o poskytnuté radě, přehled posuzovaných produktů, marketingová a smluvní dokumentace, korespondence o povaze služby, podklady o finanční situaci klienta.
+
 ---
 
 #### § 86 — Posouzení úvěruschopnosti spotřebitele
@@ -904,6 +1736,44 @@ Posouzení vychází z **porovnání**:
 
 Toto pravidlo brání **„asset-based lending"** běžnému v některých zahraničních úvěrových praktikách (zejména v USA před krizí 2008) — financování úvěru pouze hodnotou zajištění bez ohledu na schopnost spotřebitele splácet z příjmů.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Nebankovní poskytovatel P poskytne spotřebiteli Z úvěr 200 000 Kč. Z v žádosti uvede příjem 25 000 Kč, P se spokojí s tímto prohlášením, neověří je výpisem z účtu ani lustrací registru a nezohlední, že Z již splácí dva jiné úvěry se splátkami převyšujícími jeho příjem. Z přestane splácet. Důkazy: úvěrová smlouva, žádost, výpisy z účtu Z, údaje z CNCB/SOLUS o existujících dluzích, interní skóringový záznam P (či jeho absence).
+
+**2. Právní otázka.** Posoudil P úvěruschopnost Z důkladně dle § 86 odst. 1, tj. na základě spolehlivých a ověřených informací, a vyplynula z posouzení absence důvodných pochybností o schopnosti splácet?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 86 odst. 1 (důkladné posouzení z nezbytných, spolehlivých, dostatečných a přiměřených informací; poskytnutí úvěru jen při absenci důvodných pochybností), odst. 2 (porovnání příjmů a výdajů, majetku, závazků, plnění dosavadních dluhů; omezené zohlednění majetku).
+- *Související ustanovení téhož zákona:* § 87 (sankce neplatnosti), § 84 (informace od spotřebitele a jejich ověření), § 88 (databáze), § 75 (odborná péče).
+- *Související předpisy:* čl. 8 směrnice CCD a čl. 18 MCD; § 6 OZ.
+- *Judikatura:* NS 33 Cdo 3675/2021 (neplatnost dle § 87 při porušení § 86 odst. 1 věty druhé, ztráta nároku na úroky a poplatky); NSS 9 As 127/2024 (povinnost aktivně zjišťovat a ověřovat úvěruschopnost, nespoléhat na nedoložená prohlášení).
+
+**4. Subsumpce.** P se spokojil s nedoloženým prohlášením o příjmu — informace nebyly **spolehlivé** ani **dostatečné** ve smyslu kvalitativní pětice odst. 1. Existující dluhy Z (relevantní pro porovnání dle odst. 2) P nezjistil, ač měl k dispozici registry. Z porovnání příjmů a výdajů by vyplynuly **důvodné pochybnosti** o schopnosti splácet; P přesto úvěr poskytl. Znaky porušení § 86 odst. 1 věty druhé jsou naplněny.
+
+**5. Řešení.** P porušil povinnost důkladně posoudit úvěruschopnost; následkem je neplatnost smlouvy dle § 87, ke které soud přihlédne i bez návrhu, a ztráta nároku na úroky a poplatky (NS 33 Cdo 3675/2021). Z vrátí pouze jistinu v době přiměřené možnostem. Procesně: doložit obsah žádosti, absenci ověření a stav registrů; soud zkoumá ex officio. Riziko pro P: dohledová sankce ČNB souběžně se soukromoprávní sankcí.
+
+**6. Varianty.** (a) P by ověřil příjem výpisy a lustroval registry a výsledek by neukázal pochybnosti — povinnost by byla splněna a poskytnutí by bylo v pořádku. (b) Šlo by o „americkou hypotéku" splácenou výnosem z prodeje majetku — P by legitimně zohlednil hodnotu majetku dle odst. 2 věty druhé.
+
+##### G. Protiargumenty a rizika
+
+- *„Spotřebitel sám uvedl dostatečný příjem, na to jsme se spolehli."* Neutralizace: § 86 vyžaduje ověření přiměřené situaci; spoléhání na nedoložené prohlášení nestačí (NSS 9 As 127/2024).
+- *„Pochybnosti nebyly důvodné, šlo o standardní rizikový profil."* Neutralizace: negativní test odst. 1 věty druhé klade břemeno na poskytovatele prokázat, že po řádném posouzení pochybnosti nebyly; nezjištěné dluhy tuto obranu vylučují.
+- Slabé místo: neurčitost „významného navýšení" u změny závazku a hranice „přiměřenosti" ověření; vyžaduje individuální posouzení rizikovosti úvěru.
+
+##### H. Praktický závěr
+
+§ 86 je jádrem odpovědného úvěrování: poskytovatel musí úvěruschopnost důkladně posoudit z ověřených informací a úvěr poskytnout jen při absenci důvodných pochybností o splácení. Hodnotu majetku lze zohlednit jen ve dvou zákonem vymezených situacích.
+
+**Checklist (advokát / soud / ČNB / poskytovatel):**
+- [ ] Šlo o nový úvěr, nebo o významné navýšení (aktivace povinnosti)?
+- [ ] Byly informace nezbytné, spolehlivé, dostatečné a přiměřené povaze/výši/rizikovosti úvěru?
+- [ ] Byly údaje ověřeny (výpisy, registry, automatizované modely)?
+- [ ] Provedeno porovnání příjmů, výdajů, majetku, závazků a plnění dosavadních dluhů (odst. 2)?
+- [ ] Vyplynula z výsledku absence důvodných pochybností o schopnosti splácet?
+- [ ] Zohledněn majetek jen ve dvou přípustných případech (prodej majetku / nezávislost na příjmech)?
+
+**Typicky rozhodné důkazy / podklady:** žádost a dotazník, výpisy z účtů, daňová přiznání, výpisy z úvěrových registrů (CBCB/CNCB/SOLUS), interní skóringové záznamy, kalkulace příjmů a výdajů.
+
 ---
 
 #### § 87 — Důsledky porušení povinnosti posoudit úvěruschopnost spotřebitele
@@ -960,6 +1830,44 @@ V případě **sporu o dobu** vrácení jistiny rozhoduje soud na návrh někter
 § 87 fakticky **přenáší úvěrové riziko** z poskytovatele na sebe sama v případě porušení povinnosti dle § 86. Pokud poskytovatel nedostatečně posoudí úvěruschopnost a poskytne úvěr osobě, která nemá schopnost splácet, ztrácí nárok na úroky a poplatky a získává pouze nárok na vrácení jistiny v dlouhodobém horizontu (řízeném soudem). Toto pravidlo má **silný preventivní efekt** — motivuje poskytovatele k řádnému posouzení úvěruschopnosti, neboť dohledové sankce ČNB doplňuje tvrdou soukromoprávní sankcí ztráty výnosu z úvěru.
 
 Judikatura k § 87 se postupně dotváří. Stanoví se postupně, co znamená „důkladné" posouzení, jaký je rozsah povinnosti ověření informací, jak posoudit situace na hraně (např. osoba na hranici schopnosti splácet, kdy splacení závisí na zachování nestabilního příjmu).
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Poskytovatel P poskytl spotřebiteli Z úvěr 200 000 Kč v rozporu s § 86 (neposoudil úvěruschopnost). Z splatil na úrocích a poplatcích 30 000 Kč a na jistině 20 000 Kč, poté přestal platit. P žaluje o doplacení celého dluhu včetně sjednaných úroků a vyzval Z k vrácení zbytku „okamžitě". Z navrhuje, aby soud určil přiměřenou dobu splacení podle jeho příjmů. Důkazy: smlouva, doklad o čerpání jistiny, přehled plateb Z, údaje o jeho příjmech a sociálních poměrech.
+
+**2. Právní otázka.** Jaké jsou restituční účinky neplatnosti dle § 87 — co a kdy musí Z vrátit, a vzniká P nárok na úroky a úrok z prodlení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 87 odst. 1 (absolutní neplatnost, ohled soudu i bez návrhu, vrácení jistiny v době přiměřené možnostem), odst. 2 (soudní určení doby), odst. 3 (změna doby při změně možností).
+- *Související ustanovení téhož zákona:* § 86 odst. 1 (povinnost, jejíž porušení sankci vyvolává).
+- *Související předpisy:* § 588 OZ (absolutní neplatnost, ohled ex officio), § 2991 a násl. OZ (bezdůvodné obohacení — modifikováno), § 1970 OZ (úrok z prodlení), § 639 OZ (uznání dluhu a promlčení).
+- *Judikatura:* NS 33 Cdo 3675/2021 (P nemá nárok na sjednané úroky a poplatky; úrok z prodlení vzniká až prodlením s vrácením jistiny dle § 87 odst. 1, výzva sama prodlení nezakládá); NS 23 Cdo 101/2023 (plnění na jistinu v přiměřené době dle § 87 není uznáním dluhu a nezakládá běh nové desetileté promlčecí lhůty dle § 639 OZ).
+
+**4. Subsumpce.** Porušení § 86 vyvolává absolutní neplatnost (§ 87 odst. 1) — soud k ní přihlédne i bez návrhu (§ 588 OZ). Z vrací **pouze jistinu**, nikoli sjednané úroky a poplatky; již zaplacené úroky/poplatky byly plněny bez právního důvodu. Vrácení probíhá **v době přiměřené možnostem** Z, kterou při sporu určí soud dle odst. 2. Výzva P k okamžitému vrácení prodlení nezakládá.
+
+**5. Řešení.** Soud určí splátkový režim vrácení zbytku jistiny podle příjmů a sociálních a majetkových poměrů Z (odst. 2). P nemá nárok na sjednané úroky ani poplatky; úrok z prodlení mu vznikne až tehdy, je-li Z v prodlení s vrácením jistiny v soudem určené době. Procesně: P/Z navrhne určení doby; soud váží i spravedlivé uspořádání práv obou stran. Změní-li se možnosti Z, lze dobu modifikovat (odst. 3).
+
+**6. Varianty.** (a) P by úvěruschopnost řádně posoudil — § 87 by se neuplatnil a P by měl nárok na sjednané plnění. (b) Možnosti Z se výrazně zlepší (nové zaměstnání) — P navrhne zkrácení doby splacení dle odst. 3.
+
+##### G. Protiargumenty a rizika
+
+- *„Neplatnost je relativní, musí ji namítnout spotřebitel."* Neutralizace: § 87 odst. 1 výslovně stanoví ohled soudu i bez návrhu — jde o neplatnost absolutní, odchylnou od pravidla § 586 OZ.
+- *„Z je v prodlení od naší výzvy, žádáme úrok z prodlení."* Neutralizace: dle NS 33 Cdo 3675/2021 výzva sama prodlení nezakládá; úrok z prodlení až při prodlení s vrácením jistiny v době dle § 87 odst. 1.
+- Slabé místo: kritérium „přiměřené možnostem" je vágní a závislé na individuálních poměrech; dotváří se soudní praxí, riziko nejednotnosti.
+
+##### H. Praktický závěr
+
+Porušení § 86 vede k absolutní neplatnosti smlouvy (soud ji zohlední bez návrhu), ztrátě nároku poskytovatele na úroky a poplatky a k vrácení pouhé jistiny v době přiměřené možnostem spotřebitele určené soudem. Plnění na jistinu není uznáním dluhu.
+
+**Checklist (advokát / soud / poskytovatel / spotřebitel):**
+- [ ] Bylo porušeno § 86 odst. 1 věta druhá (podklad neplatnosti)?
+- [ ] Zohlednil soud neplatnost i bez návrhu (ex officio)?
+- [ ] Omezuje se restituce spotřebitele na jistinu (bez úroků a poplatků)?
+- [ ] Je doba vrácení stanovena podle příjmů a sociálních/majetkových poměrů (odst. 2)?
+- [ ] Nevzniká úrok z prodlení dříve než prodlením s vrácením jistiny?
+- [ ] Nezakládá plnění na jistinu uznání dluhu / nový běh promlčení (NS 23 Cdo 101/2023)?
+
+**Typicky rozhodné důkazy / podklady:** úvěrová smlouva, doklad o čerpání jistiny, přehled všech plateb spotřebitele s rozlišením jistina/úrok/poplatek, podklady o příjmech a sociálních a majetkových poměrech spotřebitele.
 
 ---
 
@@ -1020,6 +1928,42 @@ Provozovatel databáze musí splňovat **kvalitativní standardy**:
 
 V souladu s GDPR (nařízení 2016/679) a zákonem č. 110/2019 Sb., o zpracování osobních údajů, je poskytovatel povinen spotřebitele informovat o **záměru vyhledávat údaje v databázi**. Toto pravidlo odpovídá zásadě transparentnosti zpracování osobních údajů.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Poskytovatel P před schválením úvěru lustruje spotřebitele Z v registru CNCB, aniž Z předem informuje o záměru vyhledávat v databázi. Údaje z registru pak P použije nejen k posouzení úvěruschopnosti, ale i k zařazení Z do marketingové kampaně na další produkty. Z podá stížnost k ÚOOÚ. Důkazy: záznam o lustraci registru, informační doložka (či její absence), interní záznamy o marketingovém využití dat, smlouva o přístupu P do registru.
+
+**2. Právní otázka.** Porušil P § 88, jestliže Z předem neinformoval o vyhledávání v databázi (odst. 3) a údaje z registru použil i k jiným účelům než k posouzení splácení (odst. 2)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 88 odst. 1 (požadavky na databázi), odst. 2 (přístup k údajům jako k vlastním, výhradně pro vyhodnocení řádného splácení dle § 85 a 86), odst. 3 (informování spotřebitele o záměru vyhledávat).
+- *Související ustanovení téhož zákona:* § 86 (úvěruschopnost), § 85 (rada), § 89 (informace při odmítnutí), § 84 odst. 2 (ověření údajů).
+- *Související předpisy:* GDPR (2016/679) — zásada účelového omezení (čl. 5 odst. 1 písm. b)), transparentnost; zák. č. 110/2019 Sb.
+- *Judikatura:* dozorová praxe ÚOOÚ k účelovému omezení zpracování — zákaz použití úvěrových dat pro nesouvisející marketing.
+
+**4. Subsumpce.** P porušil odst. 3 (chybějící informování o záměru vyhledávat). Použitím dat z registru k marketingu porušil odst. 2, který omezuje využití **výhradně** na vyhodnocení předpokladů řádného splácení (§ 85, 86); marketing pod tento účel nespadá — porušení účelového omezení dle GDPR. Naopak na samotné posouzení úvěruschopnosti měl P právo a údaje z registru musí hodnotit jako vlastní (odst. 2 věta první).
+
+**5. Řešení.** P pochybil ve dvou bodech: neinformoval o vyhledávání (odst. 3) a zneužil data k marketingu (odst. 2). Hrozí mu sankce dozorového úřadu (ÚOOÚ dle GDPR) i ČNB. Procesní kroky Z: stížnost k ÚOOÚ, uplatnění práv subjektu údajů (informace, námitka). Riziko: prokázání, že data z registru byla skutečně použita k marketingu (nepřímé důkazy z interních systémů).
+
+**6. Varianty.** (a) P by předem zařadil do žádosti jasnou informační doložku a data použil jen k posouzení splácení — postup by byl v souladu s § 88. (b) Databáze by diskriminovala poskytovatele z jiného členského státu EU — porušení odst. 1 písm. c) by leželo na provozovateli databáze, ne na P.
+
+##### G. Protiargumenty a rizika
+
+- *„Informování bylo součástí obecných obchodních podmínek."* Neutralizace: informace o záměru vyhledávat musí být konkrétní a transparentní (odst. 3, GDPR); ukrytí v OP nesplňuje standard srozumitelnosti.
+- *„Data jsme měli, mohli jsme je využít i k nabídce produktů."* Neutralizace: odst. 2 stanoví výhradní účel (vyhodnocení splácení dle § 85 a 86); jiné použití porušuje účelové omezení.
+- Slabé místo: hranice mezi využitím dat pro „vyhodnocení splácení" a pro křížový prodej souvisejících produktů může být v praxi nejasná; vyžaduje doložení skutečného účelu zpracování.
+
+##### H. Praktický závěr
+
+§ 88 dává poskytovatelům právní základ pro lustraci v úvěrových registrech, ale zavazuje je informovat spotřebitele předem a využívat data výhradně k posouzení schopnosti splácet. Údaje z registru se posuzují jako vlastní informace poskytovatele.
+
+**Checklist (advokát / soud / poskytovatel / ÚOOÚ):**
+- [ ] Splňuje databáze požadavky odst. 1 písm. a)–f) (účel, přístup, nediskriminace EU, mlčenlivost, zveřejnění podmínek)?
+- [ ] Byl spotřebitel předem informován o záměru vyhledávat v databázi (odst. 3)?
+- [ ] Jsou údaje z databáze posuzovány jako vlastní informace poskytovatele (odst. 2 věta první)?
+- [ ] Jsou údaje použity výhradně k vyhodnocení řádného splácení dle § 85 a 86 (zákaz jiných účelů)?
+
+**Typicky rozhodné důkazy / podklady:** informační doložka v žádosti, záznam o lustraci registru, smlouva o přístupu k databázi, interní logy využití dat, zásady zpracování osobních údajů.
+
 ---
 
 #### § 89 — Informace v případě odmítnutí poskytnout spotřebitelský úvěr
@@ -1036,6 +1980,42 @@ V souladu s GDPR (nařízení 2016/679) a zákonem č. 110/2019 Sb., o zpracová
 2. **Pokud bylo rozhodnuto automatizovaně nebo na základě databáze** — informace o výsledku automatizovaného zpracování a o použité databázi.
 
 Toto pravidlo navazuje na **čl. 22 GDPR** — právo nebýt předmětem rozhodnutí založeného výhradně na automatizovaném zpracování, které má pro subjekt právní účinky nebo jej významně ovlivňuje. Pokud automatizovaný systém vyhodnotí spotřebitele jako neschopného splácet, ten má právo vědět o tom a může případně namítat lidský přezkum.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Spotřebitel Z požádá online o úvěr u poskytovatele P. Skóringový algoritmus P žádost automaticky zamítne na základě negativního záznamu v registru SOLUS. P pouze zobrazí hlášku „Vaši žádost nelze schválit", bez bližšího vysvětlení. Z se domnívá, že záznam v registru je chybný (záměna osob), ale neví, o jakou databázi a výsledek šlo. Důkazy: log automatizovaného rozhodnutí, údaj o použité databázi, sdělení zaslané spotřebiteli, záznam v registru.
+
+**2. Právní otázka.** Splnil P informační povinnost dle § 89, jestliže Z pouze sdělil odmítnutí, ale neuvedl výsledek automatizovaného zpracování a použitou databázi?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 89 (informace bez zbytečného odkladu o odmítnutí; při automatizovaném zpracování nebo vyhledávání v databázi též vyrozumění o výsledku a o použité databázi).
+- *Související ustanovení téhož zákona:* § 86 (úvěruschopnost), § 88 (databáze), § 90 (bezplatnost, forma).
+- *Související předpisy:* čl. 22 GDPR (automatizované individuální rozhodování), čl. 13–15 GDPR (právo na informace a přístup); zák. č. 110/2019 Sb.
+- *Judikatura:* dozorová praxe k čl. 22 GDPR — právo subjektu na informaci o logice a důsledcích automatizovaného rozhodnutí a na lidský přezkum.
+
+**4. Subsumpce.** P splnil první stupeň povinnosti (informace o odmítnutí), ale nesplnil druhý stupeň: odmítnutí bylo výsledkem automatizovaného zpracování a vyhledávání v databázi (SOLUS), proto měl P vyrozumět Z o **výsledku** zpracování a o **použité databázi**. Tento znak § 89 naplněn nebyl.
+
+**5. Řešení.** P porušil § 89 tím, že neuvedl výsledek automatizovaného zpracování a použitou databázi. Z má právo na tuto informaci a navazující práva dle GDPR (přístup, oprava chybného záznamu, lidský přezkum dle čl. 22). Procesně: Z žádá u P doplnění informace a u provozovatele registru opravu; při neúspěchu stížnost ČNB / ÚOOÚ. Riziko: odmítnutí úvěru samo o sobě nezakládá nárok na úvěr — jde o informační a opravné právo, ne o vynucení poskytnutí úvěru.
+
+**6. Varianty.** (a) P by sdělil odmítnutí spolu s informací, že rozhodl skóring na základě záznamu v SOLUS — povinnost dle § 89 by byla splněna. (b) Odmítnutí by nebylo výsledkem automatizovaného zpracování ani databáze (např. individuální posouzení úvěrového pracovníka) — postačila by informace o odmítnutí bez údaje o databázi.
+
+##### G. Protiargumenty a rizika
+
+- *„Sdělili jsme, že žádost nelze schválit, víc zákon nevyžaduje."* Neutralizace: u automatizovaného nebo databázového rozhodnutí § 89 výslovně vyžaduje i vyrozumění o výsledku a použité databázi.
+- *„Logiku skóringu nemusíme prozrazovat (obchodní tajemství)."* Neutralizace: § 89 a GDPR nepožadují odhalení algoritmu, ale informaci o výsledku a databázi a obecně o logice — to obchodní tajemství neporušuje.
+- Slabé místo: § 89 nezakládá nárok na úvěr ani na úspěch přezkumu; účinná ochrana závisí na navazujících právech dle GDPR a na správnosti záznamu v registru.
+
+##### H. Praktický závěr
+
+Při zamítnutí úvěru musí poskytovatel spotřebitele bez zbytečného odkladu informovat; bylo-li rozhodnuto automatizovaně nebo na základě databáze, musí sdělit i výsledek zpracování a použitou databázi. Tím se otevírá cesta k opravě chybných záznamů a k lidskému přezkumu.
+
+**Checklist (advokát / poskytovatel / spotřebitel / dozorové orgány):**
+- [ ] Byl spotřebitel informován o odmítnutí bez zbytečného odkladu?
+- [ ] Šlo o odmítnutí na základě automatizovaného zpracování nebo vyhledávání v databázi (§ 88)?
+- [ ] Byl v takovém případě sdělen výsledek zpracování a označena použitá databáze?
+- [ ] Byla informace poskytnuta bezplatně a srozumitelně (návaznost na § 90 a GDPR)?
+
+**Typicky rozhodné důkazy / podklady:** sdělení o odmítnutí, log automatizovaného rozhodnutí, označení použité databáze, záznam v úvěrovém registru, informační doložky dle GDPR.
 
 ---
 
@@ -1062,6 +2042,42 @@ Pojem **trvalý nosič dat** (durable medium) je terminus technicus EU spotřebi
 - Elektronický nosič umožňující **trvalé uchování** a **reprodukci** údajů (e-mail s přílohou, PDF na uživatelském účtu, dokument v aplikaci).
 
 Pojem **vylučuje** běžné webové stránky (které mohou být změněny) nebo SMS bez možnosti trvalého uchování. Klíčové atributy: trvalost, individuálnost (adresováno konkrétnímu spotřebiteli), reprodukovatelnost.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Poskytovatel P poskytne předsmluvní informace tak, že je zveřejní pouze na své webové stránce, kterou může kdykoli změnit, a navíc si za „vyhotovení a zaslání" formuláře účtuje 200 Kč. Spotřebitel Z později nemůže prokázat, jaké podmínky mu byly sděleny, protože web byl mezitím upraven. Důkazy: archivní verze webu, doklad o účtovaném poplatku 200 Kč, komunikace mezi P a Z, podoba poskytnutých dokumentů.
+
+**2. Právní otázka.** Splnil P povinnosti dle § 90, jestliže informace poskytl jen na měnitelném webu a zpoplatnil je?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 90 odst. 1 (bezplatnost informací), odst. 2 (forma — listinná podoba nebo jiný trvalý nosič dat, není-li stanoveno jinak).
+- *Související ustanovení téhož zákona:* § 92 (informace trvale přístupné — výjimka připouštějící internetové stránky), § 94–99 (předsmluvní informace a formuláře), § 105 (poskytnutí smlouvy).
+- *Související předpisy:* definice trvalého nosiče dat v unijním spotřebitelském právu (durable medium), § 1819 OZ; směrnice CCD/MCD.
+- *Judikatura:* judikatura SDEU k pojmu „trvalý nosič dat" — běžná webová stránka, kterou lze jednostranně měnit, zpravidla trvalý nosič dat nepředstavuje.
+
+**4. Subsumpce.** Zpoplatnění informací 200 Kč porušuje princip bezplatnosti dle odst. 1. Poskytnutí předsmluvních informací jen na měnitelném webu nesplňuje formu „listinná podoba nebo trvalý nosič dat" dle odst. 2 — chybí trvalost a reprodukovatelnost. (Výjimkou by byla informace dle § 92, u níž zákon internetové stránky výslovně připouští.)
+
+**5. Řešení.** P porušil § 90 v obou složkách. Z má právo na bezplatné poskytnutí informací na trvalém nosiči (např. PDF e-mailem). Procesně: Z může požadovat vrácení 200 Kč jako plnění bez právního důvodu a podat podnět ČNB; v případném sporu o obsah smlouvy jde důkazní nouze k tíži P, který formu nedodržel. Riziko: odlišit informace dle § 90/95 (trvalý nosič) od informací dle § 92 (web přípustný).
+
+**6. Varianty.** (a) P by zaslal formulář v PDF e-mailem zdarma — forma i bezplatnost by byly splněny. (b) Šlo by o trvale přístupné informace dle § 92 — jejich zveřejnění na internetových stránkách by zákon výslovně připouštěl.
+
+##### G. Protiargumenty a rizika
+
+- *„Web je také trvalý nosič, údaje tam jsou stále."* Neutralizace: trvalý nosič vyžaduje, aby údaje nemohl poskytovatel jednostranně měnit a aby je spotřebitel mohl reprodukovat; běžný web tomu nevyhovuje (judikatura SDEU).
+- *„Poplatek byl za administrativu, ne za informace."* Neutralizace: odst. 1 zakazuje jakékoli zpoplatnění zákonem požadovaných informací; nálepka „administrativa" je obcházením.
+- Slabé místo: hranice mezi § 90 odst. 2 (trvalý nosič) a § 92 (web přípustný) může vést k záměně; nutno přesně určit, o jaký druh informace jde.
+
+##### H. Praktický závěr
+
+§ 90 stanoví dva základní standardy poskytování informací podle ZSÚ: bezplatnost a formu listinné podoby nebo trvalého nosiče dat. Internetové stránky jsou přípustné jen tam, kde to zákon výslovně dovoluje (§ 92).
+
+**Checklist (advokát / poskytovatel / ČNB / spotřebitel):**
+- [ ] Jsou zákonem požadované informace poskytnuty bezplatně (odst. 1)?
+- [ ] Jsou poskytnuty v listinné podobě nebo na jiném trvalém nosiči dat (odst. 2)?
+- [ ] Splňuje použitý nosič znaky trvalosti, individuálnosti a reprodukovatelnosti?
+- [ ] Nejde o informace dle § 92, u nichž zákon připouští internetové stránky?
+
+**Typicky rozhodné důkazy / podklady:** poskytnuté dokumenty/formuláře, doklad o (ne)zpoplatnění, archivní verze webu, e-mailová komunikace s přílohami, podoba trvalého nosiče (PDF, dokument v aplikaci).
 
 ---
 
@@ -1098,6 +2114,43 @@ RPSN umožňuje spotřebiteli **srovnat různé úvěrové produkty** napříč 
 
 Informace o nákladech se prezentují formou **reprezentativního příkladu** — typického scénáře úvěru daného typu (typická výše, doba, sazba). Tím spotřebitel vidí, jak se náklady promítají do konkrétní situace, nikoli pouze abstraktní procenta.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Poskytovatel P zveřejní reklamu na úvěr s velkým nápisem „úrok již od 3,9 %" a drobným tiskem uvede splatnost a výši splátky, avšak **neuvede RPSN** ani celkovou částku k zaplacení, ač reklama obsahuje číselné údaje o nákladech. RPSN by přitom činila 12 % po započtení poplatků a povinného pojištění. Spotřebitelka K na základě reklamy odmítne výhodnější nabídku konkurence. ČNB zahájí přestupkové řízení. Důkazy: znění reklamy, kalkulace skutečné RPSN, srovnání s konkurenční nabídkou.
+
+**2. Právní otázka.** Porušil P § 91 tím, že reklama s číselným údajem o nákladech neobsahovala RPSN a další povinné údaje formou reprezentativního příkladu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 91 odst. 1 (povinné položky reklamy obsahující číselný údaj o nákladech, vč. RPSN, zápůjční sazby, celkové výše a celkové částky), odst. 2 (reprezentativní příklad).
+- *Související ustanovení téhož zákona:* § 90 (forma a bezplatnost), § 95 (předsmluvní informace), příloha č. 1 (výpočet RPSN), sankční ustanovení.
+- *Související předpisy:* zák. č. 634/1992 Sb., o ochraně spotřebitele (klamavé obchodní praktiky); čl. 4 směrnice CCD; § 2976 OZ (nekalá soutěž).
+- *Judikatura:* NSS 2 As 53/2021 (uvádění RPSN má umožnit objektivní porovnání nabídek; nesprávná informace o RPSN může spotřebitele odradit od výhodnější nabídky jiného poskytovatele).
+
+**4. Subsumpce.** Reklama obsahovala číselný údaj o nákladech (3,9 %), čímž se aktivoval § 91 odst. 1. Chybělo však RPSN a celková částka k zaplacení — povinné položky. Tím je naplněn znak porušení informační povinnosti; uvedení jen příznivé sazby bez RPSN je přesně typem klamavého minimálního informování, kterému § 91 brání (NSS 2 As 53/2021).
+
+**5. Řešení.** P porušil § 91; jde o přestupek postižitelný ČNB a zároveň možnou klamavou obchodní praktiku. Reklama měla obsahovat RPSN alespoň stejně zřetelně jako zápůjční sazbu a údaje prezentovat reprezentativním příkladem. Procesní krok: ČNB uloží sankci; poškozený konkurent může uplatnit nároky z nekalé soutěže. Riziko: posouzení, zda konkrétní číselný údaj „o nákladech" trigger aktivoval (např. pouhá výše úvěru bez nákladové složky nemusí stačit).
+
+**6. Varianty.** (a) Reklama by neobsahovala žádný číselný údaj o nákladech (jen slogan „výhodný úvěr") — povinnosti § 91 by se neaktivovaly. (b) Reklama by uvedla RPSN i ostatní položky reprezentativním příkladem stejně zřetelně — byla by v souladu.
+
+##### G. Protiargumenty a rizika
+
+- *„Uvedli jsme jen úrokovou sazbu, to není úplná informace o nákladech."* Neutralizace: § 91 se aktivuje jakýmkoli číselným údajem o nákladech; úroková sazba jím je, takže povinnost uvést RPSN vzniká.
+- *„RPSN bylo uvedeno drobným tiskem."* Neutralizace: RPSN musí být alespoň stejně zřetelná jako zápůjční sazba; ukrytí drobným tiskem požadavku nevyhovuje.
+- Slabé místo: pojem „číselný údaj o nákladech" může být sporný u čistě produktových údajů (výše úvěru); reprezentativní příklad musí být skutečně typický, jinak je sám zavádějící.
+
+##### H. Praktický závěr
+
+Obsahuje-li reklama na úvěr jakýkoli číselný údaj o nákladech, musí uvádět zákonný balík informací včetně RPSN, a to formou reprezentativního příkladu a alespoň stejně zřetelně jako zápůjční sazbu. RPSN je nástroj objektivního srovnání nabídek.
+
+**Checklist (advokát / poskytovatel / ČNB):**
+- [ ] Obsahuje reklama číselný údaj o nákladech (trigger § 91)?
+- [ ] Je uvedena RPSN, a to alespoň stejně zřetelně jako zápůjční sazba?
+- [ ] Jsou uvedeny i celková výše úvěru a celková částka splatná spotřebitelem?
+- [ ] Jsou údaje prezentovány formou reprezentativního příkladu (odst. 2)?
+- [ ] Je reprezentativní příklad skutečně typický a neklamavý?
+
+**Typicky rozhodné důkazy / podklady:** znění a grafická podoba reklamy, kalkulace RPSN dle přílohy č. 1, podklady o všech poplatcích a povinném pojištění, srovnání s tržními nabídkami.
+
 ---
 
 #### § 92 — Informace trvale přístupné spotřebiteli
@@ -1109,6 +2162,42 @@ Informace o nákladech se prezentují formou **reprezentativního příkladu** �
 § 92 zakotvuje **katalog 20 obligatorních informací**, které poskytovatel musí trvale zpřístupnit spotřebiteli (v listinné podobě, na trvalém nosiči dat nebo na **internetových stránkách**). Účelem je, aby spotřebitel mohl získat základní orientaci o nabídce poskytovatele a procesu poskytování úvěru **kdykoli** a **bezplatně**.
 
 Obsah katalogu pokrývá kontaktní údaje, údaje o registraci, mechanismus stížností, finanční arbitr, dohledový orgán, informace o procesu poskytování úvěru, formy zajištění, příklady doby trvání, typy úrokových sazeb, podmínky předčasného splacení atd.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Poskytovatel P na svých internetových stránkách neuvádí mechanismus podávání stížností, údaj o příslušnosti finančního arbitra ani o dohledovém orgánu (ČNB). Spotřebitel Z, který se chce bránit, neví, kam se obrátit, a promešká příležitost řešit spor u finančního arbitra včas. Důkazy: snímky internetových stránek P, výčet zveřejněných a chybějících položek z katalogu § 92, komunikace Z s P.
+
+**2. Právní otázka.** Porušil P § 92 tím, že trvale nezpřístupnil všechny obligatorní informace z katalogu (zejména mechanismus stížností, finanční arbitr, dohledový orgán)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 92 (katalog 20 informací trvale přístupných spotřebiteli v listinné podobě, na trvalém nosiči nebo na internetových stránkách).
+- *Související ustanovení téhož zákona:* § 90 (bezplatnost a forma), § 93 (informace o zprostředkovateli), § 95 a násl. (předsmluvní informace).
+- *Související předpisy:* zák. č. 229/2002 Sb., o finančním arbitrovi; zák. č. 6/1993 Sb., o ČNB (dohled); zák. č. 634/1992 Sb. (ochrana spotřebitele).
+- *Judikatura:* dohledová praxe ČNB k rozsahu a úplnosti trvale přístupných informací.
+
+**4. Subsumpce.** § 92 vyžaduje trvalé zpřístupnění **všech** položek katalogu; absence mechanismu stížností, údaje o finančním arbitru a o dohledovém orgánu znamená neúplnost katalogu, a tedy porušení § 92. Na rozdíl od § 90 odst. 2 zde zákon **připouští internetové stránky** jako formu — pochybení tedy není ve formě, ale v obsahové neúplnosti.
+
+**5. Řešení.** P porušil § 92; jde o přestupek postižitelný ČNB. P musí katalog doplnit o všechny obligatorní položky. Pro Z je relevantní zejména včasné dohledání příslušnosti finančního arbitra; jeho právo obrátit se na arbitra ovšem nezaniká jen proto, že P informaci neuvedl. Procesní krok: podnět ČNB; Z se může na arbitra obrátit i bez informace od P. Riziko: prokázat, které konkrétní položky katalogu chyběly v rozhodné době (archivace webu).
+
+**6. Varianty.** (a) P by všechny položky katalogu trvale zveřejnil na webu — povinnost § 92 by byla splněna (web je zde přípustný). (b) Informace by se týkaly zprostředkovatele — aplikoval by se speciální § 93, ne § 92.
+
+##### G. Protiargumenty a rizika
+
+- *„Informace jsou dostupné na vyžádání, nemusí být trvale zveřejněny."* Neutralizace: § 92 vyžaduje **trvalou** přístupnost, ne poskytnutí ad hoc na žádost.
+- *„Spotřebiteli nevznikla žádná škoda."* Neutralizace: porušení § 92 je přestupkem bez ohledu na vznik škody; jde o ochranu transparentnosti trhu.
+- Slabé místo: katalog je rozsáhlý (20 položek) a některé jsou si obsahově blízké; spornost spočívá v posouzení, zda byla konkrétní položka dostatečně a srozumitelně zpřístupněna.
+
+##### H. Praktický závěr
+
+§ 92 ukládá poskytovateli trvale zpřístupnit úplný katalog 20 informací, přičemž zde zákon výslovně připouští i internetové stránky. Klíčové je, aby spotřebitel kdykoli a bezplatně našel zejména kontakty, mechanismus stížností, finančního arbitra a dohledový orgán.
+
+**Checklist (advokát / poskytovatel / ČNB):**
+- [ ] Jsou trvale přístupné všechny obligatorní položky katalogu (20 informací)?
+- [ ] Je uveden mechanismus podávání stížností a možnost mimosoudního řešení (finanční arbitr)?
+- [ ] Je označen dohledový orgán (ČNB)?
+- [ ] Je forma zpřístupnění přípustná (listinná podoba, trvalý nosič nebo internetové stránky) a informace bezplatná?
+
+**Typicky rozhodné důkazy / podklady:** podoba internetových stránek poskytovatele (vč. archivních verzí), výčet zveřejněných položek, interní informační dokumenty, korespondence se spotřebitelem.
 
 ---
 
@@ -1126,6 +2215,43 @@ Obsah katalogu pokrývá kontaktní údaje, údaje o registraci, mechanismus st�
 - **mimosoudní řešení sporů** prostřednictvím finančního arbitra (zákon č. 229/2002 Sb.).
 
 Při **prvním navázání kontaktu** musí zprostředkovatel sdělit minimálně informaci o **typu** (§ 93 odst. 1 písm. a)) a u vázaných subjektů též o zastoupeném — aby spotřebitel od počátku znal povahu vztahu.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Zprostředkovatel S vystupuje jako „nezávislý poradce", ač je ve skutečnosti vázaným zástupcem jediné banky B. Spotřebiteli Z nesdělí svůj typ ani to, že zastupuje výhradně B, a zatají, že od B pobírá provizi 2 % z výše úvěru. Z v domnění, že dostává srovnání trhu, sjedná úvěr u B. Důkazy: záznam o navázání kontaktu, marketingové materiály S, smlouva o zastoupení mezi S a B, doklad o výši provize, registr ČNB.
+
+**2. Právní otázka.** Porušil S § 93 tím, že nesdělil svůj typ zprostředkovatele, zastoupeného poskytovatele a výši odměny?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 93 (informace zprostředkovatele s předstihem — typ zprostředkovatele, zastoupený, výše odměny, registr, mimosoudní řešení sporů; minimální informace při prvním kontaktu).
+- *Související ustanovení téhož zákona:* § 81 (pojem „nezávislý"), § 80 (zákaz dvojí odměny), § 76 (nejlepší zájem), § 94 (vysvětlovací povinnost), § 85 (rada).
+- *Související předpisy:* zák. č. 229/2002 Sb. (finanční arbitr); zák. č. 634/1992 Sb. (klamavé praktiky); § 2989 a násl. OZ (nekalá soutěž).
+- *Judikatura:* dohledová praxe ČNB k transparentnosti postavení a odměňování zprostředkovatelů.
+
+**4. Subsumpce.** S nesdělil typ zprostředkovatele (znak odst. 1 písm. a) — porušení i minimální informační povinnosti při prvním kontaktu), zatajil zastoupeného (B) a výši odměny. Označení „nezávislý" navíc porušuje § 81, neboť S nezvažuje produkty většiny trhu. Znaky porušení § 93 jsou naplněny ve více bodech.
+
+**5. Řešení.** S porušil § 93 (a § 81); jde o přestupek postižitelný ČNB a možnou klamavou obchodní praktiku. S měl už při prvním kontaktu uvést svůj typ a zastoupeného a před zprostředkováním i výši odměny, registr a možnost obrátit se na finančního arbitra. Procesní krok: podnět ČNB, případně nárok Z z nekalé praktiky. Riziko: prokázat obsah ústního prvního kontaktu (bez záznamu obtížné).
+
+**6. Varianty.** (a) S by se představil jako vázaný zástupce B a sdělil provizi — povinnosti § 93 by splnil. (b) S by byl samostatným zprostředkovatelem srovnávajícím trh a označení „nezávislý" by užil oprávněně dle § 81.
+
+##### G. Protiargumenty a rizika
+
+- *„Informace jsem sdělil ústně při schůzce."* Neutralizace: část informací musí být na trvalém nosiči (návaznost na § 90); u sporu nese důkazní břemeno o splnění zprostředkovatel.
+- *„Výši odměny jsem uvádět nemusel, je to obchodní tajemství."* Neutralizace: § 93 výslovně řadí výši odměny (od poskytovatele i spotřebitele) mezi povinné informace.
+- Slabé místo: rozsah „dostatečného předstihu" a minimálních informací při prvním kontaktu je neurčitý; bez dokumentace prvního kontaktu je porušení obtížně prokazatelné.
+
+##### H. Praktický závěr
+
+§ 93 zajišťuje, aby spotřebitel od počátku znal povahu vztahu se zprostředkovatelem — jeho typ, zastoupeného, odměnu, registr i cestu k finančnímu arbitrovi. Vázaný zástupce se nesmí vydávat za nezávislého poradce.
+
+**Checklist (advokát / zprostředkovatel / ČNB / spotřebitel):**
+- [ ] Sdělil zprostředkovatel svůj typ (samostatný / vázaný zástupce / zprostředkovatel vázaného SÚ) — již při prvním kontaktu?
+- [ ] U vázaných subjektů uveden zastoupený poskytovatel?
+- [ ] Sdělena výše odměny od poskytovatele i od spotřebitele?
+- [ ] Uveden registr k ověření oprávnění a možnost mimosoudního řešení sporů (finanční arbitr)?
+- [ ] Užívá-li zprostředkovatel pojem „nezávislý", je to v souladu s § 81?
+
+**Typicky rozhodné důkazy / podklady:** záznam/dokument o prvním kontaktu a o informacích, smlouva o zastoupení, provizní výměry, marketingové materiály, výpis z registru ČNB.
 
 ---
 
@@ -1163,6 +2289,43 @@ Cílem je, aby spotřebitel **rozuměl** smlouvě a jejím rizikům, ne pouze ob
 Pokud informace a vysvětlení poskytne **zprostředkovatel**, platí, že **povinnost splnil i poskytovatel** — a naopak. Toto pravidlo brání zdvojení informací (spotřebitel by je obdržel od obou subjektů) a zjednodušuje praxi.
 
 **Výjimka (odst. 5):** zprostředkovatel **vázaného SÚ** nemusí informace a vysvětlení poskytnout. Důvodem je, že vázaný SÚ typicky zprostředkovává prodejce zboží (např. elektroniky), který nemá kapacitu plnit komplexní informační povinnosti — odpovědnost přesouvá zákon plně na poskytovatele.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Spotřebitel Z sjedná hypoteční úvěr přes zprostředkovatele S. S předá Z formulář ESIS, ale nijak mu nevysvětlí dopad pohyblivé sazby ani důsledky prodlení; doplňkové pojištění úvěru prezentuje jako povinné, aniž vysvětlí následky jeho samostatného ukončení. Z po roce zruší pojištění a teprve pak zjistí, že tím přišel o zvýhodnění sazby. Důkazy: formulář ESIS, smlouva o pojištění, záznam o průběhu schůzky, korespondence S–Z.
+
+**2. Právní otázka.** Splnil zprostředkovatel S povinnost „náležitého vysvětlení" dle § 94 odst. 2, a jaký je vztah jeho povinnosti k povinnosti poskytovatele (odst. 3 a 4)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 94 odst. 2 (náležité vysvětlení — předsmluvní informace, důsledky prodlení, dopady produktů, následky ukončení doplňkových služeb), odst. 3 a 4 (povinnost zprostředkovatele a pravidlo vzájemného splnění), odst. 5 (výjimka pro vázaný SÚ).
+- *Související ustanovení téhož zákona:* § 95–98 (obsah předsmluvních informací), § 99 (formuláře), § 85 (rada), § 75 a § 76 (odborná péče, nejlepší zájem).
+- *Související předpisy:* § 2950 OZ (odpovědnost za radu/informaci odborníka), § 1843 OZ a násl. (informační povinnosti u finančních služeb).
+- *Judikatura:* obecná praxe k odpovědnosti za nedostatečné předsmluvní vysvětlení u finančních produktů.
+
+**4. Subsumpce.** S předal informace (ESIS), ale neposkytl **náležité vysvětlení** — chybí vysvětlení dopadu pohyblivé sazby, důsledků prodlení a následků samostatného ukončení doplňkové služby. Tím není naplněn standard § 94 odst. 2. Splnil-li by S povinnost řádně, platilo by, že ji splnil i poskytovatel (odst. 4); zde však povinnost řádně splněna nebyla a odpovědnost poskytovatele tím není dotčena (odst. 3 věta druhá).
+
+**5. Řešení.** S porušil vysvětlovací povinnost; vznikla-li Z škoda (ztráta zvýhodnění po zrušení pojištění, o jehož následcích nebyl poučen), zakládá to odpovědnost dle § 2950 OZ. Odpovědnost nese i poskytovatel, neboť vzájemné splnění (odst. 4) předpokládá **řádné** splnění. Procesní krok: Z tvrdí a prokazuje absenci vysvětlení a vznik škody. Riziko: prokázat obsah ústního vysvětlení (chybí-li záznam, jde k tíži profesionála).
+
+**6. Varianty.** (a) Šlo by o zprostředkovatele **vázaného SÚ** (např. prodejce elektroniky) — dle odst. 5 by povinnost vysvětlení nestíhala jeho, ale plně poskytovatele. (b) S by vše náležitě vysvětlil a pořídil záznam — povinnost by splnil za sebe i za poskytovatele (odst. 4).
+
+##### G. Protiargumenty a rizika
+
+- *„Předal jsem zákonný formulář, víc se nevyžaduje."* Neutralizace: § 94 odst. 2 vyžaduje aktivní **vysvětlení**, ne pouhé předání papírů.
+- *„Povinnost splnil poskytovatel, já ne."* Neutralizace: pravidlo vzájemného splnění (odst. 4) se vztahuje na **řádné** splnění; nedostatečné vysvětlení nesplní povinnost ani jednoho subjektu a poskytovatel zůstává odpovědný (odst. 3).
+- Slabé místo: rozsah „náležitého" vysvětlení je neurčitý a závisí na složitosti produktu a profilu klienta; bez záznamu obtížná důkazní pozice.
+
+##### H. Praktický závěr
+
+§ 94 mění informování v aktivní vysvětlovací povinnost: spotřebitel musí produktu a jeho rizikům porozumět. Splnění zprostředkovatelem a poskytovatelem se vzájemně započítává jen tehdy, je-li řádné; u vázaného SÚ nese povinnost poskytovatel.
+
+**Checklist (advokát / poskytovatel / zprostředkovatel / spotřebitel):**
+- [ ] Byly předsmluvní informace nejen předány, ale i náležitě vysvětleny (odst. 2)?
+- [ ] Bylo vysvětleno riziko prodlení a dopady konkrétního produktu?
+- [ ] Byly vysvětleny následky samostatného ukončení doplňkových služeb?
+- [ ] Bylo vysvětlení pořízeno prokazatelně (záznam)?
+- [ ] Jde o vázaný SÚ — nese povinnost poskytovatel (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** formuláře předsmluvních informací (SECCI/ESIS), záznam o schůzce a vysvětlení, smlouvy o doplňkových službách, korespondence, podklady o profilu a porozumění klienta.
 
 ---
 
@@ -1213,6 +2376,42 @@ Pokud informace a vysvětlení poskytne **zprostředkovatel**, platí, že **pov
 
 ESIS musí být poskytnut **bezplatně**, na **trvalém nosiči dat**, v **úředním jazyce** členského státu, a s **dostatečným předstihem** před uzavřením smlouvy. Jakákoli odchylka od formuláře (přidávání, ubírání, modifikace) je v zásadě **zakázána** — to odráží **plnou harmonizaci** směrnice MCD v této oblasti.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Banka B poskytne spotřebiteli Z hypoteční úvěr na bydlení. Místo formuláře ESIS dle přílohy č. 4 mu předá vlastní „informační list" banky, do něhož zařadí marketingové sdělení a vynechá oddíl o předčasném splacení a o flexibilních vlastnostech. Z později chce úvěr předčasně splatit a je překvapen výší náhrady nákladů, o níž nebyl v ESIS informován. Důkazy: předaný informační list, příloha č. 4 (vzor ESIS), smlouva o úvěru, srovnání obsahu.
+
+**2. Právní otázka.** Splnila banka § 95 odst. 2, jestliže místo formuláře ESIS dle přílohy č. 4 poskytla vlastní upravený informační list s vynechanými a doplněnými údaji?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 95 odst. 1 (19 obligatorních informací u SÚ jiného než na bydlení), odst. 2 (u SÚ na bydlení informace dle přílohy č. 4 — formulář ESIS).
+- *Související ustanovení téhož zákona:* § 99 (formulářová povinnost — SECCI/ESIS), § 94 (vysvětlení), § 100 (doba poskytnutí), § 117 (předčasné splacení), § 110 (důsledky porušení formy/obsahu).
+- *Související předpisy:* směrnice MCD (2014/17/EU), příloha II (plně harmonizovaný ESIS); směrnice CCD pro SECCI.
+- *Judikatura:* praxe SDEU/ČNB k plné harmonizaci formuláře ESIS — zákaz odchylek od standardizovaného obsahu.
+
+**4. Subsumpce.** U SÚ na bydlení vyžaduje § 95 odst. 2 poskytnutí informací dle přílohy č. 4 ve formě formuláře ESIS. Banka formulář nepoužila, přidala marketing a vynechala povinné oddíly (předčasné splacení, flexibilní vlastnosti) — tím porušila plně harmonizovaný standard. Naplněn je znak porušení § 95 odst. 2 ve spojení s § 99.
+
+**5. Řešení.** Banka porušila § 95 odst. 2; jde o pochybení postižitelné ČNB a může vést k aplikaci důsledků dle § 110 (modifikace obsahu smlouvy ve prospěch spotřebitele). ESIS musí být poskytnut přesně dle přílohy č. 4, bezplatně, na trvalém nosiči a s dostatečným předstihem. Procesní krok: podnět ČNB; v případném sporu o náklady předčasného splacení jde neúplnost informace k tíži banky. Riziko: rozsah aplikace § 110 a důkaz, co konkrétně v ESIS chybělo.
+
+**6. Varianty.** (a) Šlo by o SÚ **jiný než na bydlení** — aplikoval by se katalog odst. 1 a formulář SECCI dle přílohy č. 2, ne ESIS. (b) Banka by předala přesný formulář ESIS dle přílohy č. 4 včas a bezplatně — povinnost § 95 odst. 2 by byla splněna.
+
+##### G. Protiargumenty a rizika
+
+- *„Náš informační list obsahoval více informací než ESIS."* Neutralizace: ESIS je plně harmonizovaný; přidávání i ubírání údajů je zakázáno, neboť narušuje srovnatelnost napříč EU.
+- *„Marketing v listu spotřebitele nepoškodil."* Neutralizace: směšování marketingu s povinnými informacemi je v rozporu s principem stejné výraznosti (§ 99 odst. 4) a přehlednosti formuláře.
+- Slabé místo: hranice mezi přípustným doprovodným dokumentem a nepřípustnou modifikací formuláře; nutno přesně doložit, které povinné údaje chyběly.
+
+##### H. Praktický závěr
+
+U SÚ na bydlení musí být předsmluvní informace poskytnuty přesně formulářem ESIS (příloha č. 4), u SÚ jiného než na bydlení katalogem odst. 1 (formulář SECCI). Formuláře jsou plně harmonizované — nelze je modifikovat, doplňovat marketingem ani krátit.
+
+**Checklist (advokát / poskytovatel / ČNB / spotřebitel):**
+- [ ] Jde o SÚ na bydlení (ESIS, příloha č. 4), nebo jiný (katalog odst. 1, SECCI)?
+- [ ] Byl použit přesný zákonný formulář bez modifikací, krácení a marketingu?
+- [ ] Obsahuje formulář všechny povinné oddíly (vč. předčasného splacení a flexibilních vlastností)?
+- [ ] Byl poskytnut bezplatně, na trvalém nosiči a s dostatečným předstihem?
+
+**Typicky rozhodné důkazy / podklady:** předaný formulář/informační list, vzor přílohy č. 2/4, úvěrová smlouva, doklad o době a formě poskytnutí, srovnání obsahu s harmonizovaným vzorem.
+
 ---
 
 #### § 96–98 — Modifikace pro specifické typy SÚ
@@ -1222,6 +2421,42 @@ ESIS musí být poskytnut **bezplatně**, na **trvalém nosiči dat**, v **úře
 **§ 97 — Dohoda o odvrácení řízení:** zvláštní informační režim pro dohody, kterými se odkládá platba či mění způsob splácení v důsledku prodlení (refinanční dohody) — informace dle § 96 plus informace o RPSN, počtu plateb a předčasném splacení.
 
 **§ 98 — Hlasová telefonní komunikace:** minimální informace, pokud jednání probíhá pouze telefonicky před doručením návrhu smluvních podmínek. U **SÚ na bydlení** musí být poskytnuty informace z **oddílů 3–6 přílohy č. 4** (ESIS) — tedy klíčové sekce o produktu a nákladech, i v telefonním kontaktu.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Banka B nabízí spotřebiteli Z kontokorent (možnost přečerpání) splatný na požádání. B mu poskytne plný formulář pro standardní úvěr, ale opomene specifika dle § 96 (redukovaný katalog pro přečerpání). Naopak v telefonním rozhovoru o hypotéce na bydlení B Z neposkytne informace z oddílů 3–6 ESIS (§ 98). Důkazy: typ produktu, předané formuláře, záznam telefonního hovoru, příloha č. 4.
+
+**2. Právní otázka.** Které předsmluvní informace musí poskytovatel poskytnout u kontokorentu (§ 96), u refinanční dohody (§ 97) a při hlasové telefonní komunikaci u SÚ na bydlení (§ 98)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 96 (redukovaný katalog u možnosti přečerpání splatné na požádání nebo do 3 měsíců), § 97 (dohoda o odvrácení řízení — informace dle § 96 plus RPSN, počet plateb, předčasné splacení), § 98 (hlasová telefonní komunikace — minimální informace; u SÚ na bydlení oddíly 3–6 přílohy č. 4).
+- *Související ustanovení téhož zákona:* § 95 (základní katalog/ESIS), § 99 (formuláře), § 100 (doba), § 5 (typy SÚ).
+- *Související předpisy:* směrnice CCD (zvláštní režim přečerpání), směrnice MCD; § 1843 OZ (telefonní sjednání finančních služeb).
+- *Judikatura:* praxe ČNB k rozsahu předsmluvních informací u zjednodušených produktů.
+
+**4. Subsumpce.** U kontokorentu zákon umožňuje **redukovaný** rozsah informací (§ 96) — poskytnutí plného formuláře není vadou, ale opomenutí specifik daného režimu ano. U telefonního jednání o SÚ na bydlení § 98 vyžaduje minimálně informace z **oddílů 3–6 ESIS**; jejich neposkytnutí naplňuje znak porušení. Refinanční dohoda (§ 97) vyžaduje § 96 plus RPSN, počet plateb a předčasné splacení.
+
+**5. Řešení.** B musí u každého typu produktu poskytnout zákonem předepsaný rozsah: redukovaný u přečerpání, rozšířený u refinanční dohody, klíčové oddíly ESIS i v telefonu u SÚ na bydlení. Neposkytnutí oddílů 3–6 ESIS po telefonu je porušením § 98, postižitelným ČNB. Procesní krok: doložit typ produktu a obsah poskytnutých informací (vč. záznamu hovoru). Riziko: správné zařazení produktu pod § 96/97/98 (kontokorent vs. standardní úvěr vs. refinancování).
+
+**6. Varianty.** (a) Telefonní hovor by se týkal SÚ jiného než na bydlení — postačily by minimální informace dle § 98 bez oddílů ESIS. (b) Po telefonu by následovalo doručení návrhu podmínek s plnými předsmluvními informacemi v dostatečném předstihu — zjednodušený telefonní režim by byl doplněn standardním (§ 100).
+
+##### G. Protiargumenty a rizika
+
+- *„U kontokorentu jsme dali plný formulář, tedy více než zákon žádá."* Neutralizace: rozšířený rozsah není sám o sobě vadou, ale nesmí vynechat specifika daného režimu (§ 96/97); rozhoduje úplnost vyžadovaných údajů.
+- *„Po telefonu nelze poskytnout celý ESIS."* Neutralizace: § 98 nevyžaduje celý ESIS, ale konkrétně oddíly 3–6 u SÚ na bydlení; ty poskytnout lze a je nutné.
+- Slabé místo: hranice mezi „možností přečerpání" (§ 96) a standardním úvěrem, resp. mezi refinanční dohodou (§ 97) a běžnou změnou závazku, může být sporná; rozsah informací na ní závisí.
+
+##### H. Praktický závěr
+
+§ 96–98 modifikují rozsah předsmluvních informací podle typu a kanálu: redukovaně u přečerpání, šíře u refinanční dohody, a u hlasové telefonní komunikace minimálně, přičemž u SÚ na bydlení vždy oddíly 3–6 ESIS.
+
+**Checklist (advokát / poskytovatel / ČNB):**
+- [ ] Jde o možnost přečerpání splatnou na požádání nebo do 3 měsíců (redukovaný katalog § 96)?
+- [ ] Jde o dohodu o odvrácení řízení (§ 97 — § 96 plus RPSN, počet plateb, předčasné splacení)?
+- [ ] Probíhá jednání pouze hlasovou telefonní komunikací před doručením podmínek (§ 98)?
+- [ ] U SÚ na bydlení po telefonu poskytnuty informace z oddílů 3–6 přílohy č. 4 (ESIS)?
+
+**Typicky rozhodné důkazy / podklady:** zařazení typu produktu, poskytnuté formuláře/informace, záznam telefonního hovoru, příloha č. 4, následně doručený návrh smluvních podmínek.
 
 ---
 
@@ -1254,6 +2489,42 @@ ESIS musí být poskytnut **bezplatně**, na **trvalém nosiči dat**, v **úře
 #### Substituce dle občanského zákoníku (odst. 6)
 
 Poskytnutím informací způsobem dle ZSÚ splní poskytovatel současně informační povinnosti dle **občanského zákoníku** týkající se smluv uzavíraných se spotřebitelem (typicky § 1811 a násl. OZ — předsmluvní informační povinnosti, § 1820 OZ — distanční smlouvy). Tím se brání duplikaci povinností.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Poskytovatel P poskytne spotřebiteli Z předsmluvní informace nikoli na formuláři SECCI dle přílohy č. 2, ale formou nestrukturovaného textu v e-mailu, kde příznivé údaje (nízká sazba) zvýrazní tučně a nepříznivé (poplatky, RPSN) ponechá drobně mezi odstavci. Z si neuvědomí skutečnou cenu úvěru. Důkazy: e-mail s informacemi, příloha č. 2 (vzor SECCI), srovnání výraznosti údajů.
+
+**2. Právní otázka.** Splnil P § 99, jestliže předsmluvní informace neposkytl na zákonném formuláři a nedodržel princip stejné výraznosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 99 odst. 1 (informace dle § 95 odst. 1 prostřednictvím formuláře přílohy č. 2 — SECCI), odst. 2 (informace dle § 95 odst. 2 prostřednictvím ESIS — příloha č. 4), princip stejné výraznosti (odst. 4), substituce povinností dle OZ (odst. 6).
+- *Související ustanovení téhož zákona:* § 95 (obsah informací), § 96–98 (modifikace), § 100 (doba), § 90 (forma a bezplatnost).
+- *Související předpisy:* § 1811, § 1820 OZ (předsmluvní informace, distanční smlouvy); směrnice CCD (SECCI) a MCD (ESIS).
+- *Judikatura:* praxe SDEU/ČNB k povinnému použití standardizovaných formulářů a zákazu vizuální manipulace.
+
+**4. Subsumpce.** § 99 odst. 1 vyžaduje poskytnutí informací dle § 95 odst. 1 **na formuláři SECCI** (příloha č. 2). Poskytnutí formou volného e-mailu formulářovou povinnost nesplňuje. Zvýraznění příznivých a potlačení nepříznivých údajů porušuje princip stejné výraznosti (odst. 4). Znaky porušení § 99 jsou naplněny.
+
+**5. Řešení.** P porušil § 99; postižitelné ČNB, s možnou aplikací důsledků dle § 110. Informace měly být na formuláři SECCI, všechny stejně výrazné, případné nadbytečné údaje v samostatném dokumentu. Procesní krok: podnět ČNB; v případném sporu jde zastření nákladů k tíži P. Bonus pro P: řádné poskytnutí by mu dle odst. 6 zároveň splnilo informační povinnosti dle § 1811 a § 1820 OZ. Riziko: posouzení, zda nedodržení formuláře vede k aplikaci § 110.
+
+**6. Varianty.** (a) Šlo by o SÚ na bydlení — povinným formulářem by byl ESIS (příloha č. 4) dle odst. 2. (b) P by použil formulář SECCI, všechny údaje stejně výrazné, a doplňkové informace dal samostatně — postup by byl v souladu a zároveň by splnil i povinnosti dle OZ (odst. 6).
+
+##### G. Protiargumenty a rizika
+
+- *„Informace e-mail obsahoval, jen v jiné podobě."* Neutralizace: § 99 stanoví **formulářovou** povinnost; obsah bez předepsaného formuláře povinnost nesplní.
+- *„Zvýraznění sazby je běžná marketingová praxe."* Neutralizace: odst. 4 vyžaduje stejnou výraznost všech informací; selektivní zvýraznění je zakázaná vizuální manipulace.
+- Slabé místo: vztah § 99 a § 110 (jaké konkrétní důsledky má vada formy/obsahu) je nutno posoudit individuálně; ne každá formální vada vede ke stejné sankci.
+
+##### H. Praktický závěr
+
+§ 99 zavádí povinnost poskytovat předsmluvní informace na standardizovaných formulářích (SECCI — příloha č. 2; ESIS — příloha č. 4), se stejnou výrazností všech údajů. Řádné poskytnutí navíc splní i informační povinnosti dle občanského zákoníku.
+
+**Checklist (advokát / poskytovatel / ČNB):**
+- [ ] Byl použit správný formulář podle typu SÚ (SECCI / ESIS)?
+- [ ] Jsou všechny informace stejně výrazné (zákaz zvýraznění příznivých na úkor nepříznivých)?
+- [ ] Jsou nadbytečné údaje odděleny do samostatného dokumentu?
+- [ ] Byly informace poskytnuty bezplatně a na trvalém nosiči (návaznost na § 90)?
+
+**Typicky rozhodné důkazy / podklady:** poskytnutý formulář, vzor přílohy č. 2/4, podoba a výraznost údajů, e-mailová komunikace, doplňkové dokumenty.
 
 ---
 
@@ -1288,6 +2559,42 @@ Pojem „**dostatečný předstih**" je neurčitý — měří se schopností sp
 
 Pokud spotřebitel sjednává úvěr prostřednictvím **prostředků komunikace na dálku**, které neumožňují předsmluvní poskytnutí informací (typicky telefon, mobilní aplikace), informace lze poskytnout **při uzavření smlouvy** nebo **bez zbytečného odkladu po uzavření**. Toto pravidlo umožňuje **online úvěry** a podobné moderní distribuční kanály bez znemožnění regulace.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Spotřebitel Z přijde do pobočky banky B a téhož dne podepíše hypoteční úvěr na bydlení; předsmluvní informace (ESIS) mu B předá až spolu s podpisem smlouvy, bez možnosti je předem prostudovat. Z později namítá, že neměl „dostatečný předstih". V jiném případě B poskytne online úvěr přes aplikaci, která předsmluvní poskytnutí neumožňuje, a informace dodá bez zbytečného odkladu po uzavření. Důkazy: časové razítko poskytnutí ESIS, datum podpisu smlouvy, povaha distribučního kanálu.
+
+**2. Právní otázka.** Splnil poskytovatel povinnost poskytnout předsmluvní informace s „dostatečným předstihem" dle § 100, a jak se posuzuje distanční sjednání?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 100 odst. 1 (bez zbytečného odkladu po posouzení úvěruschopnosti a s dostatečným předstihem před uzavřením), odst. 2 (opětovné poskytnutí při novém/odlišném návrhu), odst. 3 (distanční sjednání), odst. 4 (RPSN u dohod dle § 5 odst. 4 mimo obchodní prostor).
+- *Související ustanovení téhož zákona:* § 94–99 (obsah a forma informací), § 86 (úvěruschopnost), § 111 (doba na rozmyšlenou u SÚ na bydlení), § 95 (ESIS).
+- *Související předpisy:* § 1820 OZ (distanční smlouvy); směrnice CCD/MCD.
+- *Judikatura:* praxe SDEU/ČNB k pojmu „dostatečný předstih" — měřeno schopností spotřebitele informace prostudovat a zvážit.
+
+**4. Subsumpce.** Předání ESIS současně s podpisem nedává spotřebiteli reálnou možnost informace prostudovat — znak „dostatečného předstihu" (odst. 1 písm. b)) zpravidla není u komplexní hypotéky naplněn. U online úvěru, kde kanál předsmluvní poskytnutí neumožňuje, je naopak poskytnutí při uzavření / bez zbytečného odkladu po uzavření v souladu s odst. 3.
+
+**5. Řešení.** U hypotéky na bydlení musí být ESIS poskytnut s odstupem umožňujícím prostudování (dny až týdny, s ohledem na 14denní dobu na rozmyšlenou dle § 111); předání při podpisu je porušením § 100. U distančního kanálu je postup dle odst. 3 v pořádku. Procesní krok: doložit časový odstup mezi poskytnutím informací a uzavřením. Riziko: neurčitost pojmu „dostatečný předstih" — posuzuje se individuálně podle složitosti produktu.
+
+**6. Varianty.** (a) B by předal ESIS několik dní před podpisem a umožnil dotazy — předstih by byl dostatečný. (b) Návrh smlouvy by se po poskytnutí informací podstatně změnil — dle odst. 2 by povinnost poskytnout informace vznikla znovu.
+
+##### G. Protiargumenty a rizika
+
+- *„Spotřebitel chtěl podepsat hned, předstih si nepřál."* Neutralizace: dostatečný předstih je objektivní ochranný požadavek; vzdání se nelze u SÚ na bydlení dovozovat z pouhého spěchu klienta.
+- *„Online kanál nám neumožnil informovat předem."* Neutralizace: to je legitimní jen v rozsahu odst. 3; informace musí být dodány nejpozději při uzavření, resp. bez zbytečného odkladu po něm.
+- Slabé místo: „dostatečný předstih" je vágní a kontextový; chybí pevná lhůta, takže posouzení závisí na složitosti produktu a profilu klienta.
+
+##### H. Praktický závěr
+
+§ 100 určuje načasování předsmluvních informací: bez zbytečného odkladu po posouzení úvěruschopnosti a s dostatečným předstihem před uzavřením, aby je spotřebitel mohl prostudovat. Distanční kanály mají zvláštní, ale úzký režim (odst. 3).
+
+**Checklist (advokát / poskytovatel / ČNB / spotřebitel):**
+- [ ] Byly informace poskytnuty bez zbytečného odkladu po posouzení úvěruschopnosti?
+- [ ] Měl spotřebitel dostatečný předstih informace prostudovat před uzavřením/závazným návrhem?
+- [ ] Při změně/novém návrhu byly informace poskytnuty znovu (odst. 2)?
+- [ ] U distančního sjednání byl dodržen režim odst. 3 (nejpozději při uzavření / bez zbytečného odkladu po něm)?
+
+**Typicky rozhodné důkazy / podklady:** časová razítka poskytnutí informací a uzavření smlouvy, povaha distribučního kanálu, verze návrhů smluvních podmínek, komunikace o termínech.
+
 ---
 
 #### § 101–103 — Informace během trvání závazku
@@ -1297,6 +2604,42 @@ Pokud spotřebitel sjednává úvěr prostřednictvím **prostředků komunikace
 **§ 102 — Informace o změně zápůjční úrokové sazby:** Před každou změnou sazby je poskytovatel povinen informovat spotřebitele s **přiměřeným předstihem** — jinak změna **vůči spotřebiteli není účinná**. U SÚ na bydlení s fixací nejméně 1 rok musí být informace o nové sazbě poskytnuta **nejpozději 3 měsíce před koncem fixace** (§ 102 odst. 3) — to dává spotřebiteli dostatek času zvážit refinancování.
 
 **§ 103 — Informace o SÚ v cizí měně:** Při dosažení 20% odchylky kurzu od kurzu ke dni uzavření smlouvy musí poskytovatel informovat spotřebitele o zbývající dlužné částce, splátkách, právu na změnu měny a opatřeních k omezení rizika. Toto pravidlo je reakcí na **frankovou krizi** v některých zemích střední Evropy (Polsko, Maďarsko, Chorvatsko), kde mnoho spotřebitelů utrpělo škody po prudkém posílení švýcarského franku v roce 2015.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Banka B poskytla spotřebiteli Z hypoteční úvěr na bydlení v EUR s fixací sazby na 5 let. Tři měsíce před koncem fixace B Z neinformuje o nové sazbě (§ 102 odst. 3), takže Z nemůže včas zvážit refinancování. Současně kurz EUR/CZK posílí o 22 % oproti kurzu ke dni uzavření, ale B Z neinformuje dle § 103. Z navíc opakovaně žádá tabulku umoření (§ 101), kterou B neposkytne. Důkazy: smlouva (měna, fixace), datum a obsah oznámení o nové sazbě, kurzový vývoj, žádosti Z o tabulku umoření.
+
+**2. Právní otázka.** Splnila banka informační povinnosti během trvání závazku dle § 101–103 a jaké jsou důsledky jejich porušení (zejména účinnost změny sazby)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 101 (výpisy a tabulka umoření dle přílohy č. 5 na žádost), § 102 (informace o změně zápůjční sazby s přiměřeným předstihem; jinak změna vůči spotřebiteli neúčinná; u SÚ na bydlení s fixací ≥ 1 rok nejpozději 3 měsíce před koncem fixace), § 103 (informace o SÚ v cizí měně při 20% odchylce kurzu).
+- *Související ustanovení téhož zákona:* § 116 (omezení kurzového rizika), § 106 odst. 2 (cizoměnové specifikum smlouvy), § 117 (předčasné splacení/refinancování), § 124 (změna splatnosti).
+- *Související předpisy:* směrnice MCD (čl. 23 — úvěry v cizí měně); § 1811 OZ.
+- *Judikatura:* zkušenost z „frankové krize" ve střední Evropě (Polsko, Maďarsko, Chorvatsko) jako kontext ochrany před cizoměnovým rizikem.
+
+**4. Subsumpce.** B nesplnila § 102 odst. 3 (neoznámení nové sazby 3 měsíce před koncem fixace) — následkem je, že změna sazby je **vůči Z neúčinná**. Překročení 20% kurzové odchylky bez informace porušuje § 103. Neposkytnutí tabulky umoření na žádost porušuje § 101. Znaky porušení všech tří ustanovení jsou naplněny.
+
+**5. Řešení.** Pro Z je nejvýznamnější neúčinnost změny sazby dle § 102 — pokračuje původní (nižší) sazba, dokud B řádně neoznámí. B musí dodatečně poskytnout informaci dle § 103 a tabulku umoření dle § 101. Vše je postižitelné ČNB. Procesní krok: Z uplatní neúčinnost zvýšené sazby a požaduje vrácení přeplatku; doloží absenci včasného oznámení. Riziko: výklad „přiměřeného předstihu" u změn mimo režim povinné 3měsíční lhůty.
+
+**6. Varianty.** (a) B by oznámila novou sazbu řádně 3 měsíce předem — změna by byla účinná a Z by měl čas na refinancování. (b) Kurzová odchylka by nedosáhla 20 % — informační povinnost dle § 103 by se neaktivovala.
+
+##### G. Protiargumenty a rizika
+
+- *„Změnu sazby jsme oznámili, byť opožděně."* Neutralizace: u SÚ na bydlení s fixací ≥ 1 rok zákon žádá oznámení nejpozději 3 měsíce předem; opožděné oznámení činí změnu vůči spotřebiteli neúčinnou (§ 102).
+- *„Tabulku umoření jsme poskytovat nemuseli."* Neutralizace: § 101 zakládá právo spotřebitele na tabulku umoření dle přílohy č. 5 na jeho žádost.
+- Slabé místo: u změn mimo povinnou 3měsíční lhůtu je „přiměřený předstih" neurčitý; rozsah dopadu neúčinnosti změny sazby na celé období je nutno doložit.
+
+##### H. Praktický závěr
+
+§ 101–103 zajišťují informovanost po dobu trvání úvěru: výpisy a tabulku umoření na žádost (§ 101), včasné oznámení změny sazby pod sankcí neúčinnosti (§ 102) a varování při výrazném pohybu kurzu u cizoměnových úvěrů (§ 103).
+
+**Checklist (advokát / poskytovatel / ČNB / spotřebitel):**
+- [ ] Jsou poskytovány pravidelné výpisy a na žádost tabulka umoření dle přílohy č. 5 (§ 101)?
+- [ ] Byla změna zápůjční sazby oznámena s přiměřeným předstihem (u SÚ na bydlení s fixací ≥ 1 rok nejpozději 3 měsíce předem)?
+- [ ] Nebyla opožděně oznámená změna sazby uplatněna, ač je vůči spotřebiteli neúčinná?
+- [ ] Byl spotřebitel u cizoměnového úvěru informován při dosažení 20% kurzové odchylky (§ 103)?
+
+**Typicky rozhodné důkazy / podklady:** úvěrová smlouva (měna, fixace), oznámení o nové sazbě s datem, kurzové podklady ČNB, žádosti o tabulku umoření a odpovědi banky, výpisy.
 
 ---
 
@@ -1331,6 +2674,42 @@ Pokud však poskytovatel písemnou formu nedodrží (např. uzavře smlouvu výh
 
 Mechanismus § 110 je tak ochranou spotřebitele i v případě porušení formy — místo neplatnosti se aplikují **upravená pravidla obsahu**.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Poskytovatel P uzavře se spotřebitelem Z spotřebitelský úvěr výhradně ústně (telefonicky), bez písemné smlouvy. Z čerpá 100 000 Kč. P později požaduje zaplacení sjednaných úroků 25 % a poplatků, ač jejich výši nemá nikde písemně. Z namítá neplatnost smlouvy pro nedostatek formy. Důkazy: záznam telefonního hovoru, doklad o čerpání jistiny, případná e-mailová potvrzení podmínek.
+
+**2. Právní otázka.** Je smlouva o SÚ uzavřená bez písemné formy neplatná, a jaké jsou důsledky nedodržení formy a obsahu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 104 (písemná forma a obsah dle § 106–108 a § 109 odst. 1; nesplnění formy ani obsahu nezpůsobuje neuzavření ani neplatnost smlouvy).
+- *Související ustanovení téhož zákona:* § 110 (důsledky porušení formy/obsahu — přepočet sazby na repo sazbu ČNB, ztráta práv z chybějících informací), § 105 (poskytnutí smlouvy), § 106 (povinný obsah).
+- *Související předpisy:* § 582 OZ (následky nedostatku formy — obecné pravidlo, od nějž se § 104 odchyluje), § 586 OZ (relativní neplatnost), § 1820 OZ.
+- *Judikatura:* praxe k vztahu speciální úpravy ZSÚ a obecné úpravy formy v OZ.
+
+**4. Subsumpce.** § 104 výslovně stanoví, že nedodržení písemné formy **nemá za následek neplatnost** smlouvy — odchyluje se tak od § 582 OZ. Smlouva tedy **platí** i bez písemné formy. Aktivují se však důsledky dle § 110: sazba se přepočte na repo sazbu ČNB a P ztrácí práva vyplývající z chybějících informací (zde sjednané úroky 25 % a poplatky neobstojí).
+
+**5. Řešení.** Smlouva je platná, Z je povinen plnit, ale za modifikovaných podmínek dle § 110 — namísto 25 % se uplatní repo sazba ČNB a poplatky bez písemného podkladu odpadají. Pro P je porušení formy navíc dohledovým deliktem (ČNB). Procesní krok: Z se nedovolává neplatnosti (nebyla by úspěšná), nýbrž modifikace obsahu dle § 110. Riziko: prokázat skutečně sjednané podmínky z ústního jednání.
+
+**6. Varianty.** (a) P by uzavřel smlouvu písemně se vším povinným obsahem — uplatnily by se sjednané podmínky. (b) Písemná forma by byla dodržena, ale chyběl by některý povinný údaj dle § 106 — aplikoval by se § 110 jen v rozsahu chybějícího údaje.
+
+##### G. Protiargumenty a rizika
+
+- *„Bez písemné formy je smlouva neplatná (§ 582 OZ)."* Neutralizace: § 104 je speciální úpravou, která neplatnost výslovně vylučuje; obecné pravidlo OZ se neuplatní.
+- *„Sjednali jsme 25 %, na to máme nárok."* Neutralizace: bez písemného zachycení obsahu se dle § 110 sazba přepočte na repo sazbu ČNB a neuvedená ujednání nepůsobí.
+- Slabé místo: ústní sjednání ztěžuje důkaz o obsahu; rozsah aplikace § 110 závisí na tom, které údaje chyběly.
+
+##### H. Praktický závěr
+
+§ 104 vyžaduje písemnou formu a stanovený obsah smlouvy o SÚ, avšak jejich nedodržení nezpůsobuje neplatnost — smlouva platí a uplatní se ochranný mechanismus § 110 (přepočet sazby na repo sazbu ČNB, ztráta práv z chybějících informací) plus dohledová sankce ČNB.
+
+**Checklist (advokát / poskytovatel / ČNB / spotřebitel):**
+- [ ] Byla smlouva uzavřena písemně a obsahuje informace dle § 106–108 a § 109 odst. 1?
+- [ ] Jsou údaje uvedeny jasným, výstižným a zřetelným způsobem?
+- [ ] Při nedostatku formy/obsahu — neuplatňuje se neplatnost, nýbrž důsledky dle § 110?
+- [ ] Byla zvážena dohledová odpovědnost poskytovatele vůči ČNB?
+
+**Typicky rozhodné důkazy / podklady:** vyhotovení smlouvy, doklad o čerpání jistiny, záznam jednání o podmínkách, repo sazba ČNB k rozhodnému datu, přehled sjednaných úroků a poplatků.
+
 ---
 
 #### § 105 — Poskytnutí smlouvy spotřebiteli
@@ -1350,6 +2729,42 @@ Mechanismus § 110 je tak ochranou spotřebitele i v případě porušení formy
 1. **Před uzavřením smlouvy (odst. 2)** — předložení **návrhu textu smlouvy** s dostatečným předstihem. Cílem je dát spotřebiteli možnost smlouvu studovat ještě před jejím podpisem.
 
 2. **Po uzavření smlouvy (odst. 1)** — předání jednoho vyhotovení smlouvy **neprodleně** po uzavření. Spotřebitel tak vždy disponuje smlouvou pro budoucí potřeby (uplatnění práv, kontrola plnění, případný soudní spor).
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Banka B uzavře se spotřebitelem Z hypoteční úvěr. Návrh textu smlouvy mu předloží až v den podpisu (bez dostatečného předstihu) a vyhotovení podepsané smlouvy mu předá až po dvou měsících na opakovanou urgenci. Z mezitím nemůže uplatnit některá práva (např. zkontrolovat ujednání o předčasném splacení). Důkazy: datum předložení návrhu textu, datum podpisu, datum předání vyhotovení smlouvy, urgence Z.
+
+**2. Právní otázka.** Splnila banka § 105 — předložila návrh textu smlouvy s dostatečným předstihem (odst. 2) a předala vyhotovení neprodleně po uzavření (odst. 1)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 105 odst. 1 (předání jednoho vyhotovení smlouvy v listinné podobě nebo na trvalém nosiči neprodleně po uzavření), odst. 2 (předložení návrhu textu smlouvy v dostatečném předstihu před uzavřením).
+- *Související ustanovení téhož zákona:* § 104 (forma), § 106 (obsah), § 100 (doba předsmluvních informací), § 111 (doba na rozmyšlenou), § 90 (forma a bezplatnost).
+- *Související předpisy:* § 1820 OZ (distanční smlouvy); směrnice CCD/MCD.
+- *Judikatura:* praxe ČNB k pojmu „dostatečný předstih" a „neprodleně" u předání smluvních dokumentů.
+
+**4. Subsumpce.** Předložení návrhu textu až v den podpisu nenaplňuje znak „dostatečného předstihu" (odst. 2) — u hypotéky se očekává odstup umožňující prostudování. Předání vyhotovení po dvou měsících nesplňuje znak „neprodleně po uzavření" (odst. 1). Oba znaky § 105 jsou porušeny.
+
+**5. Řešení.** B porušila § 105 v obou odstavcích; postižitelné ČNB. Z měl obdržet návrh textu s předstihem a vyhotovení neprodleně. Procesní krok: doložit data předložení a předání; Z může požadovat vyhotovení a podat podnět ČNB. Samostatné porušení § 105 zpravidla nezakládá neplatnost (srov. § 104), ale je dohledovým deliktem a může ovlivnit běh lhůt navázaných na obdržení dokumentů. Riziko: neurčitost pojmů „dostatečný předstih" a „neprodleně".
+
+**6. Varianty.** (a) B by předala návrh textu několik dní předem a vyhotovení v den podpisu — § 105 by byl splněn. (b) Smlouva by se sjednávala distančně — předání vyhotovení na trvalém nosiči (PDF) neprodleně po uzavření by povinnost splnilo.
+
+##### G. Protiargumenty a rizika
+
+- *„Smlouvu jsme nakonec předali, povinnost je splněna."* Neutralizace: odst. 1 vyžaduje předání **neprodleně** po uzavření; dvouměsíční prodlení tomu nevyhovuje.
+- *„Návrh textu klient viděl při podpisu."* Neutralizace: odst. 2 vyžaduje předstih umožňující prostudování před uzavřením, ne souběh s podpisem.
+- Slabé místo: § 105 sám neukládá výslovnou hmotněprávní sankci; jeho prosazení se opírá o dohled ČNB a o návaznost na lhůty (odstoupení, doba na rozmyšlenou).
+
+##### H. Praktický závěr
+
+§ 105 zakotvuje dvě fáze: předložení návrhu textu smlouvy s dostatečným předstihem před uzavřením a předání jednoho vyhotovení neprodleně po uzavření. Spotřebitel tak může smlouvu prostudovat předem i ji mít trvale k dispozici.
+
+**Checklist (advokát / poskytovatel / ČNB / spotřebitel):**
+- [ ] Byl spotřebiteli předložen návrh textu smlouvy v dostatečném předstihu před uzavřením (odst. 2)?
+- [ ] Bylo předáno jedno vyhotovení smlouvy neprodleně po uzavření (odst. 1)?
+- [ ] Bylo předání v listinné podobě nebo na jiném trvalém nosiči dat?
+- [ ] Umožnil předstih spotřebiteli reálně smlouvu prostudovat?
+
+**Typicky rozhodné důkazy / podklady:** datovaný návrh textu smlouvy, podepsané vyhotovení s datem, doklad o předání (předávací protokol, e-mail), urgence spotřebitele.
 
 ---
 
@@ -1378,6 +2793,43 @@ Mechanismus § 110 je tak ochranou spotřebitele i v případě porušení formy
 
 Smlouva o SÚ v cizí měně musí obsahovat **informaci o opatření poskytovatele** dle § 116 odst. 1 — typicky možnost změny měny nebo jiný mechanismus omezení kurzového rizika. Pokud opatření **neomezuje riziko na změnu kurzu nižší než 20 %**, smlouva musí obsahovat **ilustrativní příklad**, jaký vliv bude mít 20% změna na závazek spotřebitele. Toto pravidlo navazuje na § 103 — chrání spotřebitele před nepoučenou expozicí cizoměnovému riziku.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Poskytovatel P uzavře se spotřebitelem Z smlouvu o SÚ, v níž neuvede RPSN, celkovou částku splatnou spotřebitelem ani informaci o právu na předčasné splacení (§ 117) a odstoupení (§ 118). U cizoměnové varianty navíc chybí ilustrativní příklad dopadu 20% změny kurzu. Z později chce úvěr předčasně splatit a odstoupit, ale ze smlouvy se o těchto právech nedozvěděl. Důkazy: smlouva o úvěru, výčet uvedených a chybějících položek dle § 106, kalkulace RPSN.
+
+**2. Právní otázka.** Splnila smlouva povinný obsah dle § 106 (zejména RPSN, celková částka, právo na předčasné splacení a odstoupení), a jaké jsou důsledky chybějících údajů?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 106 odst. 1 (21 obligatorních položek smlouvy — identifikace, parametry, cena vč. RPSN, sankce, práva spotřebitele, procesní informace), odst. 2 (cizoměnové specifikum — opatření dle § 116, ilustrativní příklad 20% změny kurzu).
+- *Související ustanovení téhož zákona:* § 104 (forma a obsah), § 110 (důsledky porušení obsahu — repo sazba, ztráta práv z chybějících informací), § 117 (předčasné splacení), § 118 (odstoupení), § 116 (cizoměnové riziko), § 103 (informace v cizí měně).
+- *Související předpisy:* příloha č. 1 (výpočet RPSN); směrnice CCD/MCD.
+- *Judikatura:* praxe ČNB a soudů k absenci povinných smluvních údajů a aplikaci sankce přepočtu na repo sazbu.
+
+**4. Subsumpce.** Chybí povinné položky § 106 (RPSN — písm. g), celková částka, práva dle písm. n)–q) vč. odstoupení a předčasného splacení). U cizoměnové varianty chybí ilustrativní příklad dle odst. 2. Znaky neúplnosti smlouvy jsou naplněny; aktivuje se § 110.
+
+**5. Řešení.** Absence RPSN a souvisejících údajů vede dle § 110 k přepočtu úrokové sazby na repo sazbu ČNB a ke ztrátě práv poskytovatele vázaných na chybějící informace; práva spotřebitele (odstoupení, předčasné splacení) zůstávají zachována i bez jejich uvedení ve smlouvě (zákonný základ § 117, 118). U cizoměnového úvěru chybějící ilustrativní příklad je porušením odst. 2. Procesní krok: doložit, které položky chyběly, a uplatnit modifikaci dle § 110. Riziko: rozsah aplikace § 110 podle závažnosti chybějícího údaje.
+
+**6. Varianty.** (a) Smlouva by obsahovala všech 21 položek vč. RPSN — uplatnily by se sjednané podmínky bez sankce § 110. (b) Šlo by o redukovaný produkt dle § 107–109 (kontokorent, refinancování) — obsah by se posuzoval podle těchto zvláštních ustanovení, ne podle plného § 106.
+
+##### G. Protiargumenty a rizika
+
+- *„Práva na odstoupení a předčasné splacení plynou ze zákona, nemusí být ve smlouvě."* Neutralizace: práva sice plynou ze zákona, ale § 106 ukládá je do smlouvy uvést; jejich neuvedení aktivuje sankci § 110, byť samotná práva spotřebitele nezanikají.
+- *„RPSN jsme uvedli v předsmluvních informacích, ve smlouvě nemusí být."* Neutralizace: § 106 vyžaduje RPSN přímo ve smlouvě; předsmluvní uvedení nenahrazuje smluvní obsah.
+- Slabé místo: ne každý chybějící údaj má stejnou váhu; rozsah a intenzita důsledků dle § 110 se posuzují individuálně a vyžadují přesné určení chybějících položek.
+
+##### H. Praktický závěr
+
+§ 106 stanoví rozsáhlý povinný obsah smlouvy o SÚ (21 položek), jehož jádrem jsou cenové údaje (RPSN, celková částka) a práva spotřebitele (odstoupení, předčasné splacení). Neúplnost se sankcionuje mechanismem § 110, u cizoměnových úvěrů je nutný i ilustrativní příklad dopadu 20% změny kurzu.
+
+**Checklist (advokát / poskytovatel / ČNB / spotřebitel):**
+- [ ] Obsahuje smlouva všechny obligatorní položky § 106 odst. 1 písm. a)–u)?
+- [ ] Je uvedena RPSN, celková výše úvěru i celková částka splatná spotřebitelem?
+- [ ] Jsou uvedena práva na odstoupení (§ 118) a předčasné splacení (§ 117) a sankce při prodlení?
+- [ ] U cizoměnového úvěru — opatření dle § 116 a ilustrativní příklad 20% změny kurzu (odst. 2)?
+- [ ] Při neúplnosti — byl zvážen důsledek dle § 110 (přepočet na repo sazbu, ztráta práv z chybějících informací)?
+
+**Typicky rozhodné důkazy / podklady:** úvěrová smlouva, kalkulace RPSN dle přílohy č. 1, repo sazba ČNB k rozhodnému datu, výčet chybějících povinných údajů, podklady ke kurzovému riziku.
+
 ---
 
 #### § 107–109 — Modifikace pro specifické typy
@@ -1387,6 +2839,42 @@ Smlouva o SÚ v cizí měně musí obsahovat **informaci o opatření poskytovat
 **§ 108 — SÚ ve formě možnosti překročení:** je-li ve smlouvě o platebních službách umožněno **překročení účtu** (nepovolený debet), musí smlouva obsahovat informace o úrokové sazbě a sankcích. Při výrazném překročení trvajícím déle než 1 měsíc je poskytovatel povinen bezodkladně informovat spotřebitele o výši překročení, sazbě a možných sankcích.
 
 **§ 109 — Dohoda o odvrácení řízení:** specifická úprava pro refinanční dohody.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Banka poskytla spotřebiteli kontokorent na běžném účtu s limitem 30 000 Kč, splatný na požádání. Smlouva neobsahuje řadu položek, které vyžaduje § 106 pro standardní úvěr (např. plán splátek, podrobné RPSN k pevně danému harmonogramu). Spotřebitel se domáhá redukce úroku dle § 110 s tvrzením, že smlouva nemá povinný obsah. Důkazy: smlouva o platebních službách, doklad o sjednaném limitu, výpisy z účtu.
+
+**2. Právní otázka.** Lze na SÚ ve formě možnosti přečerpání (kontokorent splatný na požádání) klást plný obsahový standard § 106, nebo se uplatní redukovaný režim § 107?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 107 — redukovaný obsah smlouvy pro kontokorent splatný na požádání nebo do 3 měsíců.
+- *Související ustanovení téhož zákona:* § 106 (plný povinný obsah, od kterého se § 107 odchyluje), § 108 (možnost překročení účtu), § 110 (sankce za chybějící obsah), § 5 odst. 2 (definice SÚ ve formě možnosti přečerpání).
+- *Související předpisy:* zákon č. 370/2017 Sb., o platebním styku (rámec smlouvy o platebních službách, na niž § 108 navazuje); CCD 2008/48/ES (čl. 6 — informace u kontokorentů).
+- *Judikatura:* obecný výkladový princip, že u zjednodušených úvěrových produktů se aplikují modifikované informační požadavky odpovídající jejich povaze; soudy posuzují obsah smlouvy podle typu produktu, nikoli mechanicky podle plného katalogu § 106.
+
+**4. Subsumpce.** Kontokorent splatný na požádání naplňuje znak SÚ ve formě možnosti přečerpání dle § 107. Tím se vylučuje aplikace těch položek § 106, které předpokládají pevný splátkový plán. Sporné je, zda chybí i ty informace, které § 107 zachovává (úroková sazba, RPSN, celková částka) — pokud chybí tyto, nastupuje sankce § 110 i v redukovaném režimu.
+
+**5. Řešení.** Soud posoudí smlouvu podle redukovaného standardu § 107. Pokud smlouva obsahuje informace, které § 107 vyžaduje, je v pořádku a redukce úroku dle § 110 nenastoupí. Procesně je nutné nejprve určit typ produktu (§ 5), pak aplikovat odpovídající obsahový standard.
+
+**6. Varianty.** (a) Kdyby šlo o standardní spotřebitelský úvěr (nikoli kontokorent), platil by plný § 106 a chybějící položky by vedly k sankci. (b) Kdyby u překročení účtu (§ 108) trvajícího déle než měsíc poskytovatel neinformoval spotřebitele o sazbě a sankcích, šlo by o porušení informační povinnosti s důsledky dle § 110.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Redukovaný režim § 107 znamená, že na kontokorent neplatí žádná ochrana." Neutralizace: § 107 redukuje pouze položky vázané na splátkový plán; informace o ceně (sazba, RPSN, celková částka) zůstávají povinné a jejich absence aktivuje § 110.
+- *Protiargument:* „Překročení účtu dle § 108 je faktický stav, ne smluvní vztah, takže informační povinnost neplatí." Neutralizace: § 108 výslovně váže informační povinnost na smlouvu o platebních službách umožňující debet a na trvání překročení nad 1 měsíc.
+- *Slabé místo:* hranice mezi „možností přečerpání" (§ 107) a „možností překročení" (§ 108) je v praxi nejasná; je nutné pečlivě rozlišit sjednaný limit od nepovoleného debetu.
+
+##### H. Praktický závěr
+
+V praxi § 107–109 modifikují obsahové a informační požadavky pro tři specifické situace: sjednaný kontokorent (§ 107), nepovolený debet (§ 108) a refinanční dohody (§ 109). Nelze na ně mechanicky aplikovat plný § 106.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit typ produktu — kontokorent splatný na požádání/do 3 měsíců (§ 107) vs. překročení účtu (§ 108) vs. refinanční dohoda (§ 109).
+- [ ] Ověřit, zda smlouva obsahuje informace povinné i v redukovaném režimu (sazba, RPSN, celková částka).
+- [ ] U překročení trvajícího nad 1 měsíc zkontrolovat splnění bezodkladné informační povinnosti o výši, sazbě a sankcích.
+- [ ] Při absenci povinných informací zvážit sankci dle § 110.
+
+**Typicky rozhodné důkazy / podklady:** smlouva o úvěru/platebních službách, doklad o typu produktu a sjednaném limitu, výpisy z účtu prokazující rozsah a dobu trvání debetu, doklad o splnění informačních povinností.
 
 ---
 
@@ -1440,6 +2928,42 @@ Tyto mechanismy vždy interpretují nesrovnalost **ve prospěch spotřebitele** 
 
 Tato pravidla **asymetricky zvýhodňují spotřebitele** v případě nesprávně vystavené smlouvy — princip **contra proferentem** kombinovaný s preventivním účinkem.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Nebankovní poskytovatel uzavřel se spotřebitelem smlouvu o úvěru 100 000 Kč. Smlouva uvádí zápůjční úrokovou sazbu 25 % p.a., ale neobsahuje informaci o RPSN, ač zákon ji vyžaduje (§ 106). Spotřebitel po dvou letech splácení v soudním sporu namítá, že smlouva nemá povinný obsah a domáhá se redukce úroku na repo sazbu ČNB. Důkazy: smlouva, splátkový kalendář, doklad o repo sazbě ČNB ke dni uzavření.
+
+**2. Právní otázka.** Je absence informace o RPSN ve smlouvě jednou ze tří vad uvedených v § 110 odst. 1, která zakládá automatickou redukci úrokové sazby na repo sazbu ČNB?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 110 odst. 1 — chybí-li informace o zápůjční úrokové sazbě, RPSN nebo celkové částce (nebo nebyla-li dodržena písemná forma či poskytnutí), úrokovou sazbou se ze zákona stává repo sazba ČNB a k jiným platbám se nepřihlíží.
+- *Související ustanovení téhož zákona:* § 106 (povinný obsah smlouvy, jehož porušení § 110 sankcionuje), § 104 a § 105 (forma a poskytnutí smlouvy), § 110 odst. 5 (ztráta práv věřitele při chybějících informacích o právech a povinnostech).
+- *Související předpisy:* § 588 OZ (zákonné omezení autonomie vůle); zákon o ČNB (repo sazba); CCD 2008/48/ES čl. 10, 23 (povinný obsah a sankce).
+- *Judikatura:* výklad, že sankční redukce úroku je objektivní (nezávislá na zavinění poskytovatele) a aplikuje se i bez návrhu, jakmile je vada smlouvy zjištěna; in favorem consumentis výklad nesrovnalostí.
+
+**4. Subsumpce.** Absence RPSN spadá pod jednu ze tří taxativně vyjmenovaných vad § 110 odst. 1. Tím je naplněn znak normy a automaticky nastupuje právní fikce: zápůjční sazbou je repo sazba ČNB platná v den uzavření smlouvy a k poplatkům se nepřihlíží. Není sporné, zda poskytovatel vadu zavinil — sankce je objektivní.
+
+**5. Řešení.** Soud aplikuje § 110 odst. 1: úrok se redukuje na repo sazbu ČNB ke dni uzavření (typicky výrazně pod sjednanými 25 %), všechny ostatní platby (poplatky, provize) odpadají. Věřitel na žádost spotřebitele přepočítá nové splátky (odst. 4). Praktický krok: spotřebitel vyzve k novému vyčíslení a doplatí/získá zpět přeplatek.
+
+**6. Varianty.** (a) Kdyby smlouva RPSN obsahovala, ale uvedla ji nižší než skutečnou, uplatnil by se odst. 3 — sazba a celková částka by se snížily na úroveň odpovídající uvedené RPSN, nikoli na repo sazbu. (b) Kdyby chyběla jen informace o některém právu věřitele (odst. 5), věřitel by toto právo neměl, ale úrok by zůstal sjednaný.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Redukce na repo sazbu je nepřiměřená sankce za drobnou administrativní vadu." Neutralizace: jde o zákonem výslovně stanovený, preventivně koncipovaný následek, který má motivovat k řádnému vystavení dokumentů; soud nemá prostor jej zmírnit.
+- *Protiargument:* „Spotřebitel se vady dovolává až po letech, čímž jedná v rozporu s poctivostí." Neutralizace: sankce je objektivní a nezaniká zhojením; ochrana spotřebitele zde převažuje, promlčuje se jen nárok na vydání přeplatku.
+- *Slabé místo:* je třeba pečlivě odlišit vady spadající pod odst. 1 (tři klíčové informace o ceně → repo sazba) od vad dle odst. 2, 3 (nesrovnalosti → poměrná redukce) a odst. 5 (chybějící práva/povinnosti → ztráta práva). Záměna vede k nesprávnému následku.
+
+##### H. Praktický závěr
+
+§ 110 je nejsilnějším soukromoprávním sankčním mechanismem ZSÚ: formální nebo obsahová vada u tří klíčových cenových informací znamená automatickou redukci úroku na repo sazbu a zánik všech dalších plateb. Pro poskytovatele kritický důvod k pečlivé kontrole dokumentace.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zkontrolovat, zda smlouva obsahuje zápůjční sazbu, RPSN a celkovou částku a zda u nich byla dodržena písemná forma a poskytnutí (odst. 1).
+- [ ] Rozlišit typ vady — chybějící informace (odst. 1), nesrovnalost sazba/částka (odst. 2), nižší RPSN (odst. 3), chybějící práva/povinnosti (odst. 5).
+- [ ] Zjistit repo sazbu ČNB ke dni uzavření smlouvy.
+- [ ] Vyžádat přepočet splátek dle odst. 4.
+
+**Typicky rozhodné důkazy / podklady:** smlouva o SÚ, doklad o jejím poskytnutí spotřebiteli, splátkový kalendář, historické hodnoty repo sazby ČNB, vyčíslení přeplatku po redukci.
+
 ---
 
 #### § 111 — Doba na rozmyšlenou
@@ -1469,6 +2993,42 @@ Poskytovatel **smí** odvolat nabídku, pokud během 14 dnů „vyšly najevo ok
 
 § 111 výslovně odkazuje na **§ 1787 OZ** (občanský zákoník), který upravuje obecné principy lhůt pro přijetí nabídky a vázanosti nabídkou. § 111 ZSÚ je v tomto vztahu **lex specialis** — modifikuje obecná pravidla OZ pro specifický kontext SÚ na bydlení.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Banka předložila spotřebiteli návrh smluvních podmínek hypotečního úvěru 3 mil. Kč s úrokovou sazbou 4,9 % p.a. fixovanou na 5 let. Pět dní poté banka spotřebiteli oznámí, že kvůli zvýšení sazeb na trhu návrh „již neplatí" a nabízí 5,4 %. Spotřebitel během 14 dnů od předložení sdělí, že původní návrh (4,9 %) přijímá. Důkazy: předložený návrh s datem, e-mailová komunikace, akceptační projev spotřebitele.
+
+**2. Právní otázka.** Byl poskytovatel oprávněn během 14 dnů od předložení návrhu změnit nabízenou úrokovou sazbu, a je povinen uzavřít smlouvu za původně nabídnutých podmínek, sdělí-li spotřebitel ve lhůtě přijetí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 111 — poskytovatel nesmí návrh smluvních podmínek SÚ na bydlení 14 dnů změnit ani odvolat; přijme-li spotřebitel ve lhůtě, je povinen smlouvu bez zbytečného odkladu uzavřít.
+- *Související ustanovení téhož zákona:* § 86 odst. 1 (jediná zákonná výjimka — okolnosti úvěruschopnosti, pro něž je nutné úvěr neposkytnout), § 2 odst. 2 (vymezení SÚ na bydlení).
+- *Související předpisy:* § 1787 OZ (obecná vázanost nabídkou, na niž § 111 odkazuje a kterou modifikuje), § 1731 a násl. OZ (nabídka a její přijetí).
+- *Judikatura:* obecný princip závaznosti nabídky a ochrany legitimního očekávání adresáta; výklad, že lhůty na ochranu spotřebitele se vykládají v jeho prospěch.
+
+**4. Subsumpce.** Návrh smluvních podmínek hypotéky spadá pod § 111. Změna sazby pátý den je porušením zákazu změny během 14 dnů. Výjimka dle § 86 odst. 1 (změna úvěruschopnosti) zjevně nenastala — důvodem byl pohyb tržních sazeb, nikoli zhoršení bonity spotřebitele. Akceptace ve lhůtě tedy zakládá povinnost uzavřít smlouvu za 4,9 %.
+
+**5. Řešení.** Poskytovatel je povinen uzavřít smlouvu za původně nabídnutých podmínek (4,9 %). Spotřebitel se může domáhat uzavření smlouvy, případně náhrady škody z porušení povinnosti. Procesně: doložit datum předložení návrhu a včasnou akceptaci.
+
+**6. Varianty.** (a) Kdyby během 14 dnů vyšlo najevo, že spotřebitel ztratil zaměstnání a jeho úvěruschopnost dle § 86 odst. 1 brání poskytnutí úvěru, poskytovatel by návrh odvolat směl. (b) Kdyby spotřebitel akceptoval až 16. den, vázanost by zanikla a poskytovatel by nabídku mohl změnit.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Banka nemůže nést riziko pohybu tržních sazeb po dobu 14 dnů." Neutralizace: § 111 toto riziko vědomě klade na poskytovatele jako profesionála; ochrana spotřebitele před tlakem na rychlé rozhodnutí převažuje.
+- *Protiargument:* „Spotřebitel akceptaci neprokáže." Neutralizace: nese důkazní břemeno o včasném a určitém přijetí; vhodné je písemné/elektronické sdělení s prokazatelným datem.
+- *Slabé místo:* výjimka § 86 odst. 1 může být zneužita jako záminka pro odvolání — je nutné prokázat skutečnou změnu okolností úvěruschopnosti, ne pouhý pohyb sazeb.
+
+##### H. Praktický závěr
+
+§ 111 dává spotřebiteli u hypoték 14denní prostor na rozmyšlenou, během něhož je poskytovatel vázán nabídkou. Přijme-li spotřebitel včas, vzniká povinnost smlouvu uzavřít za nabídnutých podmínek; odvolat lze jen z důvodu změny úvěruschopnosti dle § 86 odst. 1.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit datum předložení návrhu smluvních podmínek (počátek 14denní lhůty).
+- [ ] Zkontrolovat, zda poskytovatel během lhůty návrh nezměnil ani neodvolal.
+- [ ] Posoudit, zda případné odvolání spadá pod jedinou výjimku § 86 odst. 1 (úvěruschopnost).
+- [ ] Doložit včasnou a určitou akceptaci spotřebitele.
+
+**Typicky rozhodné důkazy / podklady:** předložený návrh smluvních podmínek s datem, komunikace o případné změně/odvolání, akceptační projev spotřebitele, doklady o úvěruschopnosti (pro posouzení výjimky).
+
 ---
 
 ### Hlava II — Některé smluvní podmínky
@@ -1496,6 +3056,42 @@ Zákaz směnek a šeků **eliminuje** tento problém — směnka spojená se SÚ
 #### Solidární odpovědnost (odst. 3)
 
 Poskytovatel a zprostředkovatel **společně a nerozdílně** nahradí spotřebiteli škodu způsobenou porušením zákazu — solidární odpovědnost obou subjektů zvyšuje motivaci k dodržování pravidla.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Nebankovní věřitel poskytl spotřebiteli úvěr 50 000 Kč a nechal jej podepsat bianko směnku „k zajištění". Po prodlení směnku vyplnil na 180 000 Kč a uplatnil ji ve směnečném řízení (§ 175 OSŘ). Spotřebitel namítá, že směnka ke splacení/zajištění SÚ je zákonem zakázána. Důkazy: úvěrová smlouva, směnka, směnečný platební rozkaz, údaje o čerpané a splacené částce.
+
+**2. Právní otázka.** Lze ke splacení nebo zajištění spotřebitelského úvěru platně použít směnku, a jaké jsou důsledky porušení tohoto zákazu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 112 odst. 1 — ke splacení nebo zajištění SÚ nelze použít směnku ani šek; odst. 2 — úzká výjimka směnky nikoli na řad u SÚ na bydlení pro přechodné zajištění; odst. 3 — solidární odpovědnost poskytovatele a zprostředkovatele za škodu.
+- *Související ustanovení téhož zákona:* § 113 (přípustné formy zajištění), § 122 (limity sankcí za prodlení — nahrazuje sankční funkci směnky).
+- *Související předpisy:* zákon směnečný a šekový č. 191/1950 Sb.; § 175 OSŘ (směnečné řízení); § 588 OZ (absolutní neplatnost pro rozpor se zákonem); CCD 2008/48/ES.
+- *Judikatura:* ustálený závěr, že směnka zajišťující spotřebitelský úvěr je v rozporu se zákonem; spotřebitel může v námitkách proti směnečnému platebnímu rozkazu uplatnit kauzální námitky vyplývající ze zakázaného zajištění.
+
+**4. Subsumpce.** Bianko směnka sloužila k zajištění SÚ — naplňuje skutkovou podstatu zakázaného jednání dle § 112 odst. 1. Nejde o výjimku odst. 2 (není to směnka nikoli na řad u SÚ na bydlení k přechodnému zajištění). Použití směnky je proto v rozporu se zákonem.
+
+**5. Řešení.** Spotřebitel podá včas námitky proti směnečnému platebnímu rozkazu a uplatní kauzální námitku zakázaného zajištění SÚ. Směnečný nárok neobstojí. Vedle toho má spotřebitel právo na náhradu škody, za niž ručí solidárně poskytovatel i zprostředkovatel (odst. 3). Procesně klíčové je dodržet lhůtu k námitkám.
+
+**6. Varianty.** (a) U SÚ na bydlení, který nelze po přechodnou dobu zajistit zástavním právem (běží zápis do katastru), by směnka nikoli na řad byla přípustná dle odst. 2 — musela by však být vrácena neprodleně po vzniku zástavního práva. (b) Kdyby věřitel směnku po zajištění úvěru zástavou nevrátil, jednal by protiprávně a odpovídal by za škodu.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Směnka je samostatný abstraktní závazek nezávislý na úvěru." Neutralizace: § 112 zakazuje použití směnky právě k zajištění/splacení SÚ; spotřebitel uplatní kauzální námitky, abstraktnost směnku nezachrání.
+- *Protiargument:* „Šlo o směnku k zajištění hypotéky, tedy výjimku odst. 2." Neutralizace: výjimka je úzká — jen směnka nikoli na řad, jen pro přechodné období do vzniku zástavního práva, s povinností vrácení; standardní bianko směnka u běžného úvěru pod ni nespadá.
+- *Slabé místo:* spotřebitel musí aktivně a včas podat námitky ve směnečném řízení — pasivita vede k pravomocnému rozkazu i u zakázané směnky.
+
+##### H. Praktický závěr
+
+§ 112 absolutně zakazuje směnky a šeky u spotřebitelského úvěru (s úzkou výjimkou přechodného zajištění hypotéky). Porušení zakládá protiprávnost zajištění a solidární odpovědnost poskytovatele a zprostředkovatele za škodu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zjistit, zda směnka/šek slouží ke splacení nebo zajištění SÚ.
+- [ ] Posoudit, zda nejde o úzkou výjimku odst. 2 (směnka nikoli na řad, přechodné zajištění SÚ na bydlení, povinnost vrácení).
+- [ ] Ve směnečném řízení včas podat námitky s kauzální námitkou zákazu dle § 112.
+- [ ] Zvážit nárok na náhradu škody se solidárním ručením poskytovatele a zprostředkovatele.
+
+**Typicky rozhodné důkazy / podklady:** úvěrová smlouva, listina směnky/šeku, směnečný platební rozkaz a doklad o doručení, doklad o skutečně čerpané a splacené částce, u hypotéky doklad o vzniku zástavního práva a vrácení směnky.
 
 ---
 
@@ -1531,6 +3127,42 @@ Pro SÚ na bydlení musí být zajištění oceněno **cenou obvyklou nebo tržn
 
 Osoby provádějící ocenění musí být **důvěryhodné, odborně způsobilé a dostatečně nezávislé** na procesu poskytování úvěru. Toto pravidlo brání umělému nadhodnocování či podhodnocování zajištění.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Věřitel poskytl spotřebiteli úvěr 80 000 Kč a jako zajištění požadoval „zajišťovací převod vlastnictví" k bytu spotřebitele v hodnotě 3,5 mil. Kč. Po prodlení věřitel tvrdí, že je vlastníkem bytu a hodlá jej zpeněžit. Spotřebitel namítá zjevný nepoměr zajištění a nepřípustnost jiné formy zajištění nemovitosti než zástavního práva. Důkazy: úvěrová smlouva, ujednání o zajišťovacím převodu, znalecký odhad hodnoty bytu.
+
+**2. Právní otázka.** Je u spotřebitelského úvěru přípustné zajistit nemovitost zajišťovacím převodem vlastnictví, a smí zajištění být v hodnotě mnohonásobně převyšující pohledávku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 113 odst. 1 (zákaz zcela zjevného nepoměru hodnoty zajištění k pohledávce), odst. 2 (u nemovitosti pouze zástavní právo; k jiným ujednáním se nepřihlíží), odst. 3 (požadavky na ocenění u SÚ na bydlení).
+- *Související ustanovení téhož zákona:* § 112 (zákaz směnek/šeků k zajištění), § 123 (výkon zástavního práva u SÚ na bydlení), § 2 odst. 2 (SÚ na bydlení).
+- *Související předpisy:* § 1553 a násl. OZ (zajišťovací převod práva), § 1309 a násl. OZ (zástavní právo), zákon č. 151/1997 Sb. o oceňování majetku, § 588 OZ (neplatnost pro rozpor se zákonem).
+- *Judikatura:* ochrana spotřebitele před ztrátou nemovitosti zajišťovacím převodem; obecná zásada proporcionality zajištění.
+
+**4. Subsumpce.** Předmětem zajištění je nemovitost — uplatní se odst. 2: jediná přípustná forma je zástavní právo, k ujednání o zajišťovacím převodu se nepřihlíží. Současně hodnota zajištění (3,5 mil.) je ve zcela zjevném nepoměru k pohledávce (80 tis.) — porušen i odst. 1. Výjimka pro SÚ na bydlení se neuplatní (nejde o financování koupě/zachování této nemovitosti).
+
+**5. Řešení.** K zajišťovacímu převodu se nepřihlíží — věřitel se nestal vlastníkem a nemůže byt zpeněžit. Zajištění buď neexistuje, nebo (bylo-li zamýšleno zástavní právo) je nutné posoudit jeho proporcionalitu dle odst. 1. Spotřebitel se brání určovací žalobou/námitkou neexistence vlastnického práva věřitele. 
+
+**6. Varianty.** (a) Kdyby šlo o úvěr financující koupi právě tohoto bytu (SÚ na bydlení dle § 2 odst. 2), výjimka odst. 1 by vyloučila námitku nepoměru. (b) Kdyby zajištění mělo formu zástavního práva přiměřeného pohledávce, bylo by v souladu s § 113.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Strany si zajišťovací převod svobodně sjednaly (autonomie vůle)." Neutralizace: § 113 odst. 2 je kogentní omezení; u nemovitosti se k jinému zajištění než zástavnímu právu nepřihlíží bez ohledu na vůli stran.
+- *Protiargument:* „Nepoměr zajištění není zjevný, byt je jediné dostupné zajištění." Neutralizace: zákon zakazuje „zcela zjevný" nepoměr; poměr 80 tis. : 3,5 mil. je modelově zcela zjevný.
+- *Slabé místo:* posouzení „zcela zjevného nepoměru" je hodnotící — je vhodné doložit znalecké ocenění a výši pohledávky; hraniční poměry mohou být sporné.
+
+##### H. Praktický závěr
+
+§ 113 chrání spotřebitele dvojí cestou: zakazuje zjevně nepřiměřené zajištění a u nemovitosti připouští výhradně zástavní právo (zajišťovací převod je vyloučen). U SÚ na bydlení navíc stanoví přísné požadavky na nezávislé a objektivní ocenění.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Porovnat hodnotu zajištění s výší pohledávky — vyloučit zcela zjevný nepoměr (odst. 1).
+- [ ] U nemovitosti ověřit, že zajištění má formu zástavního práva, ne zajišťovacího převodu (odst. 2).
+- [ ] Posoudit, zda se neuplatní výjimka odst. 1 (financování koupě/zachování předmětu zajištění).
+- [ ] U SÚ na bydlení zkontrolovat nestrannost, objektivitu a záznam ocenění a nezávislost oceňovatele (odst. 3).
+
+**Typicky rozhodné důkazy / podklady:** úvěrová a zajišťovací smlouva, výpis z katastru, znalecké/tržní ocenění nemovitosti, doklad o výši pohledávky, doklady o nezávislosti a kvalifikaci oceňovatele.
+
 ---
 
 #### § 114 — Použití telefonního čísla s vyšší než běžnou cenou
@@ -1542,6 +3174,41 @@ Osoby provádějící ocenění musí být **důvěryhodné, odborně způsobil�
 **Výklad:**
 
 § 114 zakazuje použití **prémiových telefonních linek** (typicky čísla začínající 906, 909) pro účely SÚ. Toto pravidlo brání zneužívání informačních a obchodních linek k generování dodatečných výnosů na úkor spotřebitele. Spotřebitel komunikující s poskytovatelem nesmí být zatížen vyššími náklady, než je běžná cena hovoru.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Poskytovatel SÚ provozuje zákaznickou linku pro dotazy ke smlouvě na čísle začínajícím 906 (služba s vyjádřenou cenou) za 30 Kč/min. Spotřebitel musel řešit splátkový kalendář v několika hovorech a zaplatil za hovory vysokou částku. ČNB při kontrole posuzuje, zda jde o porušení § 114. Důkazy: výpis volaných čísel a tarifů, popis účelu linky, smluvní dokumentace.
+
+**2. Právní otázka.** Porušuje poskytovatel § 114, používá-li pro komunikaci se spotřebitelem v souvislosti se SÚ telefonní číslo s vyšší než běžnou cenou?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 114 — zákaz použití čísla s vyšší než běžnou cenou (zejména služby s vyjádřenou cenou, univerzální přístupové číslo, sdílené náklady) pro přístup ke službám při poskytování SÚ.
+- *Související ustanovení téhož zákona:* § 77 (obecná pravidla komunikace se spotřebiteli), § 75 (odborná péče), dohledové a sankční nástroje ČNB v částech o dohledu.
+- *Související předpisy:* zákon č. 127/2005 Sb. o elektronických komunikacích (kategorie čísel s vyjádřenou cenou); CCD/MCD (zákaz nepřiměřených nákladů spotřebitele).
+- *Judikatura:* správní praxe ČNB při postihu nekalých nákladových praktik; obecný princip ochrany spotřebitele před skrytými náklady.
+
+**4. Subsumpce.** Linka 906 je číslo s vyjádřenou cenou (vyšší než běžná). Slouží přístupu ke službám v souvislosti se SÚ. Tím je naplněna skutková podstata zákazu dle § 114 — bez ohledu na to, zda náklad spotřebitele byl „malý".
+
+**5. Řešení.** Jednání je v rozporu s § 114. ČNB může uložit nápravné opatření a sankci; poskytovatel musí zajistit komunikaci za běžnou cenu. Spotřebitel může uplatnit náhradu nadměrně vynaložených nákladů. Praktický krok: změna linky na běžné číslo.
+
+**6. Varianty.** (a) Kdyby šlo o běžné pevné/mobilní číslo bez příplatku, k porušení by nedošlo. (b) Kdyby prémiová linka nesouvisela se SÚ (jiná služba poskytovatele), § 114 by se neuplatnil.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Náklad spotřebitele byl bagatelní, nejde o porušení." Neutralizace: § 114 zakazuje samotné použití takového čísla; výše nákladu není znakem skutkové podstaty.
+- *Protiargument:* „Linka slouží i jiným produktům, nejen SÚ." Neutralizace: rozhodující je, zda spotřebitel musí použít drahé číslo pro přístup ke službám v souvislosti se SÚ; sdílené využití poskytovatele nevyviňuje.
+- *Slabé místo:* prokázání, že konkrétní číslo spadá do zakázaných kategorií dle zákona o elektronických komunikacích — vyžaduje doložit tarifní zařazení čísla.
+
+##### H. Praktický závěr
+
+§ 114 je technické, ale jednoznačné pravidlo: komunikaci se spotřebitelem v souvislosti se SÚ nelze vést přes prémiové linky. Porušení zakládá dohledový postih ČNB a nárok spotřebitele na nadměrné náklady.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit tarifní zařazení použitého telefonního čísla (běžné vs. s vyšší cenou).
+- [ ] Zjistit, zda linka slouží přístupu ke službám v souvislosti se SÚ.
+- [ ] Při porušení zajistit nápravu (běžné číslo) a zvážit náhradu nákladů spotřebiteli.
+
+**Typicky rozhodné důkazy / podklady:** výpis použitých čísel a jejich tarifů, popis účelu linky, smluvní/marketingové materiály odkazující na linku, doklad o nákladech spotřebitele.
 
 ---
 
@@ -1572,6 +3239,41 @@ Z § 115 odst. 1 ve spojení s § 84 odst. 4, § 86 a obecným pojetím spotřeb
 | c) | Pojištění vozidla financovaného úvěrem | Ochrana zajištění |
 
 Tyto výjimky jsou logicky omezené — vážou se k povaze úvěrového produktu a slouží zajištění úvěru, ne k generování dodatečných výnosů poskytovatele z přidružených produktů.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Banka podmínila poskytnutí hypotečního úvěru uzavřením životního pojištění u pojišťovny ze stejné finanční skupiny a klienta neinformovala o možnosti zvolit jiného pojistitele. Smlouvu o úvěru nelze podle nastavení banky uzavřít bez tohoto pojištění. Spotřebitel namítá vázaný prodej. Důkazy: úvěrová a pojistná smlouva, interní podmínky banky, komunikace o povinnosti pojištění.
+
+**2. Právní otázka.** Je přípustné podmínit uzavření SÚ uzavřením doplňkové služby (pojištění), a smí poskytovatel omezit spotřebitele ve výběru pojistitele?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 115 odst. 1 (zákaz vázat SÚ na doplňkovou službu, nelze-li úvěr uzavřít bez ní), odst. 2 (při podmíněném pojištění zákaz omezovat výběr pojistitele), odst. 3 (úzké výjimky — účet ke splácení, stavební spoření, pojištění financovaného vozidla).
+- *Související ustanovení téhož zákona:* § 84 odst. 4 a § 86 (úvěruschopnost a doplňkové služby), § 76 (zohlednění zájmů spotřebitele), § 90 a násl. (informace o doplňkových službách).
+- *Související předpisy:* zákon č. 170/2018 Sb. o distribuci pojištění; § 2758 a násl. OZ (pojistná smlouva); MCD 2014/17/EU čl. 12 (vázaný prodej).
+- *Judikatura:* správní praxe ČNB k vázanému prodeji; princip, že doplňkové produkty nesmí být skrytou podmínkou úvěru.
+
+**4. Subsumpce.** Úvěr nelze uzavřít bez pojištění → naplněna skutková podstata zakázaného vázaného prodeje (odst. 1), ledaže by šlo o výjimku odst. 3 (nejde — životní pojištění není účet, stavební spoření ani pojištění financovaného vozidla). Současně banka omezila výběr pojistitele → porušení odst. 2.
+
+**5. Řešení.** Jednání porušuje § 115. Banka musí umožnit uzavření úvěru bez vázaného pojištění, případně připustit volbu jiného pojistitele. ČNB může uložit opatření a sankci. Spotřebitel se může domáhat, aby vázaná podmínka nebyla uplatňována. Praktický krok: revize produktových podmínek.
+
+**6. Varianty.** (a) Kdyby šlo o povinné vedení bezplatného účtu pro splácení úvěru, šlo by o výjimku odst. 3 písm. a) — přípustné. (b) Kdyby banka pojištění jen doporučila a umožnila výběr pojistitele i uzavření úvěru bez něj, k porušení by nedošlo.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Pojištění snižuje riziko a je v zájmu spotřebitele." Neutralizace: i prospěšný produkt nesmí být podmínkou úvěru ani vázán na konkrétního pojistitele; lze jej pouze nabídnout.
+- *Protiargument:* „Pojištění je výjimkou dle odst. 3." Neutralizace: výjimky jsou taxativní a úzké (účet, stavební spoření, pojištění financovaného vozidla); životní/úvěrové pojištění mezi ně nepatří.
+- *Slabé místo:* hranice mezi „inherentní" doplňkovou službou (povolenou) a vázaným prodejem (zakázaným) může být sporná — rozhodující je, zda úvěr lze uzavřít bez dané služby.
+
+##### H. Praktický závěr
+
+§ 115 zakazuje vázat SÚ na doplňkové služby a u podmíněného pojištění zakazuje omezovat výběr pojistitele. Povinné pojištění úvěru v základní formě není přípustné; výjimky jsou úzké a vážou se k povaze produktu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda lze úvěr uzavřít bez doplňkové služby (jinak vázaný prodej, odst. 1).
+- [ ] Při podmíněném pojištění zkontrolovat svobodu výběru pojistitele (odst. 2).
+- [ ] Posoudit, zda jde o úzkou výjimku odst. 3 (účet, stavební spoření, pojištění financovaného vozidla).
+
+**Typicky rozhodné důkazy / podklady:** úvěrová a doplňková (pojistná) smlouva, produktové a interní podmínky poskytovatele, komunikace o povinnosti uzavřít doplňkovou službu a o volbě poskytovatele.
 
 ---
 
@@ -1605,6 +3307,42 @@ Tyto výjimky jsou logicky omezené — vážou se k povaze úvěrového produkt
 - d) měnu členského státu **bydliště** v době žádosti o změnu měny.
 
 Pokud poskytovatel změnu **neumožní**, musí zajistit **jiné mechanismy omezení rizika** ze změny směnného kurzu (odst. 2) — typicky zajišťovací operace, cap na kurzové fluktuace apod.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Spotřebitel s bydlištěm v ČR a příjmem v korunách uzavřel hypoteční úvěr vyjádřený v eurech. Po oslabení koruny vůči euru jeho korunové splátky výrazně vzrostly. Spotřebitel žádá o změnu měny úvěru na koruny. Poskytovatel odmítá a netvrdí žádný jiný mechanismus omezení kurzového rizika. Důkazy: úvěrová smlouva (měna EUR), doklad o příjmu a bydlišti, kurzový vývoj, žádost o změnu měny.
+
+**2. Právní otázka.** Má spotřebitel u SÚ v cizí měně právo na změnu měny úvěru, případně na jiný mechanismus omezení kurzového rizika, a jaký kurz se použije?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 116 odst. 1 (právo na změnu měny na měnu příjmu/aktiv/bydliště), odst. 2 (jinak povinnost zajistit jiné mechanismy omezení kurzového rizika), odst. 3 (kurz ČNB ke dni žádosti, nestanoví-li smlouva o SÚ na bydlení jinak).
+- *Související ustanovení téhož zákona:* § 86 (úvěruschopnost a poslední její posouzení jako rozhodný okamžik), § 95 a násl. (předsmluvní informace, ESIS u SÚ na bydlení), § 2 odst. 2 (SÚ na bydlení).
+- *Související předpisy:* MCD 2014/17/EU čl. 23 (úvěry v cizí měně); zákon o ČNB (vyhlašované kurzy).
+- *Judikatura:* evropský kontext „frankové krize" a ochrana spotřebitelů úvěrů v cizí měně; výklad ve prospěch spotřebitele nesoucího kurzové riziko.
+
+**4. Subsumpce.** Úvěr je v cizí měně (EUR), spotřebitel má příjem i bydliště v ČR (koruna) — naplněny znaky § 116 odst. 1 písm. a), c), d). Poskytovatel je povinen umožnit změnu na koruny, případně dle odst. 2 zajistit jiný mechanismus. Neučinil ani jedno → porušení § 116.
+
+**5. Řešení.** Poskytovatel musí za smluvených podmínek umožnit změnu měny na koruny; ke konverzi se použije kurz ČNB ke dni žádosti (odst. 3), nestanoví-li smlouva o SÚ na bydlení jinak. Neumožní-li změnu, musí prokázat zajištění jiného mechanismu omezení rizika. Spotřebitel se může domáhat splnění této povinnosti.
+
+**6. Varianty.** (a) Kdyby poskytovatel zavedl účinný cap na kurzové fluktuace či jiné zajištění (odst. 2), nemusel by umožnit přímou změnu měny. (b) Kdyby úvěr byl od počátku v korunách (měně příjmu), § 116 by se neuplatnil.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Spotřebitel si měnu zvolil dobrovolně a nesl kurzové riziko." Neutralizace: § 116 kogentně přiznává právo na změnu měny nebo jiný ochranný mechanismus bez ohledu na původní volbu.
+- *Protiargument:* „Smlouva stanoví jiný kurz než ČNB." Neutralizace: odchylka od kurzu ČNB je možná jen u SÚ na bydlení a jen ujednáním ve smlouvě; jinak platí kurz ČNB ke dni žádosti.
+- *Slabé místo:* „jiné mechanismy" dle odst. 2 nejsou v zákoně specifikovány — je třeba posoudit jejich skutečnou účinnost při omezení kurzového rizika.
+
+##### H. Praktický závěr
+
+§ 116 chrání spotřebitele úvěru v cizí měně: buď právem na změnu měny (na měnu příjmu, aktiv či bydliště), nebo povinností poskytovatele zajistit jiný mechanismus omezení kurzového rizika. Ke konverzi se zásadně použije kurz ČNB ke dni žádosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda je úvěr vyjádřen v cizí měně.
+- [ ] Zjistit měnu příjmu, aktiv a bydliště spotřebitele (varianty a–d odst. 1).
+- [ ] Zkontrolovat, zda poskytovatel umožnil změnu měny nebo zajistil jiný účinný mechanismus (odst. 2).
+- [ ] Aplikovat správný konverzní kurz (ČNB ke dni žádosti, není-li u SÚ na bydlení sjednáno jinak).
+
+**Typicky rozhodné důkazy / podklady:** úvěrová smlouva s uvedením měny, doklady o příjmu, aktivech a bydlišti, žádost o změnu měny, kurzové lístky ČNB, doklad o zavedeném mechanismu omezení rizika.
 
 ---
 
@@ -1686,6 +3424,42 @@ Před předčasným splacením musí poskytovatel **bez zbytečného odkladu** p
 - **údaje o předpokládané výši náhrady** s předpoklady výpočtu,
 - **informaci o dalších důsledcích**, včetně **bezplatných případů** dle odst. 3.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Spotřebitel splatil tři roky před koncem fixace hypoteční úvěr (zbývající jistina 2 mil. Kč) z prostředků získaných prodejem jiné nemovitosti. Banka požaduje „náhradu nákladů" 180 000 Kč, kterou vyčíslila jako ušlý úrokový výnos a náklady refinancování. Spotřebitel namítá, že jde o nepřípustnou položku. Důkazy: úvěrová smlouva, vyčíslení banky, doklad o předčasném splacení, struktura požadované náhrady.
+
+**2. Právní otázka.** Lze pod „účelně vynaložené náklady" dle § 117 odst. 2 podřadit ušlý úrokový výnos (snížení úrokového rozpětí) a náklady refinancování poskytovatele?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 117 odst. 1 (právo splatit kdykoli a na snížení nákladů), odst. 2 (jen náhrada účelně vynaložených nákladů vzniklých v souvislosti s předčasným splacením), odst. 3 (osm bezúplatných případů), odst. 4–5 (stropy náhrady).
+- *Související ustanovení téhož zákona:* § 117a (metodika výpočtu účelně vynaložených nákladů u SÚ na bydlení účelového), § 122 (oddělení náhrady nákladů od sankcí).
+- *Související předpisy:* CCD čl. 16 a MCD čl. 25 (předčasné splacení); § 1813 a násl. OZ (nepřiměřená ujednání).
+- *Judikatura:* **NSS 5 As 246/2024-94** (5. 12. 2025) — snížení zisku z úrokového rozpětí ani (marně vynaložené) náklady refinancování, ať označené jakkoli, nelze podřadit pod účelně vynaložené náklady, neboť chybí zákonem požadovaná souvislost s předčasným splacením.
+
+**4. Subsumpce.** Banka v náhradě uplatnila ušlý úrokový výnos a náklady refinancování. Dle nosného závěru NSS těmto položkám chybí přímá souvislost s předčasným splacením — nejsou „účelně vynaloženými náklady" dle § 117 odst. 2. Náhrada je tak v této části neoprávněná; navíc platí stropy odst. 4–5 a u SÚ na bydlení účelového limit dle § 117a.
+
+**5. Řešení.** Banka nemá nárok na náhradu ušlého výnosu a refinančních nákladů. Přípustná je nanejvýš náhrada skutečných administrativních a metodikou § 117a vymezených nákladů, v rámci stropů (u účelového SÚ na bydlení 0,25 % za rok do konce fixace, max. 1 %, a současně ne více než zbývající úrok). Spotřebitel požaduje vyčíslení dle zákona a vrácení přeplatku.
+
+**6. Varianty.** (a) Kdyby šlo o splacení v některém z osmi případů odst. 3 (např. po 24 měsících při převodu nemovitosti, anniversary right do 25 %), náhrada by byla zcela vyloučena. (b) Kdyby šlo o SÚ jiný než na bydlení s dobou do konce nad 1 rok, strop náhrady by činil 1 % předčasně splacené části.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Refinanční náklady banka skutečně vynaložila, jsou tedy účelné." Neutralizace: dle NSS rozhoduje souvislost s předčasným splacením, nikoli faktické vynaložení; ušlý výnos a refinancování ji postrádají.
+- *Protiargument:* „Smlouva náhradu výslovně sjednává." Neutralizace: smluvní ujednání nemůže rozšířit zákonný rozsah náhrady ani překročit stropy odst. 4–5; nadlimitní část je neúčinná.
+- *Slabé místo:* je nutné správně určit typ SÚ a okamžik splacení (pro aplikaci výjimek odst. 3 i stropů); chybná kvalifikace mění výsledek.
+
+##### H. Praktický závěr
+
+Předčasné splacení je právem spotřebitele; náhrada náleží jen za skutečné účelně vynaložené náklady mající souvislost se splacením, v zákonných stropech. Ušlý úrokový výnos a náklady refinancování pod náhradu nespadají (NSS).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda nejde o některý z osmi bezúplatných případů odst. 3.
+- [ ] Z požadované náhrady vyloučit ušlý úrokový výnos a refinanční náklady (NSS 5 As 246/2024).
+- [ ] Aplikovat stropy odst. 4–5 a u SÚ na bydlení účelového metodiku § 117a.
+- [ ] Zkontrolovat splnění informační povinnosti poskytovatele před splacením (odst. 6).
+
+**Typicky rozhodné důkazy / podklady:** úvěrová smlouva (typ SÚ, fixace), vyčíslení a struktura požadované náhrady, doklad o dni a výši předčasného splacení, podklady k metodice § 117a, údaje ČNB o průměrných sazbách.
+
 ---
 
 #### § 117a — Určení výše účelně vynaložených nákladů za předčasné splacení
@@ -1699,6 +3473,42 @@ Před předčasným splacením musí poskytovatel **bez zbytečného odkladu** p
 Mechanismus odpovídá tzv. **„cost recovery" modelu** — věřitel může požadovat náhradu jen ve výši skutečné ekonomické ztráty způsobené rozdílem mezi smluvním a aktuálním tržním úrokem.
 
 ČNB uveřejňuje **průměry zápůjčních úrokových sazeb** každé čtvrtletí a tyto údaje slouží jako vstup do vzorce. Účelem je standardizace a transparentnost výpočtu — věřitel nemůže libovolně určovat „své" náklady.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Spotřebitel předčasně splatí účelový hypoteční úvěr na bydlení 2 roky před koncem pětileté fixace. Banka vyčíslí náhradu pomocí § 117a — administrativní náklady 2 500 Kč plus úrokový rozdíl mezi smluvní sazbou 5 % a referenční sazbou ČNB. Spotřebitel namítá, že administrativní složka překračuje zákonný strop. Důkazy: vyčíslení banky, referenční sazby ČNB, smlouva.
+
+**2. Právní otázka.** Jak se určí výše účelně vynaložených nákladů u SÚ na bydlení účelového dle § 117a a je administrativní složka 2 500 Kč přípustná?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 117a — náklady = administrativní náklady (max. 1 000 Kč) + úrokový rozdíl (smluvní vs. referenční úrok z průměrů sazeb ČNB).
+- *Související ustanovení téhož zákona:* § 117 odst. 2, 4, 5 (právo na náhradu a její stropy), § 2 odst. 2 písm. b), c) (vymezení účelového SÚ na bydlení, na nějž § 117a dopadá).
+- *Související předpisy:* MCD čl. 25; metodika a uveřejňování průměrných sazeb ČNB.
+- *Judikatura:* NSS 5 As 246/2024-94 (vyloučení ušlého výnosu a refinancování z náhrady) — § 117a vymezuje, co naopak započíst lze.
+
+**4. Subsumpce.** Jde o účelový SÚ na bydlení — aplikuje se § 117a. Administrativní složka je zákonem stropována na 1 000 Kč; požadovaných 2 500 Kč strop překračuje a v přesahující části je neoprávněná. Úrokový rozdíl se počítá z referenčního úroku odvozeného z průměrných sazeb ČNB, nikoli libovolně.
+
+**5. Řešení.** Náhrada se sníží: administrativní složka max. 1 000 Kč, úrokový rozdíl dle metodiky § 117a a referenčních sazeb ČNB. Celá náhrada navíc nesmí překročit stropy § 117 odst. 4, 5. Spotřebitel požaduje přepočet a vrácení nadlimitní části.
+
+**6. Varianty.** (a) Kdyby referenční sazba ČNB byla vyšší než smluvní sazba, úrokový rozdíl by byl nulový či záporný a náhrada by se omezila na administrativní složku. (b) Kdyby šlo o neúčelový SÚ na bydlení nebo SÚ jiný než na bydlení, § 117a by se neuplatnil a platily by stropy § 117 odst. 4.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Skutečné administrativní náklady banky byly vyšší než 1 000 Kč." Neutralizace: § 117a stanoví strop administrativní složky na 1 000 Kč bez ohledu na skutečné náklady.
+- *Protiargument:* „Referenční úrok lze stanovit interní metodikou banky." Neutralizace: referenční úrok vychází z průměrných sazeb uveřejňovaných ČNB; banka jej nesmí určovat libovolně.
+- *Slabé místo:* správný výpočet úrokového rozdílu vyžaduje přesné určení rozhodného období a odpovídajících průměrných sazeb ČNB — chyba ve vstupech mění výsledek.
+
+##### H. Praktický závěr
+
+§ 117a standardizuje výpočet náhrady u účelového SÚ na bydlení: administrativní náklady do 1 000 Kč plus úrokový rozdíl odvozený z průměrných sazeb ČNB. Brání libovolnému určování „vlastních" nákladů věřitele.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že jde o účelový SÚ na bydlení dle § 2 odst. 2 písm. b), c).
+- [ ] Zkontrolovat administrativní složku (strop 1 000 Kč).
+- [ ] Přepočítat úrokový rozdíl z referenčních (průměrných) sazeb ČNB k rozhodnému období.
+- [ ] Aplikovat zastřešující stropy § 117 odst. 4, 5.
+
+**Typicky rozhodné důkazy / podklady:** vyčíslení náhrady bankou, úvěrová smlouva (sazba, fixace), uveřejněné průměrné sazby ČNB, doklad o výši a dni předčasného splacení.
 
 ---
 
@@ -1749,6 +3559,42 @@ Má-li spotřebitel právo na odstoupení dle ZSÚ, **nepoužijí se** ustanoven
 
 § 118 je výslovně vázán na SÚ **jiný než na bydlení**. Pro SÚ na bydlení odpovídající institut **doby na rozmyšlenou** poskytuje § 111 (14 dnů před uzavřením smlouvy). Spotřebitel u SÚ na bydlení tedy nemá právo odstoupit od již uzavřené smlouvy, má však ochranu předsmluvní formou doby na rozmyšlenou.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Spotřebitel uzavřel online spotřebitelský úvěr 60 000 Kč (jiný než na bydlení), prostředky byly čerpány týž den. Smlouva neuvádí výši denního úroku pro případ odstoupení. Dvanáctý den spotřebitel odešle e-mailem odstoupení. Věřitel tvrdí, že odstoupení je opožděné a požaduje smluvní pokutu. Důkazy: smlouva, doklad o čerpání, e-mail s odstoupením a datem odeslání.
+
+**2. Právní otázka.** Mohl spotřebitel ve 14denní lhůtě bezdůvodně odstoupit, jaké jsou účinky odstoupení a má vliv chybějící údaj o denním úroku ve smlouvě?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 118 odst. 1 (14denní bezdůvodné odstoupení bez sankce; prodloužení při chybějících informacích), odst. 2 (forma a pravidlo odeslání), odst. 3–4 (vrácení jistiny do 30 dnů, úrok jen za skutečné čerpání, jen veřejnoprávní poplatky), odst. 5 (zánik doplňkové služby), odst. 6 (vyloučení obecných pravidel OZ).
+- *Související ustanovení téhož zákona:* § 106 (povinný obsah, vč. údaje o denním úroku), § 111 (doba na rozmyšlenou u SÚ na bydlení jako protějšek), § 119 (zánik vázaného SÚ).
+- *Související předpisy:* § 1820 a násl. OZ (odstoupení u distančních smluv — vyloučeno), § 570 OZ (doručení — odchylka pravidlem odeslání); CCD čl. 14.
+- *Judikatura:* **NSS 29 A 140/2019-107** (27. 7. 2022) — smyslem povinnosti uvést denní úrok je umožnit spotřebiteli jednoduchý výpočet, kolik zaplatí podle dne vrácení prostředků.
+
+**4. Subsumpce.** Jde o SÚ jiný než na bydlení → odstoupení dle § 118 přípustné. Odstoupení odesláno 12. den → lhůta dle pravidla odeslání zachována; navíc chybí-li údaj o denním úroku (§ 106), lhůta by tak jako tak neskončila dříve než 14 dnů po doplnění. Sankce/pokuta je vyloučena (odst. 1). Spotřebitel vrátí jistinu do 30 dnů a zaplatí úrok jen za dny čerpání.
+
+**5. Řešení.** Odstoupení je účinné, smlouva se ruší. Spotřebitel vrátí čerpanou jistinu do 30 dnů od odeslání odstoupení, zaplatí úrok za dobu skutečného čerpání a případné veřejnoprávní poplatky; smluvní pokuta nenáleží. Zanikne i případná vázaná doplňková služba. Procesně: doložit datum odeslání odstoupení.
+
+**6. Varianty.** (a) U SÚ na bydlení by § 118 neplatil — spotřebitel by měl jen předsmluvní dobu na rozmyšlenou dle § 111. (b) Kdyby spotřebitel odeslal odstoupení 20. den a smlouva obsahovala všechny informace, lhůta by uplynula a odstoupení by bylo opožděné.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Odstoupení došlo věřiteli až 16. den, je opožděné." Neutralizace: § 118 odst. 2 stanoví pravidlo odeslání, ne doručení — rozhoduje den odeslání v poslední den lhůty.
+- *Protiargument:* „Spotřebitel musí vrátit i sjednané poplatky a úrok za celou dobu." Neutralizace: hradí jen úrok za skutečné čerpání a veřejnoprávní poplatky; ostatní platby a sankce jsou vyloučeny.
+- *Slabé místo:* spotřebitel nese důkazní břemeno o včasném odeslání odstoupení v písemné formě — doporučeno prokazatelné odeslání.
+
+##### H. Praktický závěr
+
+§ 118 dává spotřebiteli u SÚ jiného než na bydlení právo do 14 dnů bezdůvodně a bez sankce odstoupit; chybějící povinné informace lhůtu prodlužují. Po odstoupení vrací jen jistinu (do 30 dnů) a úrok za skutečné čerpání.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že jde o SÚ jiný než na bydlení (jinak § 111).
+- [ ] Zkontrolovat běh 14denní lhůty a případné prodloužení pro chybějící informace (vč. denního úroku).
+- [ ] Aplikovat pravidlo odeslání, ne doručení (odst. 2).
+- [ ] Vyčíslit vrácení jistiny do 30 dnů, úrok jen za skutečné čerpání, vyloučit sankce.
+
+**Typicky rozhodné důkazy / podklady:** úvěrová smlouva (vč. údaje o denním úroku), doklad o dni čerpání, odstoupení s prokazatelným datem odeslání, vyčíslení jistiny a úroku za dobu čerpání.
+
 ---
 
 #### § 119 — Zánik vázaného spotřebitelského úvěru
@@ -1779,6 +3625,42 @@ Pokud byla **smlouva o koupi uzavřena mimo prostory** obvyklé pro podnikání 
 
 **Poskytovatel ručí** za peněžitý dluh prodávajícího vůči spotřebiteli, jestliže prodávající dluh **písemně uznal** nebo jestliže byl dluh **přiznán rozhodnutím** orgánu veřejné moci. Ručení **chrání spotřebitele** před úpadkem prodávajícího v situaci, kdy spotřebitel zboží vrátil, ale prodávající mu peníze nevrátil.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Spotřebitel koupil v e-shopu pračku za 15 000 Kč financovanou vázaným úvěrem od partnerské úvěrové společnosti. Do 14 dnů od dodání (smlouva uzavřená na dálku) odstoupil od kupní smlouvy a pračku vrátil. Úvěrová společnost nadále požaduje splátky úvěru. Důkazy: kupní smlouva, úvěrová smlouva (vázanost), odstoupení od koupě, doklad o vrácení zboží.
+
+**2. Právní otázka.** Zaniká vázaný spotřebitelský úvěr odstoupením od kupní smlouvy a může poskytovatel požadovat splátky či sankce?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 119 odst. 1 (zánik vázaného SÚ při odstoupení od koupě; informační povinnost spotřebitele; zákaz sankcí), odst. 2 (pořadí vrácení peněz při koupi na dálku/mimo prostory), odst. 3 (ručení poskytovatele za dluh prodávajícího).
+- *Související ustanovení téhož zákona:* definice vázaného SÚ (propojení úvěru a koupě), § 118 (odstoupení od úvěru), § 5 (vymezení pojmů).
+- *Související předpisy:* § 1829 a násl. OZ (odstoupení od smlouvy uzavřené na dálku), § 2079 a násl. OZ (kupní smlouva), § 2018 a násl. OZ (ručení).
+- *Judikatura:* princip propojené ekonomické funkce vázaného úvěru a financované koupě; ochrana spotřebitele před dvojím zatížením.
+
+**4. Subsumpce.** Úvěr je vázaný na koupi pračky. Spotřebitel platně odstoupil od kupní smlouvy a zboží vrátil → naplněn znak § 119 odst. 1: vázaný SÚ zaniká. Jelikož šlo o koupi na dálku a zboží bylo vráceno, dle odst. 2 spotřebitel nemusí vracet prostředky dříve, než mu prodávající vrátí kupní cenu. Sankce jsou vyloučeny.
+
+**5. Řešení.** Úvěr zanikl ze zákona; spotřebitel o tom informuje poskytovatele. Poskytovatel nemůže požadovat další splátky ani sankce. Nevrátí-li prodávající kupní cenu, poskytovatel za jeho dluh ručí (odst. 3), uznal-li jej prodávající písemně nebo byl-li přiznán rozhodnutím. Procesní krok: oznámení zániku a uplatnění ručení.
+
+**6. Varianty.** (a) Kdyby úvěr nebyl vázaný (obecný úvěr nezávislý na konkrétní koupi), odstoupení od koupě by sám úvěr neukončilo. (b) Kdyby koupě proběhla v kamenné prodejně a nešlo o odstoupení dle OZ, neuplatnilo by se pravidlo pořadí vrácení dle odst. 2.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Úvěr a koupě jsou samostatné smlouvy, zánik koupě se úvěru netýká." Neutralizace: u vázaného SÚ § 119 odst. 1 výslovně spojuje jejich osud — odstoupením od koupě úvěr zaniká.
+- *Protiargument:* „Spotřebitel musí ihned vrátit poskytnuté prostředky." Neutralizace: u koupě na dálku/mimo prostory a vráceného zboží neplatí dříve, než prodávající vrátí kupní cenu (odst. 2).
+- *Slabé místo:* ručení poskytovatele dle odst. 3 je podmíněno písemným uznáním dluhu prodávajícím nebo rozhodnutím orgánu veřejné moci — bez toho je obtížně vymahatelné.
+
+##### H. Praktický závěr
+
+§ 119 zajišťuje, že odstoupením od financované koupě automaticky zaniká i vázaný úvěr, bez sankcí. Spotřebitel je chráněn před dvojím zatížením a ručením poskytovatele za dluh prodávajícího.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda jde o vázaný SÚ propojený s konkrétní koupí.
+- [ ] Doložit platné odstoupení od kupní smlouvy a vrácení zboží.
+- [ ] Oznámit poskytovateli zánik úvěru; odmítnout sankce.
+- [ ] Při nevrácení kupní ceny uplatnit ručení poskytovatele (odst. 3).
+
+**Typicky rozhodné důkazy / podklady:** kupní a úvěrová smlouva s doložením vázanosti, odstoupení od koupě, doklad o vrácení zboží, písemné uznání dluhu prodávajícího nebo rozhodnutí orgánu veřejné moci.
+
 ---
 
 #### § 120 — Výpověď spotřebitelského úvěru
@@ -1802,6 +3684,42 @@ Spotřebitel má kratší výpovědní lhůtu — to ho **chrání** před nucen
 
 **Spotřebitel nesmí být zatížen úplatou** za podání výpovědi — pravidlo brání **„exit fees"** praktikám.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Spotřebitel má kontokorent (SÚ na dobu neurčitou) a chce jej ukončit. Banka mu sdělí, že výpovědní lhůta činí 3 měsíce a za podání výpovědi účtuje poplatek 500 Kč. Spotřebitel namítá nadměrnou lhůtu a nepřípustný poplatek. Důkazy: smlouva o kontokorentu, sazebník, výpověď.
+
+**2. Právní otázka.** Jaká je maximální výpovědní lhůta pro spotřebitele u SÚ na dobu neurčitou a smí poskytovatel požadovat úplatu za podání výpovědi?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 120 odst. 1 (právo spotřebitele kdykoli vypovědět SÚ na dobu neurčitou; výpovědní doba běží jen byla-li sjednána a nesmí být delší než 1 měsíc; zákaz úplaty za výpověď).
+- *Související ustanovení téhož zákona:* § 121 (ukončení čerpání poskytovatelem), § 117 (předčasné splacení), § 107 (kontokorent jako SÚ na dobu neurčitou).
+- *Související předpisy:* § 1998 a násl. OZ (výpověď závazku); CCD čl. 13 (výpověď úvěru na dobu neurčitou).
+- *Judikatura:* obecný princip, že spotřebitel nesmí být nucen setrvat ve smluvním vztahu ani zatížen sankcemi za jeho ukončení.
+
+**4. Subsumpce.** Kontokorent je SÚ na dobu neurčitou → uplatní se § 120. Sjednaná výpovědní lhůta 3 měsíce překračuje zákonný strop 1 měsíce — v přesahující části je neúčinná. Poplatek 500 Kč za podání výpovědi je v rozporu se zákazem úplaty za výpověď.
+
+**5. Řešení.** Výpovědní lhůta se redukuje na max. 1 měsíc; poplatek za výpověď nelze požadovat. Spotřebitel může vypovědět kdykoli; lhůta běží jen pokud byla (platně) sjednána. Praktický krok: podat výpověď a odmítnout poplatek.
+
+**6. Varianty.** (a) Kdyby výpovědní lhůta nebyla vůbec sjednána, výpověď by působila bez výpovědní doby. (b) Kdyby šlo o výpověď ze strany poskytovatele, platila by min. 2měsíční lhůta na ochranu spotřebitele před náhlou ztrátou úvěrového rámce.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Tříměsíční lhůta byla svobodně sjednána." Neutralizace: § 120 kogentně omezuje lhůtu pro spotřebitele na 1 měsíc; delší ujednání je v přesahu neúčinné.
+- *Protiargument:* „Poplatek kryje administrativní náklady ukončení." Neutralizace: zákon výslovně zakazuje úplatu za podání výpovědi bez ohledu na náklady.
+- *Slabé místo:* je třeba odlišit zákaz úplaty za výpověď od případné náhrady nákladů předčasného splacení dle § 117 — to jsou různé instituty.
+
+##### H. Praktický závěr
+
+§ 120 zaručuje spotřebiteli u SÚ na dobu neurčitou možnost kdykoli vypovědět smlouvu s výpovědní dobou nejvýše 1 měsíc a bez úplaty za výpověď. Poskytovatel má naopak delší (min. 2měsíční) lhůtu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že jde o SÚ na dobu neurčitou.
+- [ ] Zkontrolovat délku sjednané výpovědní lhůty spotřebitele (max. 1 měsíc).
+- [ ] Vyloučit jakoukoli úplatu za podání výpovědi.
+- [ ] U výpovědi poskytovatele ověřit dodržení delší (min. 2měsíční) lhůty.
+
+**Typicky rozhodné důkazy / podklady:** smlouva o SÚ (doba neurčitá, výpovědní ujednání), sazebník/ceník poplatků, výpověď s datem podání.
+
 ---
 
 #### § 121 — Ukončení čerpání spotřebitelského úvěru
@@ -1809,6 +3727,42 @@ Spotřebitel má kratší výpovědní lhůtu — to ho **chrání** před nucen
 § 121 umožňuje poskytovateli ze SÚ na dobu neurčitou **ukončit oprávnění čerpat** úvěr, je-li to ve smlouvě dohodnuto, a to z **objektivních důvodů**. Poskytovatel musí spotřebitele informovat **předem** (nebo bez zbytečného odkladu, není-li to možné) v listinné podobě nebo na trvalém nosiči dat.
 
 Toto pravidlo umožňuje poskytovateli reagovat na zhoršenou úvěruschopnost spotřebitele (např. významný pokles příjmů, prodlení s jinými dluhy) tím, že omezí další čerpání, aniž by musel vypovědět celou smlouvu (a vyžadoval okamžité splacení).
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Spotřebitel má sjednaný kontokorent na dobu neurčitou. Banka zjistí, že spotřebitel je výrazně v prodlení s jinými úvěry a jeho příjem poklesl. Smlouva obsahuje ujednání umožňující ukončit oprávnění čerpat z objektivních důvodů. Banka ukončení oznámí předem na trvalém nosiči dat. Spotřebitel namítá, že ukončení je svévolné. Důkazy: smlouva (ujednání), doklady o zhoršené bonitě, oznámení o ukončení čerpání.
+
+**2. Právní otázka.** Za jakých podmínek může poskytovatel ukončit oprávnění spotřebitele čerpat SÚ na dobu neurčitou a jaké jsou jeho povinnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 121 — poskytovatel může ukončit oprávnění čerpat SÚ na dobu neurčitou, je-li to dohodnuto a z objektivních důvodů; povinnost informovat předem (či bez zbytečného odkladu) na trvalém nosiči dat.
+- *Související ustanovení téhož zákona:* § 120 (výpověď SÚ na dobu neurčitou), § 86 (úvěruschopnost), § 122 a § 124 (prodlení a zesplatnění).
+- *Související předpisy:* CCD čl. 13 odst. 2 (ukončení práva čerpat); § 6 OZ (poctivost); § 2913 OZ (odpovědnost za škodu).
+- *Judikatura:* požadavek objektivnosti a předvídatelnosti důvodů zásahu poskytovatele do smluvního vztahu.
+
+**4. Subsumpce.** Smlouva obsahuje ujednání o možnosti ukončit čerpání (podmínka „je-li dohodnuto"). Zhoršená úvěruschopnost (prodlení, pokles příjmu) je objektivním důvodem. Banka splnila informační povinnost (předem, trvalý nosič). Podmínky § 121 jsou naplněny — ukončení čerpání je oprávněné a méně zatěžující než výpověď celé smlouvy.
+
+**5. Řešení.** Ukončení oprávnění čerpat je v souladu s § 121. Spotřebitel nadále splácí již čerpanou částku, nemůže však dále čerpat. Poskytovatel nemusel vypovídat celou smlouvu ani požadovat okamžité splacení. Procesní krok: ověřit dohodnutost a objektivnost důvodu a řádnost oznámení.
+
+**6. Varianty.** (a) Kdyby smlouva ukončení čerpání neumožňovala, poskytovatel by nemohl postupovat dle § 121. (b) Kdyby důvod nebyl objektivní (svévole bez vazby na bonitu), ukončení by bylo neoprávněné a mohlo by zakládat odpovědnost za škodu.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Ukončení čerpání je faktickou výpovědí bez dodržení lhůt § 120." Neutralizace: § 121 je samostatný institut umožňující omezit čerpání bez ukončení celé smlouvy; nevyžaduje výpovědní lhůty § 120.
+- *Protiargument:* „Důvod ukončení nebyl spotřebiteli dostatečně sdělen." Neutralizace: zákon vyžaduje informaci předem (nebo bez zbytečného odkladu) na trvalém nosiči — splnění je třeba doložit.
+- *Slabé místo:* „objektivní důvod" je neurčitý pojem; poskytovatel musí být schopen jej věcně odůvodnit, jinak hrozí námitka svévole a odpovědnost.
+
+##### H. Praktický závěr
+
+§ 121 umožňuje poskytovateli pružně reagovat na zhoršenou bonitu omezením dalšího čerpání, aniž by musel vypovědět celou smlouvu. Podmínkou je smluvní ujednání, objektivní důvod a řádná informace na trvalém nosiči.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda smlouva ukončení oprávnění čerpat umožňuje.
+- [ ] Doložit objektivní důvod (typicky zhoršená úvěruschopnost).
+- [ ] Zkontrolovat informování spotřebitele předem (či bez zbytečného odkladu) na trvalém nosiči dat.
+- [ ] Odlišit ukončení čerpání od výpovědi celé smlouvy (§ 120) a zesplatnění (§ 124).
+
+**Typicky rozhodné důkazy / podklady:** smlouva s ujednáním o ukončení čerpání, podklady prokazující objektivní důvod (bonita, prodlení), oznámení o ukončení čerpání s datem a formou doručení.
 
 ---
 
@@ -1869,6 +3823,42 @@ U dluhu, s jehož plněním je spotřebitel **v prodlení delším než 90 dnů*
 
 Odstavce 1, 2 a 4 se použijí **obdobně** i na **fyzické osoby, které nejsou spotřebiteli** (např. fyzická osoba podnikatel), pokud jsou v prodlení delším než 90 dnů. Toto pravidlo je **rozšířením ochrany** mimo úzký spotřebitelský okruh — chrání jakoukoli fyzickou osobu před šokovým růstem sankcí.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Spotřebitel se dostal do prodlení se splátkami úvěru 100 000 Kč. Smlouva sjednává smluvní pokutu 0,3 % denně z dlužné částky a paušální „náhradu nákladů" 5 000 Kč za každou upomínku. Po 5 měsících prodlení věřitel vyčíslí sankce přes 60 000 Kč. Spotřebitel namítá překročení limitů § 122. Důkazy: smlouva, vyčíslení sankcí, doklad o době a výši prodlení, repo sazba ČNB.
+
+**2. Právní otázka.** Jaké sankce za prodlení smí věřitel u SÚ sjednat a uplatnit, a jak se uplatní limity smluvní pokuty a pravidlo po 90 dnech prodlení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 122 odst. 1 (taxativní výčet — náhrada účelných nákladů, úroky z prodlení, smluvní pokuta), odst. 2 (max. 0,1 % denně + bagatelní výjimka), odst. 3 (souhrnný strop 0,5× výše úvěru, max. 200 000 Kč), odst. 4 (po 90 dnech jen úrok repo + 8 p.b.), odst. 5 (rozšíření na nespotřebitele).
+- *Související ustanovení téhož zákona:* § 124 (zesplatnění jen jistiny + výzva 30 dnů), § 117 (odlišení náhrady nákladů od sankcí), § 75–76 (odborná péče, zájmy spotřebitele).
+- *Související předpisy:* nařízení vlády č. 351/2013 Sb. (úroky z prodlení); § 2048 a násl. OZ (smluvní pokuta); § 1813 OZ (nepřiměřená ujednání).
+- *Judikatura:* **NSS 9 A 18/2023-76** (29. 5. 2025) — cílem § 122 je zamezit praktikám, kdy poskytovatel vydělává na (pečlivě propočítaném) prodlení spotřebitele a na nekonečném nárůstu sankcí.
+
+**4. Subsumpce.** Smluvní pokuta 0,3 % denně překračuje strop 0,1 % denně (odst. 2). Paušál 5 000 Kč za upomínku coby „náhrada nákladů" převyšující účelné náklady se v přesahu považuje za smluvní pokutu a sčítá se do limitů. Souhrn sankcí podléhá stropu odst. 3 (0,5× 100 000 = 50 000 Kč, max. 200 000 Kč). Při prodlení nad 90 dnů náleží jen úrok repo + 8 p.b. (odst. 4).
+
+**5. Řešení.** Sankce se redukují: smluvní pokuta max. 0,1 % denně, souhrn max. 50 000 Kč; po 90 dnech prodlení jen úrok repo + 8 p.b. „Náhrada nákladů" jen ve výši účelně vynaložených nákladů. Spotřebitel požaduje přepočet a odmítá nadlimitní část. Procesně: vyčíslit zákonné maximum a porovnat s požadavkem věřitele.
+
+**6. Varianty.** (a) Kdyby souhrn pokut v kalendářním roce nepřesáhl 3 000 Kč a žádná pokuta k jednotlivé splátce 500 Kč, uplatnila by se bagatelní výjimka odst. 2. (b) Kdyby dlužníkem byla fyzická osoba podnikatel v prodlení nad 90 dnů, uplatnily by se obdobně odst. 1, 2 a 4 (odst. 5).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Strany si vyšší smluvní pokutu svobodně sjednaly." Neutralizace: § 122 stanoví kogentní stropy; nadlimitní ujednání je v přesahu neúčinné bez ohledu na vůli stran.
+- *Protiargument:* „Paušál za upomínku je náhrada nákladů, ne pokuta." Neutralizace: náhrada vyšší než účelně vynaložené náklady se dle odst. 1 písm. a) v této části považuje za smluvní pokutu a podléhá limitům.
+- *Slabé místo:* je třeba pečlivě určit den překročení 90 dnů prodlení (od něj náleží jen úrok repo + 8 p.b.) a správné repo sazby k prvnímu dni pololetí.
+
+##### H. Praktický závěr
+
+§ 122 taxativně omezuje sankce za prodlení: smluvní pokuta max. 0,1 % denně, souhrnný strop 0,5× výše úvěru (max. 200 000 Kč) a po 90 dnech prodlení jen úrok repo + 8 p.b. Náhrada nad účelné náklady se přepočítává do limitů pokuty.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že sjednané sankce spadají do taxativního výčtu odst. 1.
+- [ ] Zkontrolovat denní limit smluvní pokuty (0,1 %) a bagatelní výjimku.
+- [ ] Aplikovat souhrnný strop (0,5× výše úvěru, max. 200 000 Kč).
+- [ ] Po 90 dnech prodlení omezit nárok na úrok repo + 8 p.b. (odst. 4).
+
+**Typicky rozhodné důkazy / podklady:** úvěrová smlouva (ujednání o sankcích), vyčíslení sankcí a upomínkových paušálů, doklad o dni a výši prodlení, hodnoty repo sazby ČNB k prvnímu dni rozhodného pololetí.
+
 ---
 
 #### § 123 — Výkon zástavního práva u spotřebitelského úvěru na bydlení
@@ -1893,6 +3883,42 @@ Pravidlo „**zástavní věřitel v této době nemůže zástavnímu dlužník
 
 Toto pravidlo je významným prvkem ochrany ekonomické hodnoty bydlení spotřebitele a brání ztrátě **rozdílu (equity)** mezi tržní cenou a výší úvěru, který by jinak připadl věřiteli/dražebníkovi.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Spotřebitel je v prodlení s hypotékou zajištěnou bytem (hodnota 4 mil. Kč, zbývající dluh 2 mil. Kč). Zástavní věřitel oznámí započetí výkonu zástavního práva a po 30 dnech (s odkazem na § 1364 OZ) hodlá byt zpeněžit v dražbě. Spotřebitel chce byt prodat sám za tržní cenu, aby si zachoval rozdíl 2 mil. Kč. Důkazy: úvěrová a zástavní smlouva, oznámení o započetí výkonu, ocenění bytu.
+
+**2. Právní otázka.** Od kdy nejdříve smí zástavní věřitel zpeněžit zástavu zajišťující SÚ na bydlení a může bránit dlužníkovi v samostatném prodeji?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 123 odst. 1 — zpeněžení nejdříve po 6 měsících od oznámení započetí výkonu; § 1364 OZ se nepoužije; věřitel nesmí bránit prodeji zástavy dlužníkem za účelem splacení dluhu.
+- *Související ustanovení téhož zákona:* § 113 (zástavní právo jako jediná forma zajištění nemovitosti), § 122 (limity sankcí), § 124 (zesplatnění jen jistiny).
+- *Související předpisy:* § 1359 a násl. OZ (výkon zástavního práva), § 1364 OZ (obecná 30denní lhůta — vyloučena), zákon č. 26/2000 Sb. o veřejných dražbách; MCD čl. 28.
+- *Judikatura:* ochrana ekonomické hodnoty (equity) bydlení spotřebitele; přednost samostatného prodeje před nuceným zpeněžením v dražbě.
+
+**4. Subsumpce.** Zástava zajišťuje SÚ na bydlení → uplatní se § 123, nikoli obecný § 1364 OZ. Zpeněžení po 30 dnech je předčasné — nejdříve lze po 6 měsících od oznámení. Současně věřitel nesmí bránit spotřebiteli v samostatném prodeji bytu k úhradě dluhu.
+
+**5. Řešení.** Věřitel musí vyčkat 6 měsíců; spotřebitel má v této době právo byt sám prodat za tržní cenu, splatit dluh a ponechat si rozdíl (equity). Spotřebitel se brání proti předčasnému zpeněžení (např. návrhem na odklad/zastavení) a aktivně hledá kupce. Procesní krok: doložit datum oznámení započetí výkonu.
+
+**6. Varianty.** (a) Kdyby zajištěný úvěr nebyl SÚ na bydlení, platila by obecná 30denní lhůta § 1364 OZ. (b) Kdyby spotřebitel během 6 měsíců byt prodal a dluh splatil, výkon zástavního práva by ztratil opodstatnění.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Platí obecná 30denní lhůta dle § 1364 OZ." Neutralizace: § 123 výslovně použití § 1364 OZ vylučuje a stanoví 6 měsíců.
+- *Protiargument:* „Věřitel může dlužníkův prodej zablokovat (souhlas zástavního věřitele)." Neutralizace: § 123 zakazuje věřiteli bránit prodeji zástavy dlužníkem za účelem splacení dluhu po dobu těchto 6 měsíců.
+- *Slabé místo:* spotřebitel musí v 6měsíční lhůtě reálně najít kupce a prodej zrealizovat; pasivita vede k následnému zpeněžení věřitelem.
+
+##### H. Praktický závěr
+
+§ 123 poskytuje vlastníkovi bydlení 6měsíční ochranu před zpeněžením zástavy a právo prodat nemovitost sám za tržní cenu. Vylučuje obecnou 30denní lhůtu OZ a chrání rozdíl mezi tržní cenou a dluhem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že jde o zástavu zajišťující SÚ na bydlení.
+- [ ] Zjistit datum oznámení započetí výkonu zástavního práva (počátek 6měsíční lhůty).
+- [ ] Vyloučit aplikaci § 1364 OZ (30 dnů).
+- [ ] Zajistit, že věřitel nebrání samostatnému prodeji dlužníkem za účelem splacení.
+
+**Typicky rozhodné důkazy / podklady:** úvěrová a zástavní smlouva, výpis z katastru, oznámení o započetí výkonu zástavního práva s datem, tržní ocenění nemovitosti, doklady o snaze dlužníka o prodej.
+
 ---
 
 #### § 124 — Změna splatnosti spotřebitelského úvěru v důsledku prodlení
@@ -1912,6 +3938,42 @@ Toto pravidlo brání **„úrokovému šoku"** při zesplatnění úvěru — s
 #### Povinné upozornění 30 dnů (věta druhá)
 
 Před zesplatněním úvěru musí věřitel **vyzvat spotřebitele k úhradě dlužné splátky** a poskytnout mu **lhůtu nejméně 30 dnů**. Tato lhůta dává spotřebiteli **poslední šanci** vyrovnat zpoždění před tvrdými důsledky zesplatnění. Pravidlo má **preventivně-výchovnou** funkci — brání náhlému zesplatnění úvěru, které by mohlo spotřebiteli způsobit nepřiměřené ekonomické problémy.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Spotřebitel se opozdil se dvěma splátkami hypotéky. Banka okamžitě (bez výzvy) zesplatnila celý úvěr a požaduje nejen nesplacenou jistinu 1,8 mil. Kč, ale i veškeré budoucí úroky do konce sjednané doby. Spotřebitel namítá nepřípustnost akcelerace budoucích nákladů a absenci výzvy. Důkazy: úvěrová smlouva, doklad o prodlení, sdělení o zesplatnění, vyčíslení požadované částky.
+
+**2. Právní otázka.** Může se v důsledku prodlení stát splatnou i budoucí složka nákladů úvěru a je věřitel povinen před zesplatněním spotřebitele vyzvat a poskytnout lhůtu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 124 — zesplatnění se týká jen nesplacené jistiny, nikoli budoucích nákladů; před zesplatněním věřitel vyzve k úhradě dlužné splátky a poskytne lhůtu alespoň 30 dnů.
+- *Související ustanovení téhož zákona:* § 122 (limity sankcí a pravidlo úroku po 90 dnech), § 117 (snížení nákladů při dřívějším splacení), § 123 (výkon zástavního práva u SÚ na bydlení).
+- *Související předpisy:* § 1931 a § 2010 OZ (splatnost a zesplatnění); § 6 OZ (poctivost); MCD/CCD (ochrana před nepřiměřenými následky prodlení).
+- *Judikatura:* princip, že akcelerace nesmí spotřebiteli ukládat fiktivní budoucí výnosy věřitele; požadavek předchozí výzvy a přiměřené lhůty.
+
+**4. Subsumpce.** Zesplatnění zasáhlo i budoucí úroky — to § 124 vylučuje; splatnou se stává jen nesplacená jistina. Banka navíc zesplatnila bez předchozí výzvy a 30denní lhůty → porušení druhé věty § 124. Akcelerace je tak v části budoucích nákladů neúčinná a samo zesplatnění předčasné.
+
+**5. Řešení.** Splatnou je pouze nesplacená jistina (1,8 mil. Kč), nikoli budoucí úroky a náklady. Bez předchozí výzvy a 30denní lhůty je zesplatnění neúčinné — věřitel musí spotřebitele nejdříve vyzvat a poskytnout alespoň 30 dnů. Spotřebitel odmítá budoucí náklady a uplatní vadu postupu. Procesní krok: doložit absenci výzvy.
+
+**6. Varianty.** (a) Kdyby věřitel řádně vyzval a poskytl 30denní lhůtu, kterou spotřebitel nevyužil, zesplatnění jistiny by bylo účinné. (b) Kdyby spotřebitel ve 30denní lhůtě dlužnou splátku uhradil, k zesplatnění by vůbec nedošlo.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Akcelerační doložka ve smlouvě činí splatným celý dluh včetně úroků." Neutralizace: § 124 kogentně omezuje akceleraci na nesplacenou jistinu; ujednání o splatnosti budoucích nákladů je neúčinné.
+- *Protiargument:* „Výzva je formalita, prodlení bylo zjevné." Neutralizace: předchozí výzva a 30denní lhůta jsou zákonnou podmínkou účinnosti zesplatnění, ne pouhou formalitou.
+- *Slabé místo:* je třeba doložit, zda a kdy byla výzva učiněna a zda lhůta dosáhla alespoň 30 dnů — od toho se odvíjí účinnost zesplatnění.
+
+##### H. Praktický závěr
+
+§ 124 omezuje akceleraci při prodlení na nesplacenou jistinu (bez budoucích nákladů) a podmiňuje zesplatnění předchozí výzvou s lhůtou alespoň 30 dnů. Brání úrokovému šoku a náhlému zesplatnění úvěru.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že zesplatnění zasahuje jen nesplacenou jistinu, ne budoucí náklady.
+- [ ] Zkontrolovat, zda věřitel před zesplatněním zaslal výzvu k úhradě dlužné splátky.
+- [ ] Ověřit poskytnutí lhůty alespoň 30 dnů.
+- [ ] Z požadované částky vyloučit budoucí úroky a náklady.
+
+**Typicky rozhodné důkazy / podklady:** úvěrová smlouva (akcelerační ujednání), doklad o prodlení, výzva k úhradě dlužné splátky s datem a lhůtou, sdělení o zesplatnění, vyčíslení nesplacené jistiny vs. budoucích nákladů.
 
 ---
 
