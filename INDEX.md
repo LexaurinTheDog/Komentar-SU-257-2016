@@ -18,3 +18,7 @@
 - **Úvěrové registry** — BRKI / NRKI / SOLUS / CRR ČNB
 - **Finanční arbitr** — z. 229/2002 (mimosoudní řešení sporů)
 - **ČNB** — dozor + povolovací orgán
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
