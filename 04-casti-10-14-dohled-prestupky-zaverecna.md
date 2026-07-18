@@ -891,6 +891,54 @@ Sankce **až 5 mil. Kč** je relativně mírná — zákonodárce vycházel z to
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=939a66944f8aa835b477 generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 147 — Přestupky fyzických osob
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se dopustí přestupku tím, že uvede nepravdivý, zavádějící nebo neúplný údaj nebo zatají některou skutečnost v žádosti o udělení oprávnění k činnosti podle tohoto zákona.
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu do 5 000 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=939a66944f8aa835b477 -->
+
 ### § 148 — Přestupky nebankovního poskytovatele spotřebitelského úvěru
 
 > **§ 148**
@@ -962,6 +1010,64 @@ Logika sazby: porušení kapitálu (a) je vážné, ale měřitelné a snadno na
 **Typicky rozhodné důkazy / podklady:** účetní závěrky a doklady o výši kapitálu, vnitřní předpisy a záznamy o jejich uplatňování (§ 15), registrové údaje a doklady o datech změn.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=16b93ae88c1243b47347 generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 148 — Přestupky nebankovního poskytovatele spotřebitelského úvěru
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> (1) Nebankovní poskytovatel spotřebitelského úvěru se dopustí přestupku tím, že
+>
+> - a) nesplní některý z požadavků na kapitál podle § 14 odst. 1,
+>
+> - b) nesplní některý z požadavků na výkon činnosti podle [[#§ 15|§ 15]], nebo
+>
+> - c) neoznámí bez zbytečného odkladu České národní bance změnu některého z údajů podle § 59 odst. 1, nebo k oznámení změny svých údajů přiloží doklady s nepravdivými, zavádějícími nebo neúplnými údaji.
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu do
+>
+> - a) 5 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) a c),
+>
+> - b) 20 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. b).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 14, § 15, § 59
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=16b93ae88c1243b47347 -->
 
 ### § 149 — Přestupky samostatného zprostředkovatele
 
@@ -1064,6 +1170,88 @@ Vrcholná sazba **20 mil. Kč** se aplikuje na (b–d) — porušení personáln
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=25a39fc80da9bb597c33 generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 149 — Přestupky samostatného zprostředkovatele
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> (1) Samostatný zprostředkovatel se dopustí přestupku tím, že
+>
+> - a) v rozporu s § 23 odst. 1 je při své činnosti podle tohoto zákona zastoupen jinou osobou,
+>
+> - b) v rozporu s § 23 odst. 2 provozuje svoji činnost prostřednictvím osob, které nesplňují podmínku odborné způsobilosti nebo důvěryhodnosti,
+>
+> - c) v rozporu s § 23 odst. 3 nezavede, neudržuje nebo neuplatňuje pravidla kontroly činnosti osob, prostřednictvím nichž provozuje svou činnost,
+>
+> - d) upraví pravidla odměňování osob, prostřednictvím nichž provozuje svou činnost, v rozporu s § 23 odst. 4,
+>
+> - e) v rozporu s [[#§ 24|§ 24]] nezavede, neudržuje nebo neuplatňuje postupy pro zjišťování a řízení střetu zájmů,
+>
+> - f) nesplní některou z povinností týkajících se systému vyřizování stížností podle [[#§ 25|§ 25]],
+>
+> - g) jako zastoupený
+>
+> - 1. neukončí okamžitě závazek ze smlouvy o zastoupení podle § 28 odst. 1,
+>
+> - 2. neoznámí České národní bance bez zbytečného odkladu zánik závazku ze smlouvy o zastoupení podle § 28 odst. 3,
+>
+> - 3. v rozporu s § 30 odst. 1 oznámí České národní bance vázaného zástupce, který nemá sídlo a skutečné sídlo na území České republiky,
+>
+> - 4. uvede nepravdivý, zavádějící nebo neúplný údaj nebo zatají některou skutečnost v oznámení vázaného zástupce nebo k takovému oznámení přiloží doklady s nepravdivými, zavádějícími nebo neúplnými údaji, nebo
+>
+> - 5. neuchovává dokumenty podle [[#§ 31|§ 31]],
+>
+> - h) neoznámí bez zbytečného odkladu České národní bance změnu některého z údajů podle § 59 odst. 1 nebo k oznámení změny údajů přiloží doklady s nepravdivými, zavádějícími nebo neúplnými údaji, nebo
+>
+> - i) sjedná pojistnou smlouvu o pojištění odpovědnosti za škodu způsobenou činností samostatného zprostředkovatele v rozporu s [[#§ 21|§ 21]].
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu do
+>
+> - a) 5 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), písm. g) bodů 3 až 5 a písm. h),
+>
+> - b) 10 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. e), f) a písm. g) bodů 1 a [[#§ 2|2]],
+>
+> - c) 20 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. b) až d), i).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 23, § 24, § 25, § 28, § 30, § 31, § 59, § 21, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=25a39fc80da9bb597c33 -->
+
 ### § 150 — Přestupky vázaného zástupce
 
 > **§ 150**
@@ -1125,6 +1313,58 @@ Sazba **5 mil. Kč** je jednotná — odpovídá omezenému profesnímu rozsahu 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b60d88d474b65273175f generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 150 — Přestupky vázaného zástupce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> (1) Vázaný zástupce se dopustí přestupku tím, že
+>
+> - a) neukončí okamžitě závazek ze smlouvy o zastoupení podle § 28 odst. 2, nebo
+>
+> - b) v rozporu s [[#§ 34|§ 34]] provozuje svoji činnost prostřednictvím jiné osoby.
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu do 5 000 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 28, § 34
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b60d88d474b65273175f -->
+
 ### § 151 — Přestupky zprostředkovatele vázaného spotřebitelského úvěru
 
 > **§ 151**
@@ -1180,6 +1420,58 @@ Sazba **5 mil. Kč** je jednotná — odpovídá omezenému profesnímu rozsahu 
 **Typicky rozhodné důkazy / podklady:** smlouva o zastoupení, doklad o zániku oprávnění, smlouva s třetí osobou/agenturou, záznamy o sjednaných úvěrech, registrová evidence.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=bae2019772bcab2bfc30 generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 151 — Přestupky zprostředkovatele vázaného spotřebitelského úvěru
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> (1) Zprostředkovatel vázaného spotřebitelského úvěru se dopustí přestupku tím, že
+>
+> - a) neukončí okamžitě závazek ze smlouvy o zastoupení podle § 38 odst. 2, nebo
+>
+> - b) v rozporu s [[#§ 44|§ 44]] provozuje svoji činnost prostřednictvím jiné osoby.
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu do 5 000 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 38, § 44
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bae2019772bcab2bfc30 -->
 
 ### § 152 — Přestupky zahraničního zprostředkovatele
 
@@ -1252,6 +1544,66 @@ Skutková podstata (c) je systémově nejnebezpečnější: zahraniční zprost�
 **Typicky rozhodné důkazy / podklady:** notifikace domovského orgánu a její datum, doklady o odborné způsobilosti pracovníků, identifikace poskytovatele a ověření jeho oprávnění v ČR, smlouvy o zprostředkování.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=452fdcb30995a28ee577 generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 152 — Přestupky zahraničního zprostředkovatele
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> (1) Zahraniční zprostředkovatel se dopustí přestupku tím, že
+>
+> - a) zahájí svou činnost na území České republiky v rozporu s § 47 odst. 2 dříve než po uplynutí 1 měsíce ode dne, kdy byl informován příslušným orgánem dohledu svého domovského členského státu o splnění informační povinnosti vůči České národní bance,
+>
+> - b) v rozporu s § 48 odst. 1 nebo [[#§ 2|2]] provozuje svoji činnost v České republice prostřednictvím osob, které nesplňují podmínky odborné způsobilosti, nebo
+>
+> - c) v rozporu s § 48 odst. 3 zprostředkovává v České republice spotřebitelský úvěr nabízený osobami, které nejsou na území České republice tento spotřebitelský úvěr oprávněny poskytovat.
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu do
+>
+> - a) 5 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a),
+>
+> - b) 10 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. b),
+>
+> - c) 20 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. c).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 47, § 48, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=452fdcb30995a28ee577 -->
 
 ### § 153 — Přestupky osoby oprávněné poskytovat nebo zprostředkovávat spotřebitelský úvěr
 
@@ -1384,6 +1736,104 @@ Logika: porušení (a) a (b) jsou „klauzule generální" — nejširší vodí
 **Typicky rozhodné důkazy / podklady:** smluvní a předsmluvní dokumentace, ceníky a doklady o účtovaných poplatcích, záznamy komunikace se spotřebiteli, vzorové ESIP/RPSN, svědectví spotřebitelů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c4548df4b33e9e3a8654 generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 153 — Přestupky osoby oprávněné poskytovat nebo zprostředkovávat spotřebitelský úvěr
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> (1) Ten, kdo je oprávněn poskytovat nebo zprostředkovávat spotřebitelský úvěr, se dopustí přestupku tím, že
+>
+> - a) v rozporu s [[#§ 75|§ 75]] neprovozuje svoji činnost s odbornou péčí,
+>
+> - b) v rozporu s § 76 odst. 1 nejedná čestně, transparentně nebo nezohledňuje práva a zájmy spotřebitele,
+>
+> - c) v rozporu s § 76 odst. 2 nejedná tak, aby bylo spotřebiteli zřejmé, zda jde o poskytovatele, samostatného zprostředkovatele, vázaného zástupce nebo zprostředkovatele vázaného spotřebitelského úvěru nebo v případě vázaného zástupce nebo zprostředkovatele vázaného spotřebitelského úvěru tak, aby byla zřejmá osoba zastoupeného,
+>
+> - d) komunikuje se spotřebitelem způsobem, který je v rozporu s [[#§ 77|§ 77]],
+>
+> - e) neuchovává dokumenty a záznamy podle [[#§ 78|§ 78]],
+>
+> - f) přijme, nabídne nebo poskytne pobídku v rozporu s [[#§ 79|§ 79]],
+>
+> - g) používá pojem nezávislý, jeho odvozeniny, významová synonyma, nebo překlady do jiného jazyka v rozporu s [[#§ 81|§ 81]],
+>
+> - h) v rozporu s § 82 odst. 1 vyžaduje od osoby, která se podílí nebo má podílet na poskytování nebo zprostředkování spotřebitelského úvěru, složení vstupní nebo jiné obdobné platby jako podmínky výplaty příštích odměn za tuto činnost,
+>
+> - i) v rozporu s § 82 odst. 2 odvozuje odměny osoby, která se podílí nebo má podílet na poskytování nebo zprostředkování spotřebitelského úvěru, od získání dalších osob pro tuto činnost touto osobou,
+>
+> - j) v rozporu s § 83 odst. 1 žádá úhradu odměny nebo jiné platby, na které mu nevzniklo právo, před uzavřením smlouvy o spotřebitelském úvěru,
+>
+> - k) nevydá spotřebiteli ocenění předmětu zajištění spotřebitelského úvěru podle § 83 odst. 2,
+>
+> - l) v rozporu s § 84 odst. 1
+>
+> - 1. nezveřejní nebo spotřebiteli nesdělí, jaké informace a doklady pro jejich ověření musí spotřebitel poskytovateli nebo zprostředkovateli poskytnout za účelem posouzení jeho úvěruschopnosti nebo poskytnutí rady ohledně výběru pro spotřebitele vhodného produktu spotřebitelského úvěru a dobu pro jejich poskytnutí, nebo
+>
+> - 2. žádá po spotřebiteli informace, které nejsou přiměřené a nezbytné,
+>
+> - m) v rozporu s § 84 odst. 3 neupozorní spotřebitele na to, že mu spotřebitelský úvěr neposkytne, pokud mu spotřebitel nesdělí úplné a pravdivé informace,
+>
+> - n) poskytne radu v rozporu s § 85 odst. 1,
+>
+> - o) v rozporu s § 85 odst. 2 nesdělí spotřebiteli počet produktů spotřebitelského úvěru, které jsou předmětem výběru,
+>
+> - p) neposkytne spotřebiteli záznam o radě podle § 85 odst. 3,
+>
+> - q) v rozporu s § 90 odst. 1 požaduje po spotřebiteli úplatu za poskytnutí informací,
+>
+> - r) v rozporu s § 90 odst. 2 neposkytne spotřebiteli informace v listinné podobě nebo na jiném trvalém nosiči dat,
+>
+> - s) nezajistí, aby jeho reklama obsahovala údaje podle [[#§ 91|§ 91]], nebo
+>
+> - t) nesplní některou z povinností týkajících se poskytnutí nebo vysvětlení předsmluvních informací podle § 94 až 100.
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu do
+>
+> - a) 5 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. c), e), l), m), o), p),
+>
+> - b) 10 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. d), f), g), h), i), j), k), n), s), t),
+>
+> - c) 20 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), b), q), r).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 75, § 76, § 77, § 78, § 79, § 81, § 82, § 83, § 84, § 85, § 90, § 91, § 94
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c4548df4b33e9e3a8654 -->
 
 ### § 154 — Přestupky osoby oprávněné poskytovat spotřebitelský úvěr
 
@@ -1584,6 +2034,156 @@ Logika: 20 mil. Kč je za porušení, která **přímo poškozují konkrétního
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=204f4497cb8bc4ea2b54 generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 154 — Přestupky osoby oprávněné poskytovat spotřebitelský úvěr
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> (1) Ten, kdo je oprávněn poskytovat spotřebitelský úvěr, se dopustí přestupku tím, že
+>
+> - a) v rozporu s § 8 odst. 1 je při své činnosti podle tohoto zákona zastoupen jinou osobou,
+>
+> - b) v rozporu s § 8 odst. 2 provozuje svoji činnost prostřednictvím osob, které nesplňují podmínky odborné způsobilosti a důvěryhodnosti,
+>
+> - c) pokud není nebankovním poskytovatelem spotřebitelského úvěru, v rozporu s § 8 odst. 3 nezavede nebo neuplatňuje
+>
+> - 1. pravidla odměňování nebo pravidla kontroly osob, prostřednictvím nichž provozuje svou činnost,
+>
+> - 2. pravidla a postupy pro posuzování úvěruschopnosti spotřebitele, nebo
+>
+> - 3. pravidla pro jednání se spotřebiteli, kteří jsou v prodlení,
+>
+> - d) jako zastoupený
+>
+> - 1. neukončí okamžitě závazek ze smlouvy o zastoupení podle § 28 odst. 1,
+>
+> - 2. neoznámí České národní bance bez zbytečného odkladu zánik závazku ze smlouvy o zastoupení podle § 28 odst. 3,
+>
+> - 3. v rozporu s § 30 odst. 1 oznámí České národní bance vázaného zástupce, který nemá sídlo a skutečné sídlo na území České republiky,
+>
+> - 4. uvede nepravdivý, zavádějící nebo neúplný údaj nebo zatají některou skutečnost v oznámení vázaného zástupce podle [[#§ 30|§ 30]], nebo k takovému oznámení přiloží doklady s nepravdivými, zavádějícími nebo neúplnými údaji,
+>
+> - 5. neuchovává dokumenty podle [[#§ 31|§ 31]],
+>
+> - 6. neukončí okamžitě závazek ze smlouvy o zastoupení podle § 38 odst. 1,
+>
+> - 7. neoznámí České národní bance bez zbytečného odkladu zánik závazku ze smlouvy o zastoupení podle § 38 odst. 3,
+>
+> - 8. v rozporu s § 40 odst. 1 oznámí České národní bance zprostředkovatele vázaného spotřebitelského úvěru, která nemá sídlo a skutečné sídlo na území České republiky,
+>
+> - 9. uvede nepravdivý, zavádějící nebo neúplný údaj nebo zatají některou skutečnost v oznámení zprostředkovatele vázaného spotřebitelského úvěru podle [[#§ 40|§ 40]], nebo k takovému oznámení přiloží doklady s nepravdivými, zavádějícími nebo neúplnými údaji,
+>
+> - 10. neuchovává dokumenty podle [[#§ 41|§ 41]], nebo
+>
+> - 11. neoznámí bez zbytečného odkladu České národní bance změnu údajů podle § 59 odst. 1 nebo k oznámení změny údajů přiloží doklady s nepravdivými, zavádějícími nebo neúplnými údaji,
+>
+> - e) poskytne spotřebitelský úvěr v rozporu s § 86 odst. 1,
+>
+> - f) použije údaje získané z databáze v rozporu s § 88 odst. 2,
+>
+> - g) neinformuje spotřebitele o svém záměru vyhledávat v databázi podle § 88 odst. 3,
+>
+> - h) neinformuje spotřebitele o důvodech odmítnutí poskytnout spotřebitelský úvěr podle [[#§ 89|§ 89]],
+>
+> - i) nezpřístupní informace podle [[#§ 92|§ 92]],
+>
+> - j) nesplní některou z průběžných informačních povinností podle § 101 až 103,
+>
+> - k) uzavře smlouvu o spotřebitelském úvěru v rozporu s [[#§ 104|§ 104]],
+>
+> - l) v rozporu s § 105 odst. 1 neposkytne spotřebiteli v listinné podobě nebo na jiném trvalém nosiči dat alespoň jedno vyhotovení smlouvy o spotřebitelském úvěru neprodleně po uzavření této smlouvy,
+>
+> - m) v rozporu s § 105 odst. 2 nepředloží spotřebiteli závazný návrh smluvních podmínek, které mají být obsahem smlouvy o spotřebitelském úvěru, v podobě návrhu textu této smlouvy,
+>
+> - n) nezajistí, aby smlouva o spotřebitelském úvěru obsahovala informace podle § 106 až 109,
+>
+> - o) neuzavře se spotřebitelem smlouvu o spotřebitelském úvěru na bydlení podle [[#§ 111|§ 111]],
+>
+> - p) v rozporu s § 112 odst. 1 použije směnku nebo šek ke splacení nebo zajištění spotřebitelského úvěru,
+>
+> - q) zajistí spotřebitelský úvěr na bydlení v rozporu s § 112 odst. 2 nebo nevrátí spotřebiteli směnku podle § 112 odst. 2,
+>
+> - r) zajistí spotřebitelský úvěr v rozporu s [[#§ 113|§ 113]],
+>
+> - s) použije telefonní číslo pro přístup ke službám s vyjádřenou cenou v rozporu s [[#§ 114|§ 114]],
+>
+> - t) váže uzavření smlouvy o spotřebitelském úvěru na uzavření smlouvy, ve které se sjednává doplňková služba, nebo omezuje spotřebitele při výběru doplňkové služby v rozporu s [[#§ 115|§ 115]],
+>
+> - u) neumožní spotřebiteli změnu měny podle § 116 odst. 1 nebo nezajistí jiné mechanismy k omezení rizika vyplývajícího ze změny směnného kurzu podle § 116 odst. 2,
+>
+> - v) neumožní spotřebiteli předčasné splacení spotřebitelského úvěru podle § 117 odst. 1,
+>
+> - w) požaduje náhradu nákladů za předčasné splacení spotřebitelského úvěru v rozporu s § 117 odst. 3 až 5, nebo
+>
+> - x) neposkytne spotřebiteli informace podle § 117 odst. 6.
+>
+> (2) Ten, kdo je oprávněn poskytovat spotřebitelský úvěr, se dopustí přestupku tím, že
+>
+> - a) v rozporu s § 118 odst. 1 a [[#§ 2|2]] neumožní nebo ztíží spotřebiteli odstoupení od smlouvy,
+>
+> - b) požaduje po spotřebiteli plnění v rozporu s § 118 odst. 3,
+>
+> - c) neinformuje třetí osobu o odstoupení spotřebitele od smlouvy o spotřebitelském úvěru podle § 118 odst. 5,
+>
+> - d) uplatní vůči spotřebiteli sankce za odstoupení od smlouvy o vázaném spotřebitelském úvěru v rozporu s § 119 odst. 1,
+>
+> - e) neumožní spotřebiteli vypovědět spotřebitelský úvěr sjednaný na dobu neurčitou podle § 120 odst. 1,
+>
+> - f) vypoví spotřebitelský úvěr sjednaný na dobu neurčitou v rozporu s § 120 odst. 2,
+>
+> - g) požaduje po spotřebiteli platbu v rozporu s [[#§ 122|§ 122]],
+>
+> - h) vymáhá po spotřebiteli dluh v rozporu s [[#§ 123|§ 123]], nebo
+>
+> - i) zesplatní spotřebiteli spotřebitelský úvěr v rozporu s [[#§ 124|§ 124]].
+>
+> (3) Za přestupek podle odstavců 1 a [[#§ 2|2]] lze uložit pokutu do
+>
+> - a) 5 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. d) bodů 1, [[#§ 2|2]], [[#§ 3|3]], [[#§ 4|4]], [[#§ 5|5]], [[#§ 6|6]], [[#§ 7|7]], [[#§ 8|8]], [[#§ 9|9]],[[#§ 10|10]] a [[#§ 11|11]], písm. h) a odstavce 2 písm. c),
+>
+> - b) 10 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), b), c) bodů 1 a [[#§ 3|3]], písm. f), g), i), j), m), u),
+>
+> - c) 20 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. c) bodu 2, písm. e), k), l), n), o), p), q), r), s), t), v), w), x) a odstavce 2 písm. a), b), d), e), f), g), h), i).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 8, § 28, § 30, § 31, § 38, § 40, § 41, § 59, § 86, § 88, § 89, § 92, § 101, § 104, § 105, § 106, § 111, § 112, § 113, § 114, § 115, § 116, § 117, § 118, § 2, § 119, § 120, § 122, § 123, § 124, § 3, § 4, § 5, § 6, § 7, § 9, § 10, § 11
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=204f4497cb8bc4ea2b54 -->
+
 ### § 155 — Přestupky osoby oprávněné zprostředkovávat spotřebitelský úvěr
 
 > **§ 155**
@@ -1684,6 +2284,90 @@ Vrcholná sazba **20 mil. Kč** dopadá na 12 ze 15 skutkových podstat — výr
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5546a017d9309a7d6ca2 generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 155 — Přestupky osoby oprávněné zprostředkovávat spotřebitelský úvěr
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> (1) Ten, kdo je oprávněn zprostředkovávat spotřebitelský úvěr, se dopustí přestupku tím, že
+>
+> - a) přijme odměnu od poskytovatele v rozporu s [[#§ 80|§ 80]],
+>
+> - b) neposkytne spotřebiteli některou z informací podle § 93 odst. 1 nebo [[#§ 3|3]],
+>
+> - c) nesdělí poskytovateli výši své odměny podle § 93 odst. 2,
+>
+> - d) v rozporu s § 105 odst. 1 neposkytne spotřebiteli v listinné podobě nebo na jiném trvalém nosiči dat alespoň jedno vyhotovení smlouvy o spotřebitelském úvěru neprodleně po uzavření této smlouvy,
+>
+> - e) v rozporu s § 105 odst. 2 nepředloží spotřebiteli závazný návrh smluvních podmínek, které mají být obsahem smlouvy o spotřebitelském úvěru, v podobě návrhu textu této smlouvy,
+>
+> - f) uzavře smlouvu o zprostředkování spotřebitelského úvěru v rozporu s [[#§ 125|§ 125]],
+>
+> - g) v rozporu s [[#§ 126|§ 126]] neposkytne spotřebiteli v listinné podobě nebo na jiném trvalém nosiči dat alespoň jedno vyhotovení smlouvy o zprostředkování spotřebitelského úvěru neprodleně po uzavření této smlouvy,
+>
+> - h) požaduje po spotřebiteli zaplacení odměny před datem její splatnosti, které je uvedeno ve smlouvě o zprostředkování spotřebitelského úvěru,
+>
+> - i) nezajistí, aby smlouva o zprostředkování spotřebitelského úvěru obsahovala informace podle [[#§ 127|§ 127]],
+>
+> - j) v rozporu s § 128 odst. 1 použije směnku nebo šek ke splnění nebo zajištění splnění povinnosti vyplývající ze smlouvy o zprostředkování spotřebitelského úvěru,
+>
+> - k) použije telefonní číslo pro přístup ke službám s vyjádřenou cenou v rozporu s [[#§ 129|§ 129]],
+>
+> - l) v rozporu s [[#§ 130|§ 130]] podmiňuje zprostředkování spotřebitelského úvěru uzavřením jiné smlouvy,
+>
+> - m) neumožní nebo ztíží spotřebiteli odstoupení od smlouvy podle [[#§ 131|§ 131]],
+>
+> - n) požaduje po spotřebiteli platbu v rozporu s [[#§ 132|§ 132]], nebo
+>
+> - o) přijme splátku dluhu nebo zprostředkuje výplatu sjednaného spotřebitelského úvěru v rozporu s [[#§ 162|§ 162]].
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu do
+>
+> - a) 5 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. b), c),
+>
+> - b) 10 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. e),
+>
+> - c) 20 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), d), f), g), h), i), j), k), l), m), n), o).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 80, § 93, § 3, § 105, § 125, § 126, § 127, § 128, § 129, § 130, § 131, § 132, § 162
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5546a017d9309a7d6ca2 -->
+
 ### § 156 — Přestupky akreditované osoby
 
 > **§ 156**
@@ -1760,6 +2444,74 @@ Ostatní sazby (10 / 5 mil. Kč) odpovídají různým stupňům závažnosti fo
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o akreditaci a jeho rozsah, seznam vydaných osvědčení, zkušební protokoly a otázky, archivační dokumentace, evidence ČNB.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f8a35ee8314b2df5540e generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 156 — Přestupky akreditované osoby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> (1) Akreditovaná osoba se dopustí přestupku tím, že
+>
+> - a) uspořádá odbornou zkoušku v rozporu s rozsahem udělené akreditace,
+>
+> - b) uvede nepravdivé, zavádějící nebo neúplné údaje v žádosti o prodloužení akreditace, nebo k ní přiloží doklady s nepravdivými, zavádějícími nebo neúplnými údaji,
+>
+> - c) neinformuje Českou národní banku o změně údajů podle [[#§ 66|§ 66]],
+>
+> - d) postupuje při provádění odborných zkoušek v rozporu s § 69 odst. 1 až 3,
+>
+> - e) neinformuje zkoušeného bez zbytečného odkladu o výsledku odborné zkoušky podle § 69 odst. 4,
+>
+> - f) nevydá osvědčení o úspěšném vykonání odborné zkoušky podle [[#§ 70|§ 70]], nebo
+>
+> - g) neuchovává dokumenty týkající se provádění odborných zkoušek podle [[#§ 71|§ 71]].
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu do
+>
+> - a) 5 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. b), c), e), f),
+>
+> - b) 10 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. d), g),
+>
+> - c) 20 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 66, § 69, § 70, § 71
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f8a35ee8314b2df5540e -->
 
 ### § 157 — Přestupky právnických a podnikajících fyzických osob
 
@@ -1849,6 +2601,74 @@ Pokud žádost o licenci podává **fyzická osoba** s nepravdivými údaji, jde
 **Typicky rozhodné důkazy / podklady:** registr ČNB (absence licence), vzorové a uzavřené smlouvy, bankovní výpisy o poskytnutých úvěrech, žádost o licenci, výzvy ČNB a doklady o (ne)součinnosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b3ea0719c462bcc3e846 generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 157 — Přestupky právnických a podnikajících fyzických osob
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> (1) Právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že
+>
+> - a) jako žadatel o udělení oprávnění k činnosti nebankovního poskytovatele spotřebitelského úvěru uvede v žádosti nepravdivý, zavádějící nebo neúplný údaj nebo v ní neuvede některou skutečnost,
+>
+> - b) jako žadatel o udělení oprávnění k činnosti samostatného zprostředkovatele uvede v žádosti nepravdivý, zavádějící nebo neúplný údaj nebo v ní neuvede některou skutečnost,
+>
+> - c) jako žadatel o akreditaci uvede v žádosti nepravdivý, zavádějící nebo neúplný údaj nebo v ní neuvede některou skutečnost,
+>
+> - d) v rozporu s [[#§ 7|§ 7]] neoprávněně poskytuje spotřebitelský úvěr,
+>
+> - e) v rozporu s [[#§ 16|§ 16]] neoprávněně zprostředkovává spotřebitelský úvěr, nebo
+>
+> - f) neposkytne České národní bance při výkonu dohledu potřebnou součinnost podle § 135 odst. 2.
+>
+> (2) Právnická nebo podnikající fyzická osoba podléhající dohledu České národní banky se dopustí přestupku tím, že nesplní ve stanovené lhůtě některou z povinností uloženou rozhodnutím o opatření k nápravě vydaným podle § 145 odst. 1, [[#§ 2|2]], [[#§ 3|3.]]
+>
+> (3) Za přestupek podle odstavců 1 a [[#§ 2|2]] lze uložit pokutu do
+>
+> - a) 5 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. f) a odstavce 2,
+>
+> - b) 10 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) až c),
+>
+> - c) 20 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. d) a e).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 7, § 16, § 135, § 145, § 2, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b3ea0719c462bcc3e846 -->
 
 ### Společná ustanovení k přestupkům
 
@@ -2053,6 +2873,52 @@ Rozhodnutí musí být zveřejněno **nejméně 5 let**. Po této době může �
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5f0ef88dac360180184c generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 160 — Zmocnění
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> Česká národní banka vydá vyhlášku podle § 11 odst. 5, § 12 odst. 3, § 13 odst. 3, § 14 odst. 3, § 19 odst. 4, § 20 odst. 3, § 22 odst. 3, § 30 odst. 4, § 32 odst. 6, § 33 odst. 4, § 40 odst. 4, § 42 odst. 5, § 43 odst. 4, § 59 odst. 5, § 60 odst. 6, § 63 odst. 3, § 64 odst. 4, § 65 odst. 4, § 66 odst. 2, § 68 odst. 4, § 69 odst. 5 a § 117a odst. 4.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 11, § 12, § 13, § 14, § 19, § 20, § 22, § 30, § 32, § 33, § 40, § 42, § 43, § 59, § 60, § 63, § 64, § 65, § 66, § 68, § 69, § 117a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5f0ef88dac360180184c -->
+
 ### § 161 — Neoprávněné poskytování spotřebitelského úvěru
 
 > **§ 161**
@@ -2117,6 +2983,52 @@ Neoprávněné poskytování úvěru může současně zakládat **trestní odpo
 **Typicky rozhodné důkazy / podklady:** smlouva o úvěru, výpis z registru ČNB, doklady o čerpání a splátkách, výpočet zaplacené jistiny a ostatních plateb.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=32a7ae982e8f5e384e25 generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 161 — Neoprávněné poskytování spotřebitelského úvěru
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> Je-li spotřebitelský úvěr poskytnut osobou, která není oprávněna poskytovat spotřebitelský úvěr, platí, že spotřebitelský úvěr není úročen a k jiným ujednáním o platbách na spotřebitelský úvěr se nepřihlíží.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=32a7ae982e8f5e384e25 -->
 
 ### § 162 — Výběr splátek dluhu a vyplácení spotřebitelského úvěru
 
@@ -2207,6 +3119,62 @@ Výjimka „ledaže spotřebitel věděl" je **subjektivně formulována** — d
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3ce0dd63bc5364968d80 generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 162 — Výběr splátek dluhu a vyplácení spotřebitelského úvěru
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> (1) Vybírá-li splátky dluhu nebo zprostředkovává-li výplatu sjednaného spotřebitelského úvěru vázaný zástupce poskytovatele nebo zprostředkovatel vázaného spotřebitelského úvěru, může tak činit pouze v hotovosti a bylo-li tak ujednáno v písemné formě s poskytovatelem a je-li takové ujednání součástí smlouvy o spotřebitelském úvěru.
+>
+> (2) Vybírá-li vázaný zástupce poskytovatele nebo zprostředkovatel vázaného spotřebitelského úvěru od spotřebitele splátky dluhu, je povinen
+>
+> - a) vydat spotřebiteli potvrzení a
+>
+> - b) přijatou splátku dluhu bez zbytečného odkladu vložit na účet poskytovatele nebo ji předat poskytovateli v hotovosti.
+>
+> (3) Splátka dluhu uhrazená spotřebitelem poskytovateli prostřednictvím jeho vázaného zástupce nebo zprostředkovatele vázaného spotřebitelského úvěru podle odstavce 1 se považuje za splátku dluhu uhrazenou poskytovateli. Spotřebitelský úvěr vyplacený poskytovatelem prostřednictvím jeho vázaného zástupce nebo zprostředkovatele vázaného spotřebitelského úvěru spotřebiteli podle odstavce 1 se považuje za vyplacený okamžikem, kdy jej spotřebitel skutečně obdrží.
+>
+> (4) Odstavec 3 se použije, i když vázaný zástupce poskytovatele nebo zprostředkovatel vázaného spotřebitelského úvěru pozbyl oprávnění k činnosti, nebo zanikl-li závazek mezi vázaným zástupcem nebo zprostředkovatelem vázaného spotřebitelského úvěru a poskytovatelem, ledaže spotřebitel věděl, že vázaný zástupce poskytovatele nebo zprostředkovatel vázaného spotřebitelského úvěru není oprávněn plnění poskytnout nebo přijmout.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3ce0dd63bc5364968d80 -->
+
 ### § 163 — Prokazování bezúhonnosti zahraničních osob
 
 > **§ 163**
@@ -2285,6 +3253,62 @@ Odst. 4–6 obsahují **analogická pravidla pro právnické osoby** — sídlo,
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=cd1a1ebd4ab1ada13e85 generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 163 — Prokazování bezúhonnosti zahraničních osob
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> (1) Dokladem bezúhonnosti fyzické osoby, která není státním občanem České republiky, je doklad odpovídající výpisu z Rejstříku trestů vydaný státem, jehož je občanem, jakož i státem, ve kterém se v posledních 3 letech zdržovala nepřetržitě po dobu delší než 3 měsíce. To platí obdobně i v případě státního občana České republiky, který se v posledních 3 letech zdržoval nepřetržitě po dobu delší než 3 měsíce v zahraničí.
+>
+> (2) Jestliže stát, jehož je zahraniční fyzická osoba občanem, nebo stát, ve kterém se v posledních 3 letech osoba zdržovala nepřetržitě po dobu více než 3 měsíců, nevydává doklad obdobný výpisu z Rejstříku trestů, považuje se za rovnocenný doklad o bezúhonnosti této fyzické osoby doklad vydaný příslušným soudem nebo správním úřadem státu, jehož je fyzická osoba občanem, nebo státu, ve kterém se v posledních 3 letech osoba zdržovala nepřetržitě po dobu více než 3 měsíců.
+>
+> (3) Nevydává-li stát doklad podle odstavce 2, považuje se za rovnocenný doklad místopřísežné prohlášení nebo čestné prohlášení, ne starší 3 měsíců, učiněné fyzickou osobou před příslušným soudem nebo správním úřadem anebo před notářem státu, jehož je fyzická osoba občanem, nebo státu, ve kterém se v posledních 3 letech osoba zdržovala nepřetržitě po dobu více než 3 měsíců. Pravost místopřísežného nebo čestného prohlášení musí být potvrzena soudem, správním úřadem nebo notářem.
+>
+> (4) Dokladem bezúhonnosti právnické osoby se sídlem mimo území České republiky je doklad obdobný výpisu z Rejstříku trestů vydaný státem, ve kterém tato osoba působila tak, že zde měla sídlo anebo alespoň provozovala svoji činnost nebo zde měla svůj majetek, jakož i státy, ve kterých v posledních 3 letech přede dnem, ke kterému se prokazuje bezúhonnost, působila nepřetržitě po dobu více než 3 měsíců. To platí obdobně i v případě tuzemské právnické osoby, která v posledních 3 letech nepřetržitě po dobu 3 měsíců působila v zahraničí.
+>
+> (5) Jestliže stát, ve kterém právnická osoba působí, nebo stát, ve kterém právnická osoba v posledních 3 letech působila nepřetržitě po dobu více než 3 měsíců, nevydává doklad obdobný výpisu z Rejstříku trestů, považuje se za rovnocenný doklad o bezúhonnosti této právnické osoby doklad vydaný příslušným soudem nebo správním úřadem státu, ve kterém právnická osoba působí, nebo státu, ve kterém v posledních 3 letech přede dnem, ke kterému se prokazuje bezúhonnost, působila nepřetržitě po dobu více než 3 měsíců.
+>
+> (6) Nevydává-li stát doklad podle odstavce 5, považuje se za rovnocenný doklad místopřísežné prohlášení nebo čestné prohlášení, ne starší 3 měsíců, učiněné právnickou osobou před příslušným soudem nebo správním úřadem anebo před notářem státu, ve kterém právnická osoba působí, nebo státu, ve kterém v posledních 3 letech taková právnická osoba působila nepřetržitě po dobu více než 3 měsíců. Pravost místopřísežného nebo čestného prohlášení musí být potvrzena soudem, správním úřadem nebo notářem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cd1a1ebd4ab1ada13e85 -->
+
 ## Část třináctá — Přechodná ustanovení
 
 > **Účel části:** Organizovat **přechod ze starého režimu** zákona č. 145/2010 Sb. a živnostenského podnikání na nový **licenční režim ČNB**. Klíčové dimenze: (i) co se starými úvěrovými smlouvami (princip zachování dosavadní úpravy + opt-in), (ii) jak dlouho mohou bývalí živnostníci podnikat než dostanou (nebo nedostanou) licenci ČNB, (iii) jak se dokončí starší řízení, (iv) jak se prokazuje odborná způsobilost ve výjimkové počáteční době.
@@ -2353,6 +3377,52 @@ Některé instituty však §§ 165–168 **i přesto vztahují na staré smlouvy
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=52dadbf3fe523be627a8 generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 164 — Všeobecná ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> Není-li dále stanoveno jinak, řídí se práva a povinnosti ze smlouvy o spotřebitelském úvěru uzavřené přede dnem nabytí účinnosti tohoto zákona dosavadními právními předpisy. To nebrání ujednání stran, že se tato jejich práva a povinnosti budou řídit tímto zákonem ode dne nabytí jeho účinnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=52dadbf3fe523be627a8 -->
+
 ### § 165 — Posouzení úvěruschopnosti spotřebitele
 
 > **§ 165**
@@ -2404,6 +3474,52 @@ Co je „**významné navýšení**" — zákon nedefinuje, judikatura zpravidla
 **Typicky rozhodné důkazy / podklady:** původní smlouva, dodatek o navýšení, dokumentace o posouzení úvěruschopnosti, příjmové a výdajové podklady spotřebitele.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=7cc8c8e1180ebcdfbaf9 generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 165 — Posouzení úvěruschopnosti spotřebitele
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> Ustanovení [[#§ 86|§ 86]] se použije, dojde-li ode dne nabytí účinnosti tohoto zákona k významnému navýšení celkové výše spotřebitelského úvěru sjednaného přede dnem nabytí účinnosti tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 86
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7cc8c8e1180ebcdfbaf9 -->
 
 ### § 166 — Informační povinnosti
 
@@ -2463,6 +3579,56 @@ Dvě výjimky řeší **přechodný šok** u úvěrů na bydlení:
 **Typicky rozhodné důkazy / podklady:** smlouva o úvěru na bydlení, doklady o zveřejnění a sdělení změn sazby, podklady o referenční sazbě, komunikace se spotřebitelem.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b5f7ace701b61fb57ef7 generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 166 — Informační povinnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> Ustanovení [[#§ 101|§ 101]] a [[#§ 102|102]] se ode dne nabytí účinnosti tohoto zákona použijí i na závazek ze smlouvy o spotřebitelském úvěru uzavřené přede dnem nabytí účinnosti tohoto zákona s výjimkou
+>
+> - a) § 102 odst. 3, který se nepoužije na spotřebitelský úvěr na bydlení s pevnou zápůjční úrokovou sazbou na určité období o délce nejméně 1 roku, po němž následuje další období s pevnou zápůjční úrokovou sazbou o délce nejméně 1 roku, u něhož končí období se stanovenou pevnou zápůjční úrokovou sazbou do konce třetího měsíce po nabytí účinnosti tohoto zákona, a
+>
+> - b) § 102 odst. 4, který se nepoužije na spotřebitelský úvěr na bydlení s variabilní úrokovou sazbou; pro spotřebitelský úvěr na bydlení s variabilní úrokovou sazbou mohou být informace podle § 102 odst. 1 nebo [[#§ 2|2]] poskytovány spotřebiteli pravidelně a v přiměřeném intervalu a informace uvedené v § 102 odst. 2 mohou být součástí informací podle § 101 odst. 1, je-li změna zápůjční úrokové sazby závislá na změně referenční sazby a je-li taková změna referenční sazby vhodným způsobem zveřejněna, zpřístupněna v provozovnách poskytovatele a v případě spotřebitelského úvěru na bydlení sdělena přímo spotřebiteli.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 101, § 102, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b5f7ace701b61fb57ef7 -->
 
 ### § 167 — Předčasné splacení
 
@@ -2524,6 +3690,56 @@ Tím SÚ významně zvýhodnil spotřebitele i u starších úvěrů a vyvolal v
 **Typicky rozhodné důkazy / podklady:** smlouva o úvěru na bydlení, harmonogram fixací, výpočet zůstatku a požadované náhrady, doklady o účelně vynaložených nákladech poskytovatele.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1dc40a4a9536fc38c95a generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 167 — Předčasné splacení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> Ustanovení tohoto zákona upravující předčasné splacení spotřebitelského úvěru na bydlení se použijí i na smlouvy o spotřebitelském úvěru na bydlení uzavřené přede dnem nabytí účinnosti tohoto zákona s
+>
+> - a) pevnou zápůjční úrokovou sazbou ode dne, kdy po dni nabytí účinnosti tohoto zákona započalo běžet nové období, pro které byla stanovena pevná zápůjční úroková sazba, nebo
+>
+> - b) variabilní zápůjční úrokovou sazbou ode dne nabytí účinnosti tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1dc40a4a9536fc38c95a -->
 
 ### § 168 — Prodlení spotřebitele
 
@@ -2601,6 +3817,58 @@ Odst. 4 chrání věřitele před retroaktivním přepočtem: platby, na které 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3b6b8dbc3a5b17d9eefb generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 168 — Prodlení spotřebitele
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> (1) Dostal-li se spotřebitel do prodlení s plněním povinností vyplývajících ze smlouvy o spotřebitelském úvěru nebo ze smlouvy o zprostředkování spotřebitelského úvěru po dni nabytí účinnosti tohoto zákona, použijí se namísto příslušných ustanovení smlouvy o spotřebitelském úvěru nebo smlouvy o zprostředkování spotřebitelského úvěru, pokud jsou s tímto zákonem v rozporu, ustanovení § 122 až 124 a [[#§ 132|§ 132]], i když byla smlouva uzavřena přede dnem nabytí jeho účinnosti.
+>
+> (2) Byl-li přede dnem nabytí účinnosti tohoto zákona sjednán úrok z prodlení, který převyšuje úrok z prodlení nejvýše přípustný podle tohoto zákona, považuje se rozdíl mezi uplatněným a nejvýše přípustným úrokem z prodlení pro účely § 122 odst. 1 písm. a) za náklady, které věřiteli vznikly v souvislosti s prodlením spotřebitele; v rozsahu, v němž tento rozdíl převyšuje účelně vynaložené náklady, se tento rozdíl pro účely § 122 odst. 2 a [[#§ 3|3]] považuje za smluvní pokutu.
+>
+> (3) Byla-li přede dnem nabytí účinnosti tohoto zákona sjednána smluvní pokuta, která převyšuje smluvní pokutu nejvýše přípustnou podle tohoto zákona, považuje se rozdíl mezi uplatněnou a nejvýše přípustnou smluvní pokutou pro účely § 122 odst. 1 písm. a) za náklady, které věřiteli vznikly v souvislosti s prodlením spotřebitele; v rozsahu, v němž tento rozdíl převyšuje účelně vynaložené náklady, se tento rozdíl pro účely § 122 odst. 1 písm. b) považuje za úrok z prodlení.
+>
+> (4) Platby související s prodlením spotřebitele, na které vzniklo věřiteli právo do dne nabytí účinnosti tohoto zákona, se nezapočítávají do souhrnu výše všech uplatněných smluvních pokut podle § 122 odst. 3.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 122, § 132, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3b6b8dbc3a5b17d9eefb -->
+
 ### § 169 — Oprávnění poskytovatele
 
 > **§ 169**
@@ -2676,6 +3944,60 @@ Datum **20. 3. 2014** je dnem, kdy nabyla účinnosti MCD (čl. 42). Poskytovate
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=dd4a2170b8b6dddb1d08 generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 169 — Oprávnění poskytovatele
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> (1) Ten, kdo byl přede dnem nabytí účinnosti tohoto zákona oprávněn poskytovat spotřebitelský úvěr na základě živnostenského oprávnění, může provozovat tuto činnost na základě živnostenského oprávnění do doby, než Česká národní banka rozhodne o žádosti o udělení oprávnění k činnosti některé z osob uvedených v [[#§ 7|§ 7]], nejdéle však do 18 měsíců ode dne nabytí účinnosti tohoto zákona, pokud tuto žádost podal do 3 měsíců ode dne nabytí účinnosti tohoto zákona. Marným uplynutím této lhůty jeho oprávnění k poskytování spotřebitelského úvěru zaniká.
+>
+> (2) O udělení oprávnění k činnosti na základě přijaté žádosti Česká národní banka rozhodne ve lhůtě 15 měsíců.
+>
+> (3) Ten, kdo byl přede dnem nabytí účinnosti tohoto zákona oprávněn poskytovat spotřebitelský úvěr jiný než na bydlení, uvede své poměry do souladu s [[#§ 8|§ 8]] do 3 měsíců ode dne nabytí účinnosti tohoto zákona, není-li dále stanoveno jinak.
+>
+> (4) Ten, kdo byl přede dnem nabytí účinnosti tohoto zákona oprávněn poskytovat spotřebitelský úvěr na bydlení, uvede své poměry do souladu s [[#§ 8|§ 8]] s výjimkou požadavku na plnění podmínek odborné způsobilosti do 3 měsíců ode dne nabytí účinnosti tohoto zákona.
+>
+> (5) Ten, kdo byl oprávněn poskytovat spotřebitelský úvěr na bydlení před 20. březnem 2014, splní požadavek na plnění podmínek odborné způsobilosti uvedený v [[#§ 8|§ 8]] do 21. března 2017, není-li dále stanoveno jinak.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 7, § 8
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dd4a2170b8b6dddb1d08 -->
+
 ### § 170 — Oprávnění zprostředkovatele spotřebitelského úvěru jiného než na bydlení
 
 > **§ 170**
@@ -2744,6 +4066,56 @@ K této problematice se SDEU vyjadřoval (např. ve věcech Lexitor C-383/18, Bo
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f5593788d6f3e566582a generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 170 — Oprávnění zprostředkovatele spotřebitelského úvěru jiného než na bydlení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> (1) Ten, kdo byl přede dnem nabytí účinnosti tohoto zákona oprávněn zprostředkovávat spotřebitelský úvěr jiný než na bydlení, může provozovat tuto činnost do doby, než Česká národní banka rozhodne o žádosti o udělení oprávnění k činnosti samostatného zprostředkovatele nebo zapíše vázaného zástupce nebo zprostředkovatele vázaného spotřebitelského úvěru do registru nebo informuje zastoupeného o neprovedení zápisu, pokud do 3 měsíců ode dne nabytí účinnosti tohoto zákona podal žádost o oprávnění k činnosti samostatného zprostředkovatele nebo byl zastoupeným oznámen jako vázaný zástupce nebo zprostředkovatel vázaného spotřebitelského úvěru. Marným uplynutím této lhůty jeho oprávnění ke zprostředkování spotřebitelského úvěru jiného než na bydlení zaniká.
+>
+> (2) O udělení oprávnění k činnosti samostatného zprostředkovatele na základě přijaté žádosti Česká národní banka rozhodne nebo vázaného zástupce nebo zprostředkovatele vázaného spotřebitelského úvěru zapíše do registru nebo informuje zastoupeného o neprovedení zápisu ve lhůtě 15 měsíců; [[části druhá|části druhá]] a [[třetí|třetí]] [[správního řádu|správního řádu]] se nepoužijí.
+>
+> (3) Ten, kdo byl přede dnem nabytí účinnosti tohoto zákona oprávněn zprostředkovávat spotřebitelský úvěr jiný než na bydlení, uvede své poměry do souladu s [[#§ 23|§ 23]] do 3 měsíců ode dne nabytí účinnosti tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 23
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f5593788d6f3e566582a -->
+
 ### § 171 — Oprávnění zprostředkovatele spotřebitelského úvěru na bydlení
 
 > **§ 171**
@@ -2811,6 +4183,60 @@ Po dobu, kdy bývalý zprostředkovatel pokračuje v činnosti na základě **st
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=45f674c6c2e3d6dc0fa1 generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 171 — Oprávnění zprostředkovatele spotřebitelského úvěru na bydlení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> (1) Ten, kdo byl oprávněn zprostředkovávat spotřebitelský úvěr na bydlení přede dnem nabytí účinnosti tohoto zákona, může provozovat tuto činnost do doby, než Česká národní banka rozhodne o žádosti o udělení oprávnění k činnosti samostatného zprostředkovatele nebo zapíše vázaného zástupce do registru podle tohoto zákona nebo informuje zastoupeného o neprovedení zápisu, pokud do 3 měsíců ode dne nabytí účinnosti tohoto zákona podal žádost o oprávnění k činnosti samostatného zprostředkovatele, nebo byl zastoupeným oznámen jako vázaný zástupce. Marným uplynutím této lhůty jeho oprávnění ke zprostředkování spotřebitelského úvěru na bydlení zaniká.
+>
+> (2) O udělení oprávnění k činnosti samostatného zprostředkovatele na základě přijaté žádosti Česká národní banka rozhodne nebo vázaného zástupce zapíše do registru nebo informuje zastoupeného o neprovedení zápisu do 21. března 2017; [[části druhá|části druhá]] a [[třetí|třetí]] [[správního řádu|správního řádu]] se nepoužijí.
+>
+> (3) Po dobu, po kterou ten, kdo byl oprávněn zprostředkovávat spotřebitelský úvěr na bydlení přede dnem nabytí účinnosti tohoto zákona, zprostředkovává spotřebitelský úvěr na bydlení podle odstavce 1, není oprávněn zprostředkovávat spotřebitelský úvěr na bydlení v jiném členském státě bez příslušného oprávnění vydaného tímto jiným členským státem.
+>
+> (4) Ten, kdo byl přede dnem nabytí účinnosti tohoto zákona oprávněn zprostředkovávat spotřebitelský úvěr na bydlení na základě jiného zákona, uvede své poměry do souladu s [[#§ 23|§ 23]] s výjimkou požadavku na plnění podmínek odborné způsobilosti do 3 měsíců ode dne nabytí účinnosti tohoto zákona.
+>
+> (5) Ten, kdo byl před 20. březnem 2014 oprávněn zprostředkovávat spotřebitelský úvěr na bydlení na základě jiného zákona, splní požadavek na plnění podmínek odborné způsobilosti uvedený v § 23 odst. 2 do 21. března 2017.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 23
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=45f674c6c2e3d6dc0fa1 -->
+
 ### § 172 — Oznamování vázaných zástupců a zprostředkovatelů vázaného spotřebitelského úvěru
 
 > **§ 172**
@@ -2872,6 +4298,54 @@ Banky oprávněné dle starého režimu zprostředkovávat úvěr **automaticky*
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5dbb84c3fc252aa5e978 generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 172 — Oznamování vázaných zástupců a zprostředkovatelů vázaného spotřebitelského úvěru
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka zapíše při splnění podmínek podle § 29 odst. 1 nebo § 39 odst. 1 do registru i vázaného zástupce nebo zprostředkovatele vázaného spotřebitelského úvěru oznámeného osobou, která byla oprávněna poskytovat nebo zprostředkovávat spotřebitelský úvěr na základě živnostenského oprávnění, pokud požádala o udělení oprávnění k činnosti některé z osob uvedených v [[#§ 7|§ 7]] ve lhůtě podle § 169 odst. 1, nebo samostatného zprostředkovatele ve lhůtě podle § 170 odst. 1 nebo § 171 odst. 1.
+>
+> (2) Česká národní banka zapíše při splnění podmínek podle § 29 odst. 1 nebo § 39 odst. 1 do registru i vázaného zástupce oznámeného bankou oprávněnou zprostředkovávat spotřebitelský úvěr, pokud banka zažádala o udělení oprávnění k činnosti samostatného zprostředkovatele.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 29, § 39, § 7, § 169, § 170, § 171
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5dbb84c3fc252aa5e978 -->
+
 ### § 173 — Výkon kontroly Českou obchodní inspekcí
 
 > **§ 173**
@@ -2926,6 +4400,52 @@ Toto je transitivní řešení: stát potřebuje, aby starý subjekt **někdo** 
 **Typicky rozhodné důkazy / podklady:** živnostenské oprávnění, žádost o licenci a rozhodnutí ČNB, kontrolní výzvy ČOI/ČNB, časové údaje pro určení příslušnosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9f7bd57ccd91c9d7b2ea generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 173 — Výkon kontroly Českou obchodní inspekcí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> Kontrolu nad osobami oprávněnými poskytovat a zprostředkovávat spotřebitelský úvěr na základě živnostenského oprávnění získaného přede dnem nabytí účinnosti tohoto zákona vykonává Česká obchodní inspekce do doby, než Česká národní banka rozhodne o udělení oprávnění k činnosti podle tohoto zákona, nejdéle však po dobu 18 měsíců ode dne nabytí účinnosti tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9f7bd57ccd91c9d7b2ea -->
 
 ### § 174 — Zánik živnostenského oprávnění poskytovat nebo zprostředkovávat spotřebitelský úvěr
 
@@ -3006,6 +4526,66 @@ Tento mechanismus zajistil, že po skončení přechodného období (max. 31. 5.
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=05b51a918b4afbc206d6 generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 174 — Zánik živnostenského oprávnění poskytovat nebo zprostředkovávat spotřebitelský úvěr
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> (1) Živnostenské oprávnění k poskytování nebo zprostředkování spotřebitelského úvěru zaniká vedle marného uplynutí lhůty podle § 169 odst. 1, § 170 odst. 1 nebo § 171 odst. 1 také rozhodnutím České národní banky o žádosti o udělení oprávnění k činnosti některé z osob uvedených v [[#§ 7|§ 7]] nebo samostatného zprostředkovatele nebo zápisem oprávnění k činnosti vázaného zástupce nebo zprostředkovatele vázaného spotřebitelského úvěru do registru nebo oznámením o neprovedení zápisu zastoupenému.
+>
+> (2) Česká národní banka do 4 měsíců ode dne nabytí účinnosti tohoto zákona živnostenskému úřadu oznámí,
+>
+> - a) kteří držitelé živnostenského oprávnění k poskytování nebo zprostředkování úvěrů do 3 měsíců ode dne nabytí účinnosti tohoto zákona požádali o udělení oprávnění k činnosti
+>
+> - 1. některé z osob uvedených v [[#§ 7|§ 7]], nebo
+>
+> - 2. samostatného zprostředkovatele a
+>
+> - b) které osoby byly zastoupeným do 3 měsíců ode dne nabytí účinnosti tohoto zákona České národní bance oznámeny jako vázaní zástupci nebo zprostředkovatelé vázaného spotřebitelského úvěru.
+>
+> (3) Česká národní banka živnostenskému úřadu oznámí, jak o přijaté žádosti podle odstavce 2 písm. a) rozhodla, nebo zda vázaného zástupce nebo zprostředkovatele vázaného spotřebitelského úvěru na základě přijatého oznámení podle odstavce 2 písm. b) zapsala anebo zastoupenému oznámila, že zápis nebyl proveden.
+>
+> (4) Příslušný živnostenský úřad vyznačí v živnostenském rejstříku zánik příslušného živnostenského oprávnění do 5 pracovních dnů od obdržení oznámení České národní banky podle odstavce 2 nebo [[#§ 3|3.]]
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 169, § 170, § 171, § 7, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=05b51a918b4afbc206d6 -->
+
 ### § 175 — Dokončení zahájených řízení
 
 > **§ 175**
@@ -3073,6 +4653,58 @@ Odst. 4 je zvláště významný: žádost banky o oprávnění zprostředkováv
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=259a1f339c8987f517c7 generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 175 — Dokončení zahájených řízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> (1) Řízení zahájená přede dnem nabytí účinnosti tohoto zákona, která nebyla pravomocně skončena, se dokončí podle dosavadních právních předpisů, není-li dále stanoveno jinak.
+>
+> (2) Řízení zahájené Českou obchodní inspekcí v souvislosti s výkonem kontroly po dni nabytí účinnosti tohoto zákona dokončí Česká obchodní inspekce.
+>
+> (3) Řízení zahájené živnostenským úřadem v souvislosti s výkonem živnostenské kontroly po dni nabytí účinnosti tohoto zákona dokončí živnostenský úřad.
+>
+> (4) Žádost banky o oprávnění k činnosti umožňující zprostředkování spotřebitelského úvěru podaná přede dnem nabytí účinnosti tohoto zákona, o které nebylo pravomocně rozhodnuto do dne nabytí účinnosti tohoto zákona, se dnem nabytí účinnosti tohoto zákona považuje za žádost o udělení oprávnění k činnosti samostatného zprostředkovatele podle tohoto zákona a v řízení se postupuje podle tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=259a1f339c8987f517c7 -->
+
 ### § 176 — Prokazování odborné způsobilosti
 
 > **§ 176**
@@ -3139,6 +4771,56 @@ To ochránilo desetitisíce stávajících pracovníků bank a finančních inst
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e85dd278f904c6b38b3f generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 176 — Prokazování odborné způsobilosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> (1) Do 24 měsíců ode dne nabytí účinnosti tohoto zákona lze odborné znalosti a dovednosti pro poskytování nebo zprostředkování spotřebitelského úvěru prokázat též čestným prohlášením osoby oprávněné poskytovat nebo zprostředkovávat spotřebitelský úvěr. Čestné prohlášení se může týkat pouze pracovníků osoby oprávněné poskytovat nebo zprostředkovávat spotřebitelský úvěr, jejích vázaných zástupců nebo zprostředkovatelů vázaného spotřebitelského úvěru pro ni činných. Osoba oprávněná poskytovat nebo zprostředkovávat spotřebitelský úvěr, která je fyzickou osobou, může učinit čestné prohlášení sama o sobě.
+>
+> (2) Poskytovatel a zprostředkovatel a jejich pracovníci jsou povinni získat všeobecné znalosti potvrzené odpovídajícím dokladem podle § 60 odst. 2 nejpozději do 42 měsíců ode dne nabytí účinnosti tohoto zákona.
+>
+> (3) Fyzické osoby, které ke dni nabytí účinnosti tohoto zákona nepřetržitě alespoň po dobu 3 let poskytovaly nebo zprostředkovávaly spotřebitelský úvěr, nebo se jako pracovníci osoby oprávněné poskytovat nebo zprostředkovávat spotřebitelský úvěr přímo podílely na poskytování nebo zprostředkování spotřebitelského úvěru nebo byly za poskytování nebo zprostředkování spotřebitelského úvěru zodpovědné, nejsou povinny získat všeobecné znalosti potvrzené odpovídajícím dokladem podle § 60 odst. 2.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 60
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e85dd278f904c6b38b3f -->
+
 ### § 177 — Rozhodný den
 
 > **§ 177**
@@ -3190,6 +4872,52 @@ To ochránilo desetitisíce stávajících pracovníků bank a finančních inst
 **Typicky rozhodné důkazy / podklady:** pracovní smlouva a datum nástupu, doklad o výkonu funkce člena dozorčího orgánu před 1. 12. 2016, vnitřní evidence pracovníků poskytovatele.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=fd2f193c1d2b302b8b1b generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 177 — Rozhodný den
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> Zahájil-li pracovník nebo člen dozorčího orgánu poskytovatele nebo zprostředkovatele činnost přede dnem nabytí účinnosti podle tohoto zákona, je rozhodným dnem podle [[#§ 74|§ 74]] den nabytí účinnosti tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 74
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fd2f193c1d2b302b8b1b -->
 
 ## Část čtrnáctá — Závěrečná ustanovení
 
@@ -3261,6 +4989,57 @@ Volba **úplně nového zákona** namísto rozsáhlé novely starého byla záko
 **Typicky rozhodné důkazy / podklady:** smlouva o spotřebitelském úvěru s datem uzavření, předsmluvní informace a reklama s datem poskytnutí, znění zrušeného zákona č. 145/2010 Sb. a novely č. 43/2013 Sb.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=074e0b66674c4bce0786 generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 178 — Zrušovací ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> Zrušuje se:
+>
+> - 1. [[Zákon č. 145/2010 Sb., o spotřebitelském úvěru a o změně některých zákonů|Zákon č. 145/2010 Sb., o spotřebitelském úvěru a o změně některých zákonů]].
+>
+> - 2. [[Zákon č. 43/2013 Sb., kterým se mění zákon č. 145/2010 Sb., o spotřebitelském úvěru a o změně některých zákonů|Zákon č. 43/2013 Sb., kterým se mění zákon č. 145/2010 Sb., o spotřebitelském úvěru a o změně některých zákonů]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- zákon č. 145/2010 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 43/2013 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=074e0b66674c4bce0786 -->
 
 ### § 179 — Účinnost
 
@@ -3341,6 +5120,52 @@ Standardní triáda podpisů podle čl. 51 Ústavy.
 **Typicky rozhodné důkazy / podklady:** částka 99 Sbírky zákonů s datem vyhlášení, datace jednotlivých posuzovaných úkonů adresáta, případné přechodné lhůty dle §§ 175–177.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=251dcd1d0e02250562c4 generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 179 — Účinnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> Tento zákon nabývá účinnosti prvním dnem čtvrtého kalendářního měsíce následujícího po dni jeho vyhlášení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=251dcd1d0e02250562c4 -->
 
 ## Shrnutí — co Část desátá až čtrnáctá v praxi znamená
 

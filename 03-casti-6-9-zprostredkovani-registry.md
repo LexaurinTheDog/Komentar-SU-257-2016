@@ -3933,6 +3933,64 @@ Do RPSN se zahrnují veškeré náklady úvěru včetně povinných doplňkovýc
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9dea6366cf1678bfc5db generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 138 — Dohled nad zahraničním zprostředkovatelem zprostředkovávajícím spotřebitelský úvěr na bydlení v České republice
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> (1) Dohled nad dodržováním povinností podle § 3 odst. 2 písm. b), § 48 odst. 1 a [[#§ 3|3]], § 75 až 85, § 90 až 94, § 95 odst. 2 a [[#§ 133|§ 133]] a [[#§ 134|134]] zahraničním zprostředkovatelem, který zprostředkovává spotřebitelský úvěr na bydlení v České republice prostřednictvím pobočky, vykonává Česká národní banka.
+>
+> (2) V případě, že zahraniční zprostředkovatel podle odstavce 1 neplní své povinnosti uvedené v odstavci 1, Česká národní banka jej na tuto skutečnost upozorní a požádá jej o zjednání nápravy. Nezjedná-li tento zahraniční zprostředkovatel nápravu, může mu Česká národní banka uložit opatření k nápravě. O uloženém opatření informuje Česká národní banka příslušný orgán dohledu zahraničního zprostředkovatele.
+>
+> (3) Jestliže opatření přijatá podle odstavce 2 nevedla k nápravě, Česká národní banka po informování příslušného orgánu dohledu zahraničního zprostředkovatele může uložit další opatření k nápravě nebo pokutu za přestupek podle § 152 odst. 1, § 153 odst. 1 nebo § 155 odst. 1. Přijatá opatření oznámí Česká národní banka bez zbytečného odkladu Evropské komisi.
+>
+> (4) V případě, že Česká národní banka zjistí, že zahraniční zprostředkovatel, který zprostředkovává spotřebitelský úvěr na bydlení v České republice jinak než prostřednictvím pobočky, porušil povinnost uloženou tímto zákonem na základě práva Evropské unie takovému zprostředkovateli, nebo v případě, že Česká národní banka zjistí, že zahraniční zprostředkovatel, který zprostředkovává spotřebitelský úvěr na bydlení v České republice prostřednictvím pobočky, porušil povinnost stanovenou takovému zprostředkovateli na základě práva Evropské unie jinou než uvedenou v odstavci 1, Česká národní banka tuto skutečnost oznámí orgánu dohledu domovského státu.
+>
+> (5) V případě, že příslušný orgán domovského členského státu zahraničního zprostředkovatele nepřijme do jednoho měsíce od obdržení upozornění podle odstavce 4 žádná opatření, nebo v případě, že zahraniční zprostředkovatel podle odstavce 4 přes opatření přijatá příslušným orgánem domovského členského státu poškozuje nebo ohrožuje svým jednáním zájmy spotřebitelů v České republice, Česká národní banka
+>
+> - a) oznámí tuto skutečnost příslušnému orgánu dohledu domovského členského státu a poté uloží opatření k nápravě nebo pokutu za přestupek podle § 152 odst. 1, § 153 odst. 1 nebo § 155 odst. 1 a informuje o přijatých opatřeních bez zbytečného odkladu Evropskou Komisi a Evropský orgán pro bankovnictví, nebo
+>
+> - b) požádá Evropský orgán pro bankovnictví o pomoc v souladu s nařízením (EU) č. [[1093/2010|1093/2010]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3, § 48, § 75, § 90, § 95, § 133, § 134, § 152, § 153, § 155
+
+##### Souvisící předpisy
+
+- akt EU 1093/2010 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9dea6366cf1678bfc5db -->
+
 ### § 139 — Dohled nad zprostředkovatelem spotřebitelského úvěru na bydlení provozujícím svoji činnost na území hostitelského členského státu
 
 #### F. Kazuistika
@@ -3973,6 +4031,52 @@ U tuzemského zprostředkovatele úvěru na bydlení působícího v zahraničí
 **Typicky rozhodné důkazy / podklady:** pasport a notifikace, korespondence mezi orgány dohledu, zjištění hostitelského orgánu, podklady o jednání se spotřebiteli, doklady o opatřeních ČNB.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=576b0980ebc7a520b5d4 generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 139 — Dohled nad zprostředkovatelem spotřebitelského úvěru na bydlení provozujícím svoji činnost na území hostitelského členského státu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> Dohled nad dodržováním povinností podle tohoto zákona při zprostředkování spotřebitelského úvěru na bydlení samostatným zprostředkovatelem a vázaným zástupcem poskytovatele v hostitelském členském státu vykonává Česká národní banka, s výjimkou dohledu nad plněním povinností podle § 138 odst. 1 při činnosti těchto osob v hostitelském členském státu prostřednictvím pobočky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 138
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=576b0980ebc7a520b5d4 -->
 
 ### § 140 — Spolupráce příslušných orgánů dohledu
 
@@ -4042,6 +4146,54 @@ Dohled nad zahraničním zprostředkovatelem úvěru na bydlení je rozdělen me
 **Typicky rozhodné důkazy / podklady:** notifikace pasportu, evidence ČNB, korespondence se spotřebiteli, marketingové materiály, záznamy o radě, doklady o jednotlivých eskalačních krocích a komunikaci s domovským orgánem dohledu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=569bcc298ddb3bc3f929 generator=2026-07-17.4 source_sha256=3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e -->
+#### Revizní doplnění k § 140 — Spolupráce příslušných orgánů dohledu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 9. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/257-2016 Zákon o spotřebitelském úvěru.md`; identifikátor verze: `SB-2016-00257_2024-09-01`; SHA-256: `3518d1dca4ac5a263d26bc7898ce82a50f3520d319c9f638b1608e4f3135860e`.
+
+##### Znění ustanovení
+
+> (1) Pokud je to nezbytné pro výkon dohledu podle tohoto zákona, může Česká národní banka požádat příslušný orgán dohledu jiného členského státu o spolupráci při výkonu dohledu nad zprostředkováním spotřebitelského úvěru na bydlení u samostatného zprostředkovatele nebo vázaného zástupce poskytovatele.
+>
+> (2) Česká národní banka na základě žádosti příslušného orgánu dohledu o spolupráci při výkonu dohledu poskytne součinnost při jejím provedení tomuto orgánu dohledu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=569bcc298ddb3bc3f929 -->
 
 ## Shrnutí výkladu — propojení institutů kapitoly
 
